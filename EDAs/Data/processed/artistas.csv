@@ -1,0 +1,1372 @@
+cancion,artistas,discografica,coste,id_artista,id_discografica,genero
+blues.00000.wav,Stevie Ray Vaughan,Sun Records,744.01,1,1,blues
+blues.00001.wav,Sonny Boy Williamson,Epic Records,4178.85,2,2,blues
+blues.00001.wav,Buddy Guy,Epic Records,4178.85,3,2,blues
+blues.00002.wav,Muddy Waters,Merge Records,3226.4,4,3,blues
+blues.00002.wav,Bessie Smith,Merge Records,3226.4,5,3,blues
+blues.00003.wav,Freddie King,Republic Records,3618.77,6,4,blues
+blues.00004.wav,Memphis Minnie,Jive Records,1990.81,7,5,blues
+blues.00004.wav,Bonnie Raitt,Jive Records,1990.81,8,5,blues
+blues.00005.wav,Magic Sam,Polydor Records,909.81,9,6,blues
+blues.00005.wav,Susan Tedeschi,Polydor Records,909.81,10,6,blues
+blues.00006.wav,Howlin' Wolf,Arista Records,2311.44,11,7,blues
+blues.00006.wav,Robert Johnson,Arista Records,2311.44,12,7,blues
+blues.00007.wav,Elmore James,Tommy Boy Entertainment,2794.92,13,8,blues
+blues.00008.wav,Little Walter,XL Recordings,2844.92,14,9,blues
+blues.00009.wav,Memphis Minnie,Atlantic Records,3760.17,7,10,blues
+blues.00010.wav,Willie Dixon,Republic Records,469.62,15,4,blues
+blues.00010.wav,Lightnin' Hopkins,Republic Records,469.62,16,4,blues
+blues.00011.wav,B.B. King,Jive Records,2218.73,17,5,blues
+blues.00012.wav,Bessie Smith,Tommy Boy Entertainment,2661.39,5,8,blues
+blues.00013.wav,R.L. Burnside,RCA Records,2221.79,18,11,blues
+blues.00013.wav,Blind Willie Johnson,RCA Records,2221.79,19,11,blues
+blues.00014.wav,Etta James,Sun Records,4224.17,20,1,blues
+blues.00014.wav,Willie Dixon,Sun Records,4224.17,15,1,blues
+blues.00015.wav,Bonnie Raitt,Island Records,3879.51,8,12,blues
+blues.00015.wav,Magic Sam,Island Records,3879.51,9,12,blues
+blues.00016.wav,Blind Willie Johnson,Atlantic Records,3341.37,19,10,blues
+blues.00016.wav,Willie Dixon,Atlantic Records,3341.37,15,10,blues
+blues.00016.wav,Johnny Winter,Atlantic Records,3341.37,21,10,blues
+blues.00017.wav,Taj Mahal,Wind-Up Records,3816.85,22,13,blues
+blues.00017.wav,Bonnie Raitt,Wind-Up Records,3816.85,8,13,blues
+blues.00017.wav,Willie Dixon,Wind-Up Records,3816.85,15,13,blues
+blues.00018.wav,Memphis Minnie,Warner Music Group,3692.17,7,14,blues
+blues.00018.wav,Susan Tedeschi,Warner Music Group,3692.17,10,14,blues
+blues.00018.wav,John Lee Hooker,Warner Music Group,3692.17,23,14,blues
+blues.00019.wav,Albert King,Sire Records,1587.4,24,15,blues
+blues.00020.wav,Johnny Winter,Def Jam Recordings,3826.86,21,16,blues
+blues.00021.wav,Little Walter,Arista Records,2076.21,14,7,blues
+blues.00022.wav,Taj Mahal,Rough Trade Records,4368.04,22,17,blues
+blues.00023.wav,Lightnin' Hopkins,Rough Trade Records,3641.53,16,17,blues
+blues.00024.wav,Eric Clapton,Atlantic Records,2590.22,25,10,blues
+blues.00025.wav,Bonnie Raitt,Epic Records,3399.84,8,2,blues
+blues.00026.wav,Buddy Guy,Wind-Up Records,3024.35,3,13,blues
+blues.00027.wav,Muddy Waters,Rough Trade Records,3465.55,4,17,blues
+blues.00028.wav,Lead Belly,Sun Records,3276.56,26,1,blues
+blues.00028.wav,Little Walter,Sun Records,3276.56,14,1,blues
+blues.00029.wav,Susan Tedeschi,Wind-Up Records,3719.39,10,13,blues
+blues.00030.wav,Susan Tedeschi,Polydor Records,6130.78,10,6,blues
+blues.00030.wav,Little Walter,Polydor Records,6130.78,14,6,blues
+blues.00031.wav,Albert Collins,Elektra Records,4169.34,27,18,blues
+blues.00031.wav,Bonnie Raitt,Elektra Records,4169.34,8,18,blues
+blues.00031.wav,Freddie King,Elektra Records,4169.34,6,18,blues
+blues.00032.wav,Lightnin' Hopkins,Interscope Records,2163.54,16,19,blues
+blues.00033.wav,Bonnie Raitt,Motown,1345.06,8,20,blues
+blues.00034.wav,Lead Belly,Rough Trade Records,3819.98,26,17,blues
+blues.00035.wav,Koko Taylor,RCA Records,3619.63,28,11,blues
+blues.00036.wav,Buddy Guy,Merge Records,3888.0,3,3,blues
+blues.00037.wav,Howlin' Wolf,Jive Records,5327.3,11,5,blues
+blues.00037.wav,Big Mama Thornton,Jive Records,5327.3,29,5,blues
+blues.00038.wav,Muddy Waters,Warner Music Group,2123.47,4,14,blues
+blues.00039.wav,Robert Johnson,Warner Music Group,4608.15,12,14,blues
+blues.00040.wav,Muddy Waters,Capitol Records,6019.07,4,21,blues
+blues.00041.wav,Little Walter,XL Recordings,2812.13,14,9,blues
+blues.00041.wav,Lightnin' Hopkins,XL Recordings,2812.13,16,9,blues
+blues.00041.wav,Etta James,XL Recordings,2812.13,20,9,blues
+blues.00042.wav,Johnny Winter,4AD,1182.63,21,22,blues
+blues.00043.wav,Albert King,Arista Records,2648.62,24,7,blues
+blues.00044.wav,Bonnie Raitt,Republic Records,4011.04,8,4,blues
+blues.00044.wav,Lead Belly,Republic Records,4011.04,26,4,blues
+blues.00044.wav,Muddy Waters,Republic Records,4011.04,4,4,blues
+blues.00045.wav,Taj Mahal,Verve Records,4289.68,22,23,blues
+blues.00046.wav,Hound Dog Taylor,Verve Records,3322.07,30,23,blues
+blues.00047.wav,Sonny Boy Williamson,MCA Records,5173.23,2,24,blues
+blues.00048.wav,Big Mama Thornton,Polydor Records,4246.95,29,6,blues
+blues.00048.wav,Eric Clapton,Polydor Records,4246.95,25,6,blues
+blues.00049.wav,Etta James,MCA Records,2108.77,20,24,blues
+blues.00049.wav,Coco Montoya,MCA Records,2108.77,31,24,blues
+blues.00050.wav,John Lee Hooker,Stax Records,1964.92,23,25,blues
+blues.00051.wav,Willie Dixon,RCA Records,1640.32,15,11,blues
+blues.00051.wav,Buddy Guy,RCA Records,1640.32,3,11,blues
+blues.00052.wav,Jimi Hendrix,Wind-Up Records,4682.68,32,13,blues
+blues.00053.wav,R.L. Burnside,Virgin Records,358.14,18,26,blues
+blues.00054.wav,Hound Dog Taylor,Sun Records,1882.52,30,1,blues
+blues.00055.wav,Muddy Waters,Wind-Up Records,4801.93,4,13,blues
+blues.00055.wav,Lightnin' Hopkins,Wind-Up Records,4801.93,16,13,blues
+blues.00056.wav,Susan Tedeschi,Stax Records,3759.1,10,25,blues
+blues.00057.wav,Koko Taylor,Stax Records,4861.73,28,25,blues
+blues.00057.wav,John Lee Hooker,Stax Records,4861.73,23,25,blues
+blues.00058.wav,John Lee Hooker,4AD,2540.42,23,22,blues
+blues.00059.wav,Etta James,Sire Records,4481.58,20,15,blues
+blues.00060.wav,Koko Taylor,Merge Records,2868.39,28,3,blues
+blues.00061.wav,Blind Willie Johnson,4AD,-75.24,19,22,blues
+blues.00062.wav,Eric Clapton,Merge Records,3131.52,25,3,blues
+blues.00063.wav,Sonny Boy Williamson,Capitol Records,3088.5,2,21,blues
+blues.00063.wav,Willie Dixon,Capitol Records,3088.5,15,21,blues
+blues.00064.wav,Koko Taylor,Elektra Records,2798.83,28,18,blues
+blues.00064.wav,Coco Montoya,Elektra Records,2798.83,31,18,blues
+blues.00065.wav,Eric Clapton,Columbia Records,392.05,25,27,blues
+blues.00066.wav,Blind Willie Johnson,Tommy Boy Entertainment,5922.76,19,8,blues
+blues.00067.wav,Memphis Minnie,Elektra Records,3100.25,7,18,blues
+blues.00068.wav,R.L. Burnside,XL Recordings,-162.14,18,9,blues
+blues.00069.wav,B.B. King,Universal Music Group,2213.46,17,28,blues
+blues.00070.wav,Stevie Ray Vaughan,Polydor Records,1202.09,1,6,blues
+blues.00070.wav,Coco Montoya,Polydor Records,1202.09,31,6,blues
+blues.00071.wav,Susan Tedeschi,Sony Music Entertainment,256.84,10,29,blues
+blues.00072.wav,Stevie Ray Vaughan,EMI Group,2696.8,1,30,blues
+blues.00073.wav,Coco Montoya,RCA Records,6262.05,31,11,blues
+blues.00074.wav,Blind Willie Johnson,Island Records,3806.45,19,12,blues
+blues.00075.wav,Eric Clapton,4AD,1206.84,25,22,blues
+blues.00075.wav,Coco Montoya,4AD,1206.84,31,22,blues
+blues.00075.wav,Lightnin' Hopkins,4AD,1206.84,16,22,blues
+blues.00076.wav,Koko Taylor,Tommy Boy Entertainment,4164.96,28,8,blues
+blues.00077.wav,Bessie Smith,Merge Records,472.19,5,3,blues
+blues.00078.wav,Stevie Ray Vaughan,Merge Records,3126.68,1,3,blues
+blues.00078.wav,John Lee Hooker,Merge Records,3126.68,23,3,blues
+blues.00078.wav,Blind Willie Johnson,Merge Records,3126.68,19,3,blues
+blues.00079.wav,Elmore James,Merge Records,3381.04,13,3,blues
+blues.00080.wav,Big Mama Thornton,Verve Records,1649.03,29,23,blues
+blues.00081.wav,Junior Wells,Merge Records,4315.13,33,3,blues
+blues.00081.wav,Elmore James,Merge Records,4315.13,13,3,blues
+blues.00082.wav,Buddy Guy,Republic Records,-315.93,3,4,blues
+blues.00083.wav,Big Mama Thornton,Universal Music Group,4780.81,29,28,blues
+blues.00084.wav,Lead Belly,Wind-Up Records,1983.18,26,13,blues
+blues.00085.wav,Albert King,4AD,636.47,24,22,blues
+blues.00086.wav,Junior Wells,Elektra Records,5251.61,33,18,blues
+blues.00087.wav,R.L. Burnside,Elektra Records,4218.38,18,18,blues
+blues.00087.wav,Eric Clapton,Elektra Records,4218.38,25,18,blues
+blues.00087.wav,Muddy Waters,Elektra Records,4218.38,4,18,blues
+blues.00088.wav,Muddy Waters,Columbia Records,1809.99,4,27,blues
+blues.00089.wav,Bonnie Raitt,Polydor Records,3571.66,8,6,blues
+blues.00090.wav,Bonnie Raitt,Republic Records,1122.72,8,4,blues
+blues.00091.wav,Buddy Guy,Epic Records,4348.52,3,2,blues
+blues.00092.wav,Albert Collins,Interscope Records,6654.94,27,19,blues
+blues.00093.wav,T-Bone Walker,Atlantic Records,5122.37,34,10,blues
+blues.00093.wav,Koko Taylor,Atlantic Records,5122.37,28,10,blues
+blues.00093.wav,Magic Sam,Atlantic Records,5122.37,9,10,blues
+blues.00094.wav,Bessie Smith,Virgin Records,2156.16,5,26,blues
+blues.00095.wav,R.L. Burnside,Interscope Records,2951.9,18,19,blues
+blues.00096.wav,John Lee Hooker,Wind-Up Records,6500.77,23,13,blues
+blues.00097.wav,Koko Taylor,Wind-Up Records,3817.53,28,13,blues
+blues.00097.wav,Eric Clapton,Wind-Up Records,3817.53,25,13,blues
+blues.00098.wav,Taj Mahal,Merge Records,4027.8,22,3,blues
+blues.00098.wav,Memphis Minnie,Merge Records,4027.8,7,3,blues
+blues.00099.wav,Junior Wells,Merge Records,2778.26,33,3,blues
+classical.00000.wav,Antonio Vivaldi,Universal Music Group,2442.48,35,28,classical
+classical.00000.wav,Benjamin Britten,Universal Music Group,2442.48,36,28,classical
+classical.00001.wav,Johannes Brahms,Sony Music Entertainment,5205.59,37,29,classical
+classical.00001.wav,Antonín Dvořák,Sony Music Entertainment,5205.59,38,29,classical
+classical.00002.wav,Giuseppe Verdi,BMG Rights Management,4104.28,39,31,classical
+classical.00003.wav,Dmitri Shostakovich,Interscope Records,454.93,40,19,classical
+classical.00004.wav,Johannes Brahms,Merge Records,3764.15,37,3,classical
+classical.00005.wav,Felix Mendelssohn,Merge Records,2880.45,41,3,classical
+classical.00006.wav,Pyotr Ilyich Tchaikovsky,Island Records,3650.86,42,12,classical
+classical.00007.wav,Franz Schubert,Rough Trade Records,2048.79,43,17,classical
+classical.00008.wav,Felix Mendelssohn,Warner Music Group,1111.69,41,14,classical
+classical.00009.wav,Igor Stravinsky,Republic Records,929.22,44,4,classical
+classical.00010.wav,Ludwig van Beethoven,Arista Records,2855.72,45,7,classical
+classical.00011.wav,Antonín Dvořák,Epic Records,1894.72,38,2,classical
+classical.00012.wav,Giacomo Puccini,Jive Records,2344.86,46,5,classical
+classical.00013.wav,Maurice Ravel,Polydor Records,5669.17,47,6,classical
+classical.00014.wav,Aaron Copland,RCA Records,1477.58,48,11,classical
+classical.00014.wav,Johann Sebastian Bach,RCA Records,1477.58,49,11,classical
+classical.00015.wav,Aaron Copland,RCA Records,3060.27,48,11,classical
+classical.00016.wav,Claude Debussy,Polydor Records,3359.55,50,6,classical
+classical.00017.wav,Johann Strauss II,Merge Records,3050.9,51,3,classical
+classical.00018.wav,Frederic Chopin,Interscope Records,3236.02,52,19,classical
+classical.00019.wav,Edward Elgar,Def Jam Recordings,2670.0,53,16,classical
+classical.00020.wav,Modest Mussorgsky,Sub Pop Records,2782.88,54,32,classical
+classical.00021.wav,Gioachino Rossini,Merge Records,4278.91,55,3,classical
+classical.00022.wav,Bedřich Smetana,Tommy Boy Entertainment,3211.81,56,8,classical
+classical.00022.wav,Ludwig van Beethoven,Tommy Boy Entertainment,3211.81,45,8,classical
+classical.00023.wav,Richard Wagner,Columbia Records,1741.34,57,27,classical
+classical.00024.wav,Igor Stravinsky,Merge Records,3833.37,44,3,classical
+classical.00025.wav,Camille Saint-Saëns,Def Jam Recordings,3741.94,58,16,classical
+classical.00025.wav,Gioachino Rossini,Def Jam Recordings,3741.94,55,16,classical
+classical.00025.wav,Johann Strauss II,Def Jam Recordings,3741.94,51,16,classical
+classical.00026.wav,Sergei Rachmaninoff,Merge Records,4400.59,59,3,classical
+classical.00026.wav,Aaron Copland,Merge Records,4400.59,48,3,classical
+classical.00027.wav,Johannes Brahms,Arista Records,2215.9,37,7,classical
+classical.00028.wav,Dmitri Shostakovich,Republic Records,4742.96,40,4,classical
+classical.00029.wav,Johann Sebastian Bach,Columbia Records,2892.94,49,27,classical
+classical.00030.wav,Franz Joseph Haydn,Stax Records,2007.36,60,25,classical
+classical.00031.wav,Carl Orff,Universal Music Group,2177.12,61,28,classical
+classical.00032.wav,Dmitri Shostakovich,Elektra Records,729.51,40,18,classical
+classical.00032.wav,Ludwig van Beethoven,Elektra Records,729.51,45,18,classical
+classical.00033.wav,Giuseppe Verdi,BMG Rights Management,6586.53,39,31,classical
+classical.00034.wav,Benjamin Britten,Verve Records,4139.63,36,23,classical
+classical.00035.wav,Ludwig van Beethoven,Motown,3.91,45,20,classical
+classical.00036.wav,Ludwig van Beethoven,Warner Music Group,2612.73,45,14,classical
+classical.00037.wav,Claude Debussy,Sun Records,2950.57,50,1,classical
+classical.00038.wav,Maurice Ravel,Sub Pop Records,1242.27,47,32,classical
+classical.00039.wav,Modest Mussorgsky,Polydor Records,3626.02,54,6,classical
+classical.00039.wav,Richard Wagner,Polydor Records,3626.02,57,6,classical
+classical.00040.wav,Gabriel Fauré,Merge Records,3785.24,62,3,classical
+classical.00041.wav,Johann Strauss II,Arista Records,4404.06,51,7,classical
+classical.00042.wav,Giacomo Puccini,Sub Pop Records,2697.36,46,32,classical
+classical.00043.wav,Giuseppe Verdi,Jive Records,1029.28,39,5,classical
+classical.00044.wav,Camille Saint-Saëns,Atlantic Records,7037.7,58,10,classical
+classical.00045.wav,Richard Wagner,XL Recordings,4095.65,57,9,classical
+classical.00046.wav,Johannes Brahms,Polydor Records,3612.31,37,6,classical
+classical.00047.wav,Richard Wagner,Verve Records,3699.65,57,23,classical
+classical.00048.wav,Wolfgang Amadeus Mozart,Interscope Records,1607.49,63,19,classical
+classical.00048.wav,Franz Schubert,Interscope Records,1607.49,43,19,classical
+classical.00048.wav,Ludwig van Beethoven,Interscope Records,1607.49,45,19,classical
+classical.00049.wav,Frederic Chopin,XL Recordings,4590.69,52,9,classical
+classical.00050.wav,Ludwig van Beethoven,Sub Pop Records,2259.56,45,32,classical
+classical.00051.wav,Igor Stravinsky,Atlantic Records,5159.21,44,10,classical
+classical.00052.wav,Antonín Dvořák,Sun Records,1351.93,38,1,classical
+classical.00053.wav,Gustav Mahler,Tommy Boy Entertainment,4209.76,64,8,classical
+classical.00054.wav,Pyotr Ilyich Tchaikovsky,Sire Records,1060.47,42,15,classical
+classical.00055.wav,Modest Mussorgsky,MCA Records,972.41,54,24,classical
+classical.00056.wav,Richard Wagner,Sun Records,4713.5,57,1,classical
+classical.00056.wav,Frederic Chopin,Sun Records,4713.5,52,1,classical
+classical.00057.wav,Richard Wagner,Motown,3805.92,57,20,classical
+classical.00057.wav,George Frideric Handel,Motown,3805.92,65,20,classical
+classical.00058.wav,Dmitri Shostakovich,Sun Records,4706.59,40,1,classical
+classical.00059.wav,Dmitri Shostakovich,4AD,1899.83,40,22,classical
+classical.00060.wav,Ludwig van Beethoven,Merge Records,5819.85,45,3,classical
+classical.00060.wav,Johann Strauss II,Merge Records,5819.85,51,3,classical
+classical.00061.wav,Maurice Ravel,Rough Trade Records,2004.48,47,17,classical
+classical.00062.wav,Johannes Brahms,Sire Records,2257.47,37,15,classical
+classical.00063.wav,Sergei Rachmaninoff,Universal Music Group,4640.46,59,28,classical
+classical.00064.wav,Felix Mendelssohn,Columbia Records,3023.43,41,27,classical
+classical.00065.wav,Antonín Dvořák,Interscope Records,4577.78,38,19,classical
+classical.00065.wav,Claude Debussy,Interscope Records,4577.78,50,19,classical
+classical.00065.wav,Modest Mussorgsky,Interscope Records,4577.78,54,19,classical
+classical.00066.wav,Antonín Dvořák,Interscope Records,2281.54,38,19,classical
+classical.00066.wav,Claude Debussy,Interscope Records,2281.54,50,19,classical
+classical.00066.wav,Edward Elgar,Interscope Records,2281.54,53,19,classical
+classical.00067.wav,Carl Orff,Stax Records,2369.82,61,25,classical
+classical.00068.wav,Franz Schubert,RCA Records,3945.01,43,11,classical
+classical.00069.wav,Giacomo Puccini,Capitol Records,2090.48,46,21,classical
+classical.00070.wav,Benjamin Britten,Columbia Records,2218.79,36,27,classical
+classical.00071.wav,Gioachino Rossini,XL Recordings,3427.27,55,9,classical
+classical.00072.wav,Franz Joseph Haydn,Elektra Records,2655.29,60,18,classical
+classical.00073.wav,Ludwig van Beethoven,Interscope Records,1763.98,45,19,classical
+classical.00074.wav,Gustav Mahler,Wind-Up Records,4326.75,64,13,classical
+classical.00074.wav,Johann Sebastian Bach,Wind-Up Records,4326.75,49,13,classical
+classical.00075.wav,Gustav Mahler,Sun Records,3665.39,64,1,classical
+classical.00075.wav,Bedřich Smetana,Sun Records,3665.39,56,1,classical
+classical.00076.wav,Gioachino Rossini,Sub Pop Records,3299.3,55,32,classical
+classical.00076.wav,Sergei Rachmaninoff,Sub Pop Records,3299.3,59,32,classical
+classical.00077.wav,Camille Saint-Saëns,Epic Records,3339.69,58,2,classical
+classical.00078.wav,Johannes Brahms,Universal Music Group,7050.61,37,28,classical
+classical.00079.wav,Edward Elgar,Island Records,5016.09,53,12,classical
+classical.00080.wav,Johann Strauss II,Interscope Records,3059.79,51,19,classical
+classical.00081.wav,Frederic Chopin,Stax Records,4500.48,52,25,classical
+classical.00082.wav,Johann Sebastian Bach,Wind-Up Records,2328.2,49,13,classical
+classical.00083.wav,Gioachino Rossini,Def Jam Recordings,3602.52,55,16,classical
+classical.00084.wav,Edward Elgar,Island Records,2808.49,53,12,classical
+classical.00085.wav,Gustav Mahler,4AD,1707.73,64,22,classical
+classical.00086.wav,Claude Debussy,Warner Music Group,3395.26,50,14,classical
+classical.00087.wav,George Frideric Handel,Island Records,4645.19,65,12,classical
+classical.00088.wav,George Frideric Handel,XL Recordings,1421.9,65,9,classical
+classical.00089.wav,Maurice Ravel,Sony Music Entertainment,1862.82,47,29,classical
+classical.00090.wav,Camille Saint-Saëns,Island Records,3150.45,58,12,classical
+classical.00091.wav,Franz Joseph Haydn,Sony Music Entertainment,2968.64,60,29,classical
+classical.00092.wav,Richard Wagner,Republic Records,4376.44,57,4,classical
+classical.00093.wav,Bedřich Smetana,Sire Records,-590.15,56,15,classical
+classical.00094.wav,Robert Schumann,Merge Records,1141.21,66,3,classical
+classical.00094.wav,Johann Strauss II,Merge Records,1141.21,51,3,classical
+classical.00095.wav,George Frideric Handel,Merge Records,-946.54,65,3,classical
+classical.00096.wav,Frederic Chopin,Arista Records,2165.79,52,7,classical
+classical.00097.wav,Aaron Copland,Sire Records,1487.98,48,15,classical
+classical.00098.wav,George Frideric Handel,Elektra Records,5434.19,65,18,classical
+classical.00099.wav,Franz Schubert,Tommy Boy Entertainment,1480.59,43,8,classical
+country.00000.wav,Johnny Cash,Polydor Records,2524.2,67,6,country
+country.00001.wav,Johnny Cash,4AD,3647.6,67,22,country
+country.00001.wav,Emmylou Harris,4AD,3647.6,68,22,country
+country.00001.wav,Vince Gill,4AD,3647.6,69,22,country
+country.00002.wav,Tammy Wynette,Sony Music Entertainment,2377.39,70,29,country
+country.00003.wav,Miranda Lambert,Universal Music Group,1554.11,71,28,country
+country.00004.wav,Loretta Lynn,Sony Music Entertainment,4340.41,72,29,country
+country.00005.wav,Martina McBride,Rough Trade Records,1930.4,73,17,country
+country.00006.wav,Willie Nelson,Polydor Records,758.53,74,6,country
+country.00007.wav,Alan Jackson,Merge Records,3548.11,75,3,country
+country.00008.wav,Charlie Daniels,Atlantic Records,4612.74,76,10,country
+country.00009.wav,George Strait,Universal Music Group,1895.96,77,28,country
+country.00010.wav,Martina McBride,4AD,4323.6,73,22,country
+country.00011.wav,Rascal Flatts,Polydor Records,5282.11,78,6,country
+country.00012.wav,Tammy Wynette,Merge Records,2590.08,70,3,country
+country.00013.wav,Emmylou Harris,Interscope Records,2717.2,68,19,country
+country.00013.wav,Keith Urban,Interscope Records,2717.2,79,19,country
+country.00014.wav,Martina McBride,Virgin Records,3360.56,73,26,country
+country.00015.wav,Patsy Cline,Sire Records,4284.6,80,15,country
+country.00016.wav,Waylon Jennings,Arista Records,2136.78,81,7,country
+country.00017.wav,Toby Keith,Stax Records,2224.33,82,25,country
+country.00017.wav,Vince Gill,Stax Records,2224.33,69,25,country
+country.00017.wav,Tammy Wynette,Stax Records,2224.33,70,25,country
+country.00018.wav,Trisha Yearwood,Polydor Records,791.62,83,6,country
+country.00019.wav,LeAnn Rimes,Interscope Records,1428.92,84,19,country
+country.00020.wav,Alan Jackson,Atlantic Records,104.82,75,10,country
+country.00021.wav,Faith Hill,Motown,2226.21,85,20,country
+country.00021.wav,Alan Jackson,Motown,2226.21,75,20,country
+country.00021.wav,Brad Paisley,Motown,2226.21,86,20,country
+country.00022.wav,Reba McEntire,Sire Records,975.41,87,15,country
+country.00023.wav,Merle Haggard,BMG Rights Management,1753.41,88,31,country
+country.00024.wav,Toby Keith,Virgin Records,715.78,82,26,country
+country.00025.wav,Dolly Parton,Atlantic Records,4998.7,89,10,country
+country.00026.wav,Miranda Lambert,Sony Music Entertainment,503.98,71,29,country
+country.00027.wav,Dolly Parton,Sire Records,3954.87,89,15,country
+country.00028.wav,Johnny Cash,Tommy Boy Entertainment,6119.37,67,8,country
+country.00029.wav,Shania Twain,Verve Records,1948.52,90,23,country
+country.00030.wav,Blake Shelton,Universal Music Group,3147.91,91,28,country
+country.00031.wav,Charlie Daniels,Def Jam Recordings,3019.64,76,16,country
+country.00031.wav,Miranda Lambert,Def Jam Recordings,3019.64,71,16,country
+country.00032.wav,Garth Brooks,Arista Records,3071.33,92,7,country
+country.00033.wav,Brooks & Dunn,Columbia Records,940.31,93,27,country
+country.00034.wav,Kris Kristofferson,RCA Records,2989.45,94,11,country
+country.00035.wav,Patsy Cline,Jive Records,2775.51,80,5,country
+country.00036.wav,Loretta Lynn,Merge Records,5596.59,72,3,country
+country.00037.wav,Hank Williams,Universal Music Group,4367.25,95,28,country
+country.00038.wav,Loretta Lynn,Tommy Boy Entertainment,3254.59,72,8,country
+country.00039.wav,Dolly Parton,Def Jam Recordings,-70.79,89,16,country
+country.00039.wav,LeAnn Rimes,Def Jam Recordings,-70.79,84,16,country
+country.00040.wav,Tim McGraw,Sun Records,3104.15,96,1,country
+country.00040.wav,Rascal Flatts,Sun Records,3104.15,78,1,country
+country.00041.wav,Hank Williams,Merge Records,4850.48,95,3,country
+country.00042.wav,Miranda Lambert,Wind-Up Records,2982.54,71,13,country
+country.00043.wav,Rascal Flatts,Stax Records,4035.24,78,25,country
+country.00044.wav,Shania Twain,Jive Records,5152.15,90,5,country
+country.00045.wav,Brad Paisley,Island Records,1424.51,86,12,country
+country.00046.wav,Shania Twain,Interscope Records,3883.32,90,19,country
+country.00047.wav,Kris Kristofferson,Epic Records,2905.25,94,2,country
+country.00048.wav,Waylon Jennings,RCA Records,4388.93,81,11,country
+country.00048.wav,Brad Paisley,RCA Records,4388.93,86,11,country
+country.00048.wav,Reba McEntire,RCA Records,4388.93,87,11,country
+country.00049.wav,Emmylou Harris,Wind-Up Records,3520.58,68,13,country
+country.00050.wav,George Strait,Elektra Records,5056.34,77,18,country
+country.00051.wav,Charlie Daniels,Universal Music Group,3909.17,76,28,country
+country.00052.wav,Carrie Underwood,Merge Records,5390.09,97,3,country
+country.00053.wav,Emmylou Harris,Tommy Boy Entertainment,2654.28,68,8,country
+country.00053.wav,Charlie Daniels,Tommy Boy Entertainment,2654.28,76,8,country
+country.00053.wav,Shania Twain,Tommy Boy Entertainment,2654.28,90,8,country
+country.00054.wav,Loretta Lynn,Stax Records,2047.12,72,25,country
+country.00055.wav,LeAnn Rimes,Polydor Records,1177.75,84,6,country
+country.00055.wav,Martina McBride,Polydor Records,1177.75,73,6,country
+country.00055.wav,Keith Urban,Polydor Records,1177.75,79,6,country
+country.00056.wav,Patsy Cline,Rough Trade Records,2160.16,80,17,country
+country.00057.wav,Loretta Lynn,Elektra Records,2910.03,72,18,country
+country.00058.wav,Keith Urban,RCA Records,2365.44,79,11,country
+country.00059.wav,Keith Urban,4AD,7049.92,79,22,country
+country.00060.wav,Martina McBride,Elektra Records,-884.22,73,18,country
+country.00061.wav,Merle Haggard,Sire Records,2093.33,88,15,country
+country.00062.wav,Carrie Underwood,4AD,4002.81,97,22,country
+country.00062.wav,Dolly Parton,4AD,4002.81,89,22,country
+country.00063.wav,Loretta Lynn,Warner Music Group,2538.42,72,14,country
+country.00064.wav,Alan Jackson,Merge Records,2473.68,75,3,country
+country.00065.wav,George Strait,Stax Records,4723.31,77,25,country
+country.00065.wav,Toby Keith,Stax Records,4723.31,82,25,country
+country.00066.wav,Loretta Lynn,Capitol Records,2265.97,72,21,country
+country.00067.wav,Charlie Daniels,Wind-Up Records,6772.27,76,13,country
+country.00068.wav,Garth Brooks,Columbia Records,1414.36,92,27,country
+country.00069.wav,Faith Hill,RCA Records,2176.85,85,11,country
+country.00070.wav,Randy Travis,Merge Records,2338.18,98,3,country
+country.00071.wav,Rascal Flatts,Tommy Boy Entertainment,3103.27,78,8,country
+country.00072.wav,Blake Shelton,Polydor Records,467.75,91,6,country
+country.00073.wav,Hank Williams,Columbia Records,1435.97,95,27,country
+country.00074.wav,Loretta Lynn,Atlantic Records,2075.77,72,10,country
+country.00074.wav,Miranda Lambert,Atlantic Records,2075.77,71,10,country
+country.00074.wav,Dolly Parton,Atlantic Records,2075.77,89,10,country
+country.00075.wav,Miranda Lambert,Republic Records,4854.27,71,4,country
+country.00075.wav,Keith Urban,Republic Records,4854.27,79,4,country
+country.00076.wav,Willie Nelson,Virgin Records,4611.24,74,26,country
+country.00076.wav,Trisha Yearwood,Virgin Records,4611.24,83,26,country
+country.00077.wav,Willie Nelson,Atlantic Records,1119.29,74,10,country
+country.00077.wav,Kenny Rogers,Atlantic Records,1119.29,99,10,country
+country.00078.wav,Kris Kristofferson,Merge Records,4411.44,94,3,country
+country.00079.wav,Dolly Parton,Verve Records,3721.97,89,23,country
+country.00080.wav,Blake Shelton,Tommy Boy Entertainment,2408.26,91,8,country
+country.00080.wav,Kenny Rogers,Tommy Boy Entertainment,2408.26,99,8,country
+country.00081.wav,Reba McEntire,Island Records,3386.88,87,12,country
+country.00082.wav,Vince Gill,Island Records,3303.23,69,12,country
+country.00083.wav,Reba McEntire,BMG Rights Management,3365.27,87,31,country
+country.00084.wav,Loretta Lynn,Sub Pop Records,3943.06,72,32,country
+country.00085.wav,Rascal Flatts,Wind-Up Records,4078.53,78,13,country
+country.00086.wav,Waylon Jennings,Warner Music Group,2540.58,81,14,country
+country.00086.wav,Garth Brooks,Warner Music Group,2540.58,92,14,country
+country.00086.wav,Kenny Rogers,Warner Music Group,2540.58,99,14,country
+country.00087.wav,LeAnn Rimes,Sire Records,2504.49,84,15,country
+country.00088.wav,Toby Keith,Def Jam Recordings,4169.74,82,16,country
+country.00089.wav,Vince Gill,Sire Records,4730.09,69,15,country
+country.00090.wav,Toby Keith,Tommy Boy Entertainment,2034.86,82,8,country
+country.00091.wav,Patsy Cline,Arista Records,1028.71,80,7,country
+country.00092.wav,Tim McGraw,Tommy Boy Entertainment,-618.03,96,8,country
+country.00093.wav,Brad Paisley,XL Recordings,2125.38,86,9,country
+country.00094.wav,Miranda Lambert,4AD,4625.59,71,22,country
+country.00095.wav,Waylon Jennings,EMI Group,3209.49,81,30,country
+country.00095.wav,Loretta Lynn,EMI Group,3209.49,72,30,country
+country.00096.wav,Martina McBride,Epic Records,114.14,73,2,country
+country.00097.wav,Alan Jackson,Arista Records,4074.27,75,7,country
+country.00098.wav,Alan Jackson,Merge Records,1989.72,75,3,country
+country.00099.wav,Vince Gill,Sun Records,2741.88,69,1,country
+disco.00000.wav,Odyssey,Republic Records,4419.14,100,4,disco
+disco.00001.wav,Rose Royce,4AD,2865.35,101,22,disco
+disco.00001.wav,Bee Gees,4AD,2865.35,102,22,disco
+disco.00001.wav,Chic,4AD,2865.35,103,22,disco
+disco.00002.wav,Patrick Hernandez,Sun Records,2198.35,104,1,disco
+disco.00003.wav,Village People,Wind-Up Records,3878.38,105,13,disco
+disco.00004.wav,Patrick Hernandez,Columbia Records,1072.98,104,27,disco
+disco.00005.wav,LaBelle,RCA Records,1127.18,106,11,disco
+disco.00006.wav,Pointer Sisters,Stax Records,957.49,107,25,disco
+disco.00006.wav,LaBelle,Stax Records,957.49,106,25,disco
+disco.00007.wav,Lipps Inc.,Virgin Records,1749.05,108,26,disco
+disco.00008.wav,"Earth, Wind & Fire",Sub Pop Records,4217.8,109,32,disco
+disco.00009.wav,Bee Gees,XL Recordings,3910.78,102,9,disco
+disco.00009.wav,Sister Sledge,XL Recordings,3910.78,110,9,disco
+disco.00010.wav,Donna Summer,Virgin Records,3248.25,111,26,disco
+disco.00011.wav,Sylvester,EMI Group,2909.88,112,30,disco
+disco.00012.wav,Donna Summer,Universal Music Group,3271.8,111,28,disco
+disco.00013.wav,KC and the Sunshine Band,Wind-Up Records,4216.79,113,13,disco
+disco.00013.wav,Sister Sledge,Wind-Up Records,4216.79,110,13,disco
+disco.00014.wav,Silver Convention,Sun Records,2607.38,114,1,disco
+disco.00015.wav,Thelma Houston,Wind-Up Records,3902.75,115,13,disco
+disco.00016.wav,Diana Ross,Wind-Up Records,2287.42,116,13,disco
+disco.00016.wav,Gibson Brothers,Wind-Up Records,2287.42,117,13,disco
+disco.00017.wav,Rick James,Motown,1.0,118,20,disco
+disco.00018.wav,Thelma Houston,Arista Records,2860.25,115,7,disco
+disco.00019.wav,Bee Gees,4AD,2086.33,102,22,disco
+disco.00020.wav,Village People,Columbia Records,2625.64,105,27,disco
+disco.00021.wav,Donna Summer,Columbia Records,2320.1,111,27,disco
+disco.00022.wav,Sylvester,Def Jam Recordings,1840.04,112,16,disco
+disco.00022.wav,The Jacksons,Def Jam Recordings,1840.04,119,16,disco
+disco.00023.wav,George McCrae,Sun Records,942.0,120,1,disco
+disco.00024.wav,Baccara,Wind-Up Records,3936.28,121,13,disco
+disco.00025.wav,Lipps Inc.,Republic Records,1602.17,108,4,disco
+disco.00026.wav,Donna Summer,Def Jam Recordings,2885.32,111,16,disco
+disco.00026.wav,Patrick Hernandez,Def Jam Recordings,2885.32,104,16,disco
+disco.00026.wav,Anita Ward,Def Jam Recordings,2885.32,122,16,disco
+disco.00027.wav,Grace Jones,Rough Trade Records,3677.93,123,17,disco
+disco.00028.wav,Anita Ward,Rough Trade Records,151.39,122,17,disco
+disco.00029.wav,Diana Ross,Rough Trade Records,5161.44,116,17,disco
+disco.00029.wav,Village People,Rough Trade Records,5161.44,105,17,disco
+disco.00030.wav,Lipps Inc.,Merge Records,3257.36,108,3,disco
+disco.00031.wav,Chic,Capitol Records,3170.19,103,21,disco
+disco.00032.wav,The O'Jays,Motown,3976.62,124,20,disco
+disco.00033.wav,George McCrae,Sony Music Entertainment,5705.47,120,29,disco
+disco.00034.wav,Baccara,Stax Records,5134.88,121,25,disco
+disco.00035.wav,LaBelle,Capitol Records,3527.23,106,21,disco
+disco.00036.wav,The O'Jays,XL Recordings,3345.69,124,9,disco
+disco.00036.wav,Sister Sledge,XL Recordings,3345.69,110,9,disco
+disco.00037.wav,Gibson Brothers,Island Records,1.77,117,12,disco
+disco.00038.wav,Tavares,BMG Rights Management,2395.41,125,31,disco
+disco.00038.wav,Sister Sledge,BMG Rights Management,2395.41,110,31,disco
+disco.00039.wav,Candi Staton,Columbia Records,3449.54,126,27,disco
+disco.00040.wav,Tavares,Atlantic Records,3253.95,125,10,disco
+disco.00041.wav,Shalamar,Sub Pop Records,506.25,127,32,disco
+disco.00042.wav,Michael Jackson,Interscope Records,4655.69,128,19,disco
+disco.00043.wav,Candi Staton,Interscope Records,5165.67,126,19,disco
+disco.00044.wav,Grace Jones,Merge Records,4573.17,123,3,disco
+disco.00044.wav,George McCrae,Merge Records,4573.17,120,3,disco
+disco.00044.wav,Village People,Merge Records,4573.17,105,3,disco
+disco.00045.wav,KC and the Sunshine Band,Elektra Records,4654.63,113,18,disco
+disco.00046.wav,Pointer Sisters,Columbia Records,1269.27,107,27,disco
+disco.00047.wav,Kool & the Gang,XL Recordings,3109.2,129,9,disco
+disco.00048.wav,Shalamar,Columbia Records,2515.27,127,27,disco
+disco.00049.wav,Village People,4AD,1455.99,105,22,disco
+disco.00050.wav,Silver Convention,Sub Pop Records,4652.69,114,32,disco
+disco.00050.wav,Village People,Sub Pop Records,4652.69,105,32,disco
+disco.00051.wav,Tavares,Rough Trade Records,3591.38,125,17,disco
+disco.00052.wav,Diana Ross,Wind-Up Records,4709.66,116,13,disco
+disco.00052.wav,Bee Gees,Wind-Up Records,4709.66,102,13,disco
+disco.00052.wav,Pointer Sisters,Wind-Up Records,4709.66,107,13,disco
+disco.00053.wav,Patrick Hernandez,EMI Group,1524.64,104,30,disco
+disco.00054.wav,George McCrae,Jive Records,3485.92,120,5,disco
+disco.00055.wav,The Trammps,Sony Music Entertainment,3610.93,130,29,disco
+disco.00056.wav,Baccara,Epic Records,5035.78,121,2,disco
+disco.00056.wav,Michael Jackson,Epic Records,5035.78,128,2,disco
+disco.00057.wav,Shalamar,Merge Records,-169.82,127,3,disco
+disco.00058.wav,Chic,Sony Music Entertainment,1407.74,103,29,disco
+disco.00059.wav,Patrick Hernandez,Tommy Boy Entertainment,2956.42,104,8,disco
+disco.00060.wav,Rick James,Elektra Records,1489.25,118,18,disco
+disco.00061.wav,Candi Staton,Republic Records,3870.67,126,4,disco
+disco.00062.wav,Village People,Wind-Up Records,2156.49,105,13,disco
+disco.00063.wav,Gibson Brothers,RCA Records,3512.35,117,11,disco
+disco.00064.wav,"Earth, Wind & Fire",XL Recordings,2731.62,109,9,disco
+disco.00064.wav,The Trammps,XL Recordings,2731.62,130,9,disco
+disco.00064.wav,ABBA,XL Recordings,2731.62,131,9,disco
+disco.00065.wav,Diana Ross,Virgin Records,2852.95,116,26,disco
+disco.00066.wav,Odyssey,Warner Music Group,-561.33,100,14,disco
+disco.00066.wav,Amii Stewart,Warner Music Group,-561.33,132,14,disco
+disco.00067.wav,Lipps Inc.,XL Recordings,902.78,108,9,disco
+disco.00068.wav,Silver Convention,MCA Records,1302.67,114,24,disco
+disco.00069.wav,Silver Convention,Warner Music Group,2148.76,114,14,disco
+disco.00069.wav,Sister Sledge,Warner Music Group,2148.76,110,14,disco
+disco.00070.wav,Rick James,BMG Rights Management,6182.84,118,31,disco
+disco.00071.wav,Shalamar,Epic Records,2408.28,127,2,disco
+disco.00072.wav,Sister Sledge,Sony Music Entertainment,2624.51,110,29,disco
+disco.00072.wav,Lipps Inc.,Sony Music Entertainment,2624.51,108,29,disco
+disco.00073.wav,Gloria Gaynor,XL Recordings,4359.92,133,9,disco
+disco.00073.wav,Thelma Houston,XL Recordings,4359.92,115,9,disco
+disco.00074.wav,Lipps Inc.,Jive Records,2599.67,108,5,disco
+disco.00074.wav,Donna Summer,Jive Records,2599.67,111,5,disco
+disco.00075.wav,Baccara,Epic Records,1962.5,121,2,disco
+disco.00076.wav,Pointer Sisters,Elektra Records,4328.84,107,18,disco
+disco.00076.wav,The O'Jays,Elektra Records,4328.84,124,18,disco
+disco.00077.wav,Grace Jones,Def Jam Recordings,3235.36,123,16,disco
+disco.00078.wav,Rose Royce,Verve Records,3952.23,101,23,disco
+disco.00079.wav,Baccara,Def Jam Recordings,660.72,121,16,disco
+disco.00080.wav,The Jacksons,Warner Music Group,3332.34,119,14,disco
+disco.00081.wav,KC and the Sunshine Band,Merge Records,2647.65,113,3,disco
+disco.00082.wav,The Trammps,MCA Records,3638.03,130,24,disco
+disco.00083.wav,The O'Jays,Motown,3151.24,124,20,disco
+disco.00084.wav,Tavares,Arista Records,6123.25,125,7,disco
+disco.00085.wav,Odyssey,Sun Records,3348.88,100,1,disco
+disco.00086.wav,Grace Jones,Virgin Records,3345.81,123,26,disco
+disco.00087.wav,Chic,Columbia Records,2477.81,103,27,disco
+disco.00087.wav,Thelma Houston,Columbia Records,2477.81,115,27,disco
+disco.00087.wav,Odyssey,Columbia Records,2477.81,100,27,disco
+disco.00088.wav,George McCrae,Virgin Records,1879.67,120,26,disco
+disco.00089.wav,The O'Jays,Def Jam Recordings,3261.42,124,16,disco
+disco.00089.wav,Chic,Def Jam Recordings,3261.42,103,16,disco
+disco.00090.wav,Village People,Sun Records,3214.69,105,1,disco
+disco.00091.wav,Silver Convention,Sony Music Entertainment,1591.36,114,29,disco
+disco.00092.wav,Grace Jones,Rough Trade Records,5951.52,123,17,disco
+disco.00093.wav,George McCrae,Sony Music Entertainment,5395.2,120,29,disco
+disco.00094.wav,Gibson Brothers,Virgin Records,3460.11,117,26,disco
+disco.00095.wav,KC and the Sunshine Band,RCA Records,375.82,113,11,disco
+disco.00095.wav,The Jacksons,RCA Records,375.82,119,11,disco
+disco.00096.wav,Shalamar,4AD,4452.78,127,22,disco
+disco.00097.wav,Amii Stewart,Arista Records,6278.38,132,7,disco
+disco.00097.wav,Gloria Gaynor,Arista Records,6278.38,133,7,disco
+disco.00098.wav,ABBA,Jive Records,4439.44,131,5,disco
+disco.00099.wav,Rick James,Atlantic Records,3718.58,118,10,disco
+hiphop.00000.wav,Beyoncé,Republic Records,2709.64,134,4,hiphop
+hiphop.00001.wav,J. Cole,Arista Records,5022.64,135,7,hiphop
+hiphop.00002.wav,Nicki Minaj,Universal Music Group,4679.71,136,28,hiphop
+hiphop.00003.wav,50 Cent,Merge Records,1291.63,137,3,hiphop
+hiphop.00004.wav,Rakim,XL Recordings,2761.14,138,9,hiphop
+hiphop.00004.wav,Wiz Khalifa,XL Recordings,2761.14,139,9,hiphop
+hiphop.00005.wav,50 Cent,Merge Records,2791.94,137,3,hiphop
+hiphop.00005.wav,M.I.A.,Merge Records,2791.94,140,3,hiphop
+hiphop.00006.wav,Cardi B,XL Recordings,3225.53,141,9,hiphop
+hiphop.00006.wav,Future,XL Recordings,3225.53,142,9,hiphop
+hiphop.00007.wav,Beyoncé,Merge Records,-918.44,134,3,hiphop
+hiphop.00007.wav,Chance the Rapper,Merge Records,-918.44,143,3,hiphop
+hiphop.00007.wav,Kid Cudi,Merge Records,-918.44,144,3,hiphop
+hiphop.00008.wav,2Pac,Merge Records,284.29,145,3,hiphop
+hiphop.00009.wav,J. Cole,BMG Rights Management,4534.76,135,31,hiphop
+hiphop.00010.wav,Lauryn Hill,Columbia Records,3621.77,146,27,hiphop
+hiphop.00011.wav,Drake,Polydor Records,2358.99,147,6,hiphop
+hiphop.00012.wav,Biggie Smalls,Stax Records,-1099.03,148,25,hiphop
+hiphop.00013.wav,M.I.A.,Sun Records,2249.67,140,1,hiphop
+hiphop.00014.wav,Nas,Sub Pop Records,3213.46,149,32,hiphop
+hiphop.00014.wav,2Pac,Sub Pop Records,3213.46,145,32,hiphop
+hiphop.00015.wav,Kanye West,RCA Records,3399.14,150,11,hiphop
+hiphop.00016.wav,Wiz Khalifa,BMG Rights Management,5670.6,139,31,hiphop
+hiphop.00017.wav,J. Cole,4AD,5345.08,135,22,hiphop
+hiphop.00017.wav,Future,4AD,5345.08,142,22,hiphop
+hiphop.00018.wav,Lil Wayne,Verve Records,1486.77,151,23,hiphop
+hiphop.00019.wav,"Tyler, The Creator",Sub Pop Records,4511.15,152,32,hiphop
+hiphop.00019.wav,Run-D.M.C.,Sub Pop Records,4511.15,153,32,hiphop
+hiphop.00020.wav,Ice Cube,Tommy Boy Entertainment,5749.04,154,8,hiphop
+hiphop.00020.wav,Eminem,Tommy Boy Entertainment,5749.04,155,8,hiphop
+hiphop.00020.wav,Lupe Fiasco,Tommy Boy Entertainment,5749.04,156,8,hiphop
+hiphop.00021.wav,Run-D.M.C.,Merge Records,2096.78,153,3,hiphop
+hiphop.00021.wav,Missy Elliott,Merge Records,2096.78,157,3,hiphop
+hiphop.00021.wav,A$AP Rocky,Merge Records,2096.78,158,3,hiphop
+hiphop.00022.wav,Snoop Dogg,Atlantic Records,4290.82,159,10,hiphop
+hiphop.00022.wav,Public Enemy,Atlantic Records,4290.82,160,10,hiphop
+hiphop.00022.wav,J. Cole,Atlantic Records,4290.82,135,10,hiphop
+hiphop.00023.wav,Missy Elliott,Arista Records,5258.2,157,7,hiphop
+hiphop.00024.wav,Jay-Z,Capitol Records,4024.31,161,21,hiphop
+hiphop.00024.wav,Rakim,Capitol Records,4024.31,138,21,hiphop
+hiphop.00025.wav,J. Cole,Interscope Records,3114.28,135,19,hiphop
+hiphop.00025.wav,Snoop Dogg,Interscope Records,3114.28,159,19,hiphop
+hiphop.00026.wav,Snoop Dogg,Warner Music Group,5600.5,159,14,hiphop
+hiphop.00027.wav,Chance the Rapper,Stax Records,2334.01,143,25,hiphop
+hiphop.00028.wav,Snoop Dogg,Atlantic Records,2868.65,159,10,hiphop
+hiphop.00029.wav,Kendrick Lamar,Merge Records,273.14,162,3,hiphop
+hiphop.00030.wav,2Pac,EMI Group,2263.25,145,30,hiphop
+hiphop.00031.wav,Kanye West,4AD,4078.84,150,22,hiphop
+hiphop.00032.wav,Kanye West,Arista Records,2366.91,150,7,hiphop
+hiphop.00033.wav,J. Cole,MCA Records,1571.57,135,24,hiphop
+hiphop.00034.wav,Run-D.M.C.,Republic Records,2212.57,153,4,hiphop
+hiphop.00035.wav,Beyoncé,Universal Music Group,3175.39,134,28,hiphop
+hiphop.00036.wav,Kanye West,Arista Records,3638.08,150,7,hiphop
+hiphop.00037.wav,Nas,Verve Records,1889.28,149,23,hiphop
+hiphop.00037.wav,Cardi B,Verve Records,1889.28,141,23,hiphop
+hiphop.00037.wav,OutKast,Verve Records,1889.28,163,23,hiphop
+hiphop.00038.wav,A$AP Rocky,Verve Records,4548.95,158,23,hiphop
+hiphop.00038.wav,J. Cole,Verve Records,4548.95,135,23,hiphop
+hiphop.00039.wav,Run-D.M.C.,Motown,2854.41,153,20,hiphop
+hiphop.00039.wav,Drake,Motown,2854.41,147,20,hiphop
+hiphop.00039.wav,2Pac,Motown,2854.41,145,20,hiphop
+hiphop.00040.wav,"Tyler, The Creator",EMI Group,2304.66,152,30,hiphop
+hiphop.00041.wav,Future,4AD,4257.37,142,22,hiphop
+hiphop.00042.wav,"Tyler, The Creator",Capitol Records,735.18,152,21,hiphop
+hiphop.00042.wav,Nicki Minaj,Capitol Records,735.18,136,21,hiphop
+hiphop.00043.wav,Biggie Smalls,Warner Music Group,1165.08,148,14,hiphop
+hiphop.00043.wav,Kid Cudi,Warner Music Group,1165.08,144,14,hiphop
+hiphop.00044.wav,Biggie Smalls,Verve Records,2328.54,148,23,hiphop
+hiphop.00045.wav,Biggie Smalls,Merge Records,2218.46,148,3,hiphop
+hiphop.00046.wav,Jay-Z,Arista Records,3441.45,161,7,hiphop
+hiphop.00046.wav,Nicki Minaj,Arista Records,3441.45,136,7,hiphop
+hiphop.00047.wav,Logic,RCA Records,2614.9,164,11,hiphop
+hiphop.00047.wav,Run-D.M.C.,RCA Records,2614.9,153,11,hiphop
+hiphop.00047.wav,Kanye West,RCA Records,2614.9,150,11,hiphop
+hiphop.00048.wav,Public Enemy,Arista Records,1259.08,160,7,hiphop
+hiphop.00048.wav,Run-D.M.C.,Arista Records,1259.08,153,7,hiphop
+hiphop.00049.wav,Missy Elliott,4AD,662.75,157,22,hiphop
+hiphop.00049.wav,Lupe Fiasco,4AD,662.75,156,22,hiphop
+hiphop.00049.wav,A$AP Rocky,4AD,662.75,158,22,hiphop
+hiphop.00050.wav,A$AP Rocky,MCA Records,6045.9,158,24,hiphop
+hiphop.00051.wav,Travis Scott,Warner Music Group,4627.78,165,14,hiphop
+hiphop.00052.wav,Ice Cube,Columbia Records,4088.94,154,27,hiphop
+hiphop.00052.wav,Lauryn Hill,Columbia Records,4088.94,146,27,hiphop
+hiphop.00052.wav,Travis Scott,Columbia Records,4088.94,165,27,hiphop
+hiphop.00053.wav,Nas,XL Recordings,5597.64,149,9,hiphop
+hiphop.00053.wav,Kendrick Lamar,XL Recordings,5597.64,162,9,hiphop
+hiphop.00053.wav,Kanye West,XL Recordings,5597.64,150,9,hiphop
+hiphop.00054.wav,Eminem,Polydor Records,6504.61,155,6,hiphop
+hiphop.00055.wav,2Pac,Arista Records,5340.21,145,7,hiphop
+hiphop.00056.wav,Rakim,Virgin Records,1624.66,138,26,hiphop
+hiphop.00056.wav,Biggie Smalls,Virgin Records,1624.66,148,26,hiphop
+hiphop.00057.wav,Kid Cudi,BMG Rights Management,4539.08,144,31,hiphop
+hiphop.00058.wav,Lupe Fiasco,Atlantic Records,1010.83,156,10,hiphop
+hiphop.00059.wav,Public Enemy,Atlantic Records,4818.33,160,10,hiphop
+hiphop.00060.wav,Public Enemy,Rough Trade Records,4819.81,160,17,hiphop
+hiphop.00060.wav,Drake,Rough Trade Records,4819.81,147,17,hiphop
+hiphop.00061.wav,Cardi B,Tommy Boy Entertainment,4283.69,141,8,hiphop
+hiphop.00062.wav,Missy Elliott,Elektra Records,3899.92,157,18,hiphop
+hiphop.00063.wav,Snoop Dogg,Elektra Records,1531.12,159,18,hiphop
+hiphop.00063.wav,J. Cole,Elektra Records,1531.12,135,18,hiphop
+hiphop.00064.wav,Megan Thee Stallion,4AD,1649.35,166,22,hiphop
+hiphop.00065.wav,Lil Uzi Vert,Def Jam Recordings,4881.31,167,16,hiphop
+hiphop.00065.wav,Kanye West,Def Jam Recordings,4881.31,150,16,hiphop
+hiphop.00066.wav,Biggie Smalls,Merge Records,2498.36,148,3,hiphop
+hiphop.00067.wav,Cardi B,Sun Records,2330.03,141,1,hiphop
+hiphop.00068.wav,Nicki Minaj,Merge Records,5236.08,136,3,hiphop
+hiphop.00069.wav,50 Cent,Virgin Records,2994.09,137,26,hiphop
+hiphop.00070.wav,Drake,4AD,5810.7,147,22,hiphop
+hiphop.00071.wav,Ice Cube,Sub Pop Records,2893.82,154,32,hiphop
+hiphop.00072.wav,Drake,4AD,4205.98,147,22,hiphop
+hiphop.00073.wav,Snoop Dogg,Merge Records,217.25,159,3,hiphop
+hiphop.00074.wav,Beyoncé,BMG Rights Management,1652.2,134,31,hiphop
+hiphop.00075.wav,Chance the Rapper,Motown,4548.9,143,20,hiphop
+hiphop.00076.wav,Biggie Smalls,Columbia Records,2602.68,148,27,hiphop
+hiphop.00077.wav,Wiz Khalifa,Epic Records,3242.9,139,2,hiphop
+hiphop.00077.wav,Logic,Epic Records,3242.9,164,2,hiphop
+hiphop.00078.wav,Eminem,XL Recordings,3173.4,155,9,hiphop
+hiphop.00078.wav,OutKast,XL Recordings,3173.4,163,9,hiphop
+hiphop.00079.wav,Lil Wayne,Merge Records,2384.34,151,3,hiphop
+hiphop.00080.wav,Lil Wayne,BMG Rights Management,4609.28,151,31,hiphop
+hiphop.00081.wav,Missy Elliott,Virgin Records,3659.36,157,26,hiphop
+hiphop.00082.wav,2Pac,Jive Records,4320.16,145,5,hiphop
+hiphop.00083.wav,A$AP Rocky,Tommy Boy Entertainment,4096.8,158,8,hiphop
+hiphop.00084.wav,Run-D.M.C.,Interscope Records,1843.95,153,19,hiphop
+hiphop.00085.wav,Travis Scott,Merge Records,3899.87,165,3,hiphop
+hiphop.00086.wav,Megan Thee Stallion,Universal Music Group,2263.11,166,28,hiphop
+hiphop.00086.wav,J. Cole,Universal Music Group,2263.11,135,28,hiphop
+hiphop.00086.wav,Lil Wayne,Universal Music Group,2263.11,151,28,hiphop
+hiphop.00087.wav,Nicki Minaj,Sony Music Entertainment,3487.79,136,29,hiphop
+hiphop.00088.wav,J. Cole,Rough Trade Records,3808.3,135,17,hiphop
+hiphop.00088.wav,OutKast,Rough Trade Records,3808.3,163,17,hiphop
+hiphop.00089.wav,Travis Scott,4AD,3711.06,165,22,hiphop
+hiphop.00089.wav,Lauryn Hill,4AD,3711.06,146,22,hiphop
+hiphop.00089.wav,Lupe Fiasco,4AD,3711.06,156,22,hiphop
+hiphop.00090.wav,Lil Wayne,Arista Records,1896.52,151,7,hiphop
+hiphop.00091.wav,J. Cole,Interscope Records,2915.63,135,19,hiphop
+hiphop.00091.wav,Eminem,Interscope Records,2915.63,155,19,hiphop
+hiphop.00092.wav,Logic,Columbia Records,3779.43,164,27,hiphop
+hiphop.00093.wav,Biggie Smalls,Jive Records,2880.85,148,5,hiphop
+hiphop.00094.wav,Lil Uzi Vert,Sun Records,254.95,167,1,hiphop
+hiphop.00094.wav,Nas,Sun Records,254.95,149,1,hiphop
+hiphop.00094.wav,Wiz Khalifa,Sun Records,254.95,139,1,hiphop
+hiphop.00095.wav,OutKast,Virgin Records,5879.6,163,26,hiphop
+hiphop.00096.wav,Run-D.M.C.,Tommy Boy Entertainment,3323.2,153,8,hiphop
+hiphop.00097.wav,Drake,Motown,2716.64,147,20,hiphop
+hiphop.00097.wav,Travis Scott,Motown,2716.64,165,20,hiphop
+hiphop.00098.wav,Nicki Minaj,RCA Records,3904.83,136,11,hiphop
+hiphop.00099.wav,Eminem,Motown,2835.31,155,20,hiphop
+jazz.00000.wav,Lester Young,Sony Music Entertainment,3898.09,168,29,jazz
+jazz.00001.wav,Duke Ellington,Island Records,3970.26,169,12,jazz
+jazz.00002.wav,Stan Getz,Interscope Records,3302.46,170,19,jazz
+jazz.00002.wav,Art Blakey,Interscope Records,3302.46,171,19,jazz
+jazz.00003.wav,Bill Evans,Interscope Records,2482.27,172,19,jazz
+jazz.00003.wav,Dizzy Gillespie,Interscope Records,2482.27,173,19,jazz
+jazz.00003.wav,Wayne Shorter,Interscope Records,2482.27,174,19,jazz
+jazz.00004.wav,Charlie Christian,Sub Pop Records,5608.37,175,32,jazz
+jazz.00005.wav,Ella Fitzgerald,Republic Records,838.96,176,4,jazz
+jazz.00006.wav,Nat King Cole,Def Jam Recordings,1540.75,177,16,jazz
+jazz.00007.wav,Billie Holiday,Sub Pop Records,2782.69,178,32,jazz
+jazz.00008.wav,Duke Ellington,EMI Group,1981.88,169,30,jazz
+jazz.00009.wav,Diana Krall,4AD,1815.44,179,22,jazz
+jazz.00010.wav,John Coltrane,Sony Music Entertainment,4183.85,180,29,jazz
+jazz.00011.wav,Ahmad Jamal,BMG Rights Management,-537.32,181,31,jazz
+jazz.00012.wav,Charles Mingus,Virgin Records,3456.41,182,26,jazz
+jazz.00013.wav,Coleman Hawkins,Warner Music Group,6420.28,183,14,jazz
+jazz.00013.wav,Bill Evans,Warner Music Group,6420.28,172,14,jazz
+jazz.00013.wav,Chet Baker,Warner Music Group,6420.28,184,14,jazz
+jazz.00014.wav,Dizzy Gillespie,RCA Records,3444.17,173,11,jazz
+jazz.00014.wav,Charlie Parker,RCA Records,3444.17,185,11,jazz
+jazz.00014.wav,Keith Jarrett,RCA Records,3444.17,186,11,jazz
+jazz.00015.wav,Joe Pass,MCA Records,1102.79,187,24,jazz
+jazz.00015.wav,Nat King Cole,MCA Records,1102.79,177,24,jazz
+jazz.00016.wav,Bill Evans,RCA Records,4359.88,172,11,jazz
+jazz.00017.wav,Dave Brubeck,Merge Records,2874.87,188,3,jazz
+jazz.00018.wav,Miles Davis,Interscope Records,3980.64,189,19,jazz
+jazz.00019.wav,Dexter Gordon,Island Records,592.15,190,12,jazz
+jazz.00020.wav,Wayne Shorter,Columbia Records,890.27,174,27,jazz
+jazz.00020.wav,Lester Young,Columbia Records,890.27,168,27,jazz
+jazz.00021.wav,Nat King Cole,Warner Music Group,5567.43,177,14,jazz
+jazz.00022.wav,Diana Krall,Rough Trade Records,2948.76,179,17,jazz
+jazz.00023.wav,Nat King Cole,Elektra Records,4281.81,177,18,jazz
+jazz.00024.wav,Sarah Vaughan,Sire Records,639.52,191,15,jazz
+jazz.00024.wav,Charlie Parker,Sire Records,639.52,185,15,jazz
+jazz.00025.wav,Benny Goodman,4AD,1286.08,192,22,jazz
+jazz.00026.wav,John Coltrane,BMG Rights Management,4158.39,180,31,jazz
+jazz.00027.wav,Art Blakey,4AD,5503.38,171,22,jazz
+jazz.00028.wav,Coleman Hawkins,Stax Records,3510.02,183,25,jazz
+jazz.00029.wav,Cannonball Adderley,Island Records,3317.73,193,12,jazz
+jazz.00030.wav,Joe Pass,Columbia Records,337.08,187,27,jazz
+jazz.00030.wav,Sonny Rollins,Columbia Records,337.08,194,27,jazz
+jazz.00031.wav,Coleman Hawkins,MCA Records,954.71,183,24,jazz
+jazz.00031.wav,Charlie Christian,MCA Records,954.71,175,24,jazz
+jazz.00032.wav,Coleman Hawkins,BMG Rights Management,1731.68,183,31,jazz
+jazz.00033.wav,Coleman Hawkins,Interscope Records,2729.89,183,19,jazz
+jazz.00034.wav,Cannonball Adderley,RCA Records,4923.25,193,11,jazz
+jazz.00035.wav,Ella Fitzgerald,Sun Records,2018.43,176,1,jazz
+jazz.00035.wav,Count Basie,Sun Records,2018.43,195,1,jazz
+jazz.00035.wav,Lester Young,Sun Records,2018.43,168,1,jazz
+jazz.00036.wav,Ahmad Jamal,EMI Group,2632.48,181,30,jazz
+jazz.00036.wav,Lester Young,EMI Group,2632.48,168,30,jazz
+jazz.00037.wav,Lester Young,XL Recordings,3167.93,168,9,jazz
+jazz.00037.wav,Wes Montgomery,XL Recordings,3167.93,196,9,jazz
+jazz.00038.wav,Count Basie,Island Records,1672.58,195,12,jazz
+jazz.00038.wav,Dexter Gordon,Island Records,1672.58,190,12,jazz
+jazz.00039.wav,Duke Ellington,EMI Group,2902.21,169,30,jazz
+jazz.00040.wav,Nat King Cole,Stax Records,3137.28,177,25,jazz
+jazz.00041.wav,John Coltrane,Wind-Up Records,3372.84,180,13,jazz
+jazz.00042.wav,Sonny Rollins,Arista Records,3822.59,194,7,jazz
+jazz.00043.wav,Stan Getz,Def Jam Recordings,670.43,170,16,jazz
+jazz.00043.wav,Dexter Gordon,Def Jam Recordings,670.43,190,16,jazz
+jazz.00044.wav,Wes Montgomery,Sub Pop Records,3370.42,196,32,jazz
+jazz.00045.wav,Chet Baker,Merge Records,4283.21,184,3,jazz
+jazz.00046.wav,Cannonball Adderley,Motown,3578.28,193,20,jazz
+jazz.00047.wav,Ahmad Jamal,Merge Records,3355.4,181,3,jazz
+jazz.00048.wav,Charlie Christian,EMI Group,4237.88,175,30,jazz
+jazz.00049.wav,Ella Fitzgerald,Epic Records,2670.91,176,2,jazz
+jazz.00049.wav,Louis Armstrong,Epic Records,2670.91,197,2,jazz
+jazz.00050.wav,John Coltrane,Interscope Records,3832.48,180,19,jazz
+jazz.00051.wav,Charles Mingus,Universal Music Group,4394.56,182,28,jazz
+jazz.00052.wav,Sarah Vaughan,BMG Rights Management,3091.5,191,31,jazz
+jazz.00053.wav,Oscar Peterson,XL Recordings,1277.83,198,9,jazz
+jazz.00054.wav,Sarah Vaughan,EMI Group,5163.78,191,30,jazz
+jazz.00054.wav,Chick Corea,EMI Group,5163.78,199,30,jazz
+jazz.00055.wav,Count Basie,Atlantic Records,3809.75,195,10,jazz
+jazz.00055.wav,Benny Goodman,Atlantic Records,3809.75,192,10,jazz
+jazz.00056.wav,Art Blakey,Island Records,158.37,171,12,jazz
+jazz.00056.wav,Oscar Peterson,Island Records,158.37,198,12,jazz
+jazz.00056.wav,Billie Holiday,Island Records,158.37,178,12,jazz
+jazz.00057.wav,Charles Mingus,EMI Group,4762.11,182,30,jazz
+jazz.00057.wav,Ahmad Jamal,EMI Group,4762.11,181,30,jazz
+jazz.00057.wav,Billie Holiday,EMI Group,4762.11,178,30,jazz
+jazz.00058.wav,Thelonious Monk,Sony Music Entertainment,2031.37,200,29,jazz
+jazz.00058.wav,Ella Fitzgerald,Sony Music Entertainment,2031.37,176,29,jazz
+jazz.00059.wav,Herbie Hancock,Republic Records,1756.38,201,4,jazz
+jazz.00060.wav,Joe Pass,Merge Records,4480.38,187,3,jazz
+jazz.00061.wav,Herbie Hancock,Stax Records,3417.65,201,25,jazz
+jazz.00061.wav,Benny Goodman,Stax Records,3417.65,192,25,jazz
+jazz.00061.wav,Charlie Christian,Stax Records,3417.65,175,25,jazz
+jazz.00062.wav,Joe Pass,Virgin Records,1240.94,187,26,jazz
+jazz.00063.wav,Billie Holiday,Motown,2504.62,178,20,jazz
+jazz.00064.wav,Keith Jarrett,Virgin Records,3095.62,186,26,jazz
+jazz.00065.wav,Cannonball Adderley,Jive Records,3179.19,193,5,jazz
+jazz.00065.wav,Art Blakey,Jive Records,3179.19,171,5,jazz
+jazz.00066.wav,Chick Corea,4AD,2649.87,199,22,jazz
+jazz.00067.wav,Diana Krall,Rough Trade Records,5660.26,179,17,jazz
+jazz.00068.wav,Sarah Vaughan,Interscope Records,6173.78,191,19,jazz
+jazz.00068.wav,John Coltrane,Interscope Records,6173.78,180,19,jazz
+jazz.00068.wav,Charlie Parker,Interscope Records,6173.78,185,19,jazz
+jazz.00069.wav,Louis Armstrong,Rough Trade Records,1132.1,197,17,jazz
+jazz.00069.wav,Coleman Hawkins,Rough Trade Records,1132.1,183,17,jazz
+jazz.00070.wav,Dave Brubeck,Universal Music Group,3872.76,188,28,jazz
+jazz.00070.wav,Nat King Cole,Universal Music Group,3872.76,177,28,jazz
+jazz.00071.wav,Ella Fitzgerald,Rough Trade Records,1467.8,176,17,jazz
+jazz.00072.wav,Count Basie,Stax Records,3128.25,195,25,jazz
+jazz.00072.wav,Wes Montgomery,Stax Records,3128.25,196,25,jazz
+jazz.00072.wav,Charlie Parker,Stax Records,3128.25,185,25,jazz
+jazz.00073.wav,Bill Evans,4AD,2073.35,172,22,jazz
+jazz.00074.wav,Ahmad Jamal,Merge Records,1093.13,181,3,jazz
+jazz.00074.wav,Joe Pass,Merge Records,1093.13,187,3,jazz
+jazz.00075.wav,Dave Brubeck,Arista Records,5044.04,188,7,jazz
+jazz.00076.wav,Wes Montgomery,Sun Records,5230.96,196,1,jazz
+jazz.00077.wav,John Coltrane,Republic Records,787.96,180,4,jazz
+jazz.00077.wav,Herbie Hancock,Republic Records,787.96,201,4,jazz
+jazz.00077.wav,Keith Jarrett,Republic Records,787.96,186,4,jazz
+jazz.00078.wav,Keith Jarrett,Columbia Records,3411.7,186,27,jazz
+jazz.00078.wav,Dave Brubeck,Columbia Records,3411.7,188,27,jazz
+jazz.00079.wav,John Coltrane,Sun Records,2196.58,180,1,jazz
+jazz.00080.wav,Chet Baker,BMG Rights Management,2250.12,184,31,jazz
+jazz.00081.wav,Oscar Peterson,Sub Pop Records,3784.51,198,32,jazz
+jazz.00082.wav,Duke Ellington,Arista Records,2101.44,169,7,jazz
+jazz.00083.wav,Benny Goodman,Interscope Records,3658.22,192,19,jazz
+jazz.00084.wav,Count Basie,EMI Group,5623.81,195,30,jazz
+jazz.00085.wav,Louis Armstrong,Motown,1637.17,197,20,jazz
+jazz.00086.wav,Louis Armstrong,Republic Records,4197.76,197,4,jazz
+jazz.00087.wav,Lester Young,Motown,3856.87,168,20,jazz
+jazz.00088.wav,Charlie Parker,Universal Music Group,3231.86,185,28,jazz
+jazz.00088.wav,Billie Holiday,Universal Music Group,3231.86,178,28,jazz
+jazz.00088.wav,Duke Ellington,Universal Music Group,3231.86,169,28,jazz
+jazz.00089.wav,Cannonball Adderley,Motown,2534.72,193,20,jazz
+jazz.00090.wav,Chick Corea,RCA Records,2852.58,199,11,jazz
+jazz.00091.wav,Billie Holiday,Atlantic Records,3197.01,178,10,jazz
+jazz.00091.wav,Cannonball Adderley,Atlantic Records,3197.01,193,10,jazz
+jazz.00092.wav,Oscar Peterson,Elektra Records,2180.76,198,18,jazz
+jazz.00093.wav,Benny Goodman,Interscope Records,1183.92,192,19,jazz
+jazz.00094.wav,Wes Montgomery,Warner Music Group,4540.47,196,14,jazz
+jazz.00095.wav,Coleman Hawkins,Jive Records,2645.11,183,5,jazz
+jazz.00096.wav,Dizzy Gillespie,Columbia Records,884.31,173,27,jazz
+jazz.00097.wav,Sonny Rollins,Universal Music Group,1594.2,194,28,jazz
+jazz.00098.wav,Benny Goodman,Verve Records,2916.97,192,23,jazz
+jazz.00099.wav,Charles Mingus,Merge Records,5397.34,182,3,jazz
+metal.00000.wav,Floor Jansen,XL Recordings,827.66,202,9,metal
+metal.00001.wav,Axl Rose,Virgin Records,3350.28,203,26,metal
+metal.00002.wav,Sharon den Adel,Sony Music Entertainment,4302.51,204,29,metal
+metal.00002.wav,Kerry King,Sony Music Entertainment,4302.51,205,29,metal
+metal.00003.wav,Chuck Schuldiner,Def Jam Recordings,2687.99,206,16,metal
+metal.00004.wav,Ozzy Osbourne,Polydor Records,-1008.08,207,6,metal
+metal.00005.wav,Rob Halford,BMG Rights Management,359.02,208,31,metal
+metal.00006.wav,Tony Iommi,Virgin Records,2961.01,209,26,metal
+metal.00006.wav,Chuck Schuldiner,Virgin Records,2961.01,206,26,metal
+metal.00006.wav,Bruce Dickinson,Virgin Records,2961.01,210,26,metal
+metal.00007.wav,Joey DeMaio,Jive Records,2860.22,211,5,metal
+metal.00008.wav,Simone Simons,EMI Group,2137.38,212,30,metal
+metal.00008.wav,Charlotte Wessels,EMI Group,2137.38,213,30,metal
+metal.00008.wav,Tony Iommi,EMI Group,2137.38,209,30,metal
+metal.00009.wav,Lemmy Kilmister,Island Records,3233.3,214,12,metal
+metal.00010.wav,Floor Jansen,Tommy Boy Entertainment,3777.86,202,8,metal
+metal.00011.wav,Sharon den Adel,Island Records,1013.31,204,12,metal
+metal.00012.wav,James Hetfield,Virgin Records,529.08,215,26,metal
+metal.00013.wav,Dave Mustaine,Merge Records,1552.87,216,3,metal
+metal.00013.wav,Sharon den Adel,Merge Records,1552.87,204,3,metal
+metal.00013.wav,Axl Rose,Merge Records,1552.87,203,3,metal
+metal.00014.wav,Mikael Akerfeldt,Capitol Records,2094.91,217,21,metal
+metal.00014.wav,Joey DeMaio,Capitol Records,2094.91,211,21,metal
+metal.00014.wav,Kerry King,Capitol Records,2094.91,205,21,metal
+metal.00015.wav,Joey DeMaio,Interscope Records,1399.11,211,19,metal
+metal.00015.wav,Cristina Scabbia,Interscope Records,1399.11,218,19,metal
+metal.00016.wav,Sharon den Adel,Capitol Records,5129.12,204,21,metal
+metal.00016.wav,Axl Rose,Capitol Records,5129.12,203,21,metal
+metal.00016.wav,Michael Amott,Capitol Records,5129.12,219,21,metal
+metal.00017.wav,Michael Amott,Sire Records,1280.93,219,15,metal
+metal.00018.wav,Max Cavalera,Rough Trade Records,5572.85,220,17,metal
+metal.00019.wav,Marty Friedman,Columbia Records,4293.84,221,27,metal
+metal.00020.wav,Zakk Wylde,Sony Music Entertainment,3679.05,222,29,metal
+metal.00021.wav,Zakk Wylde,EMI Group,3386.69,222,30,metal
+metal.00021.wav,Axl Rose,EMI Group,3386.69,203,30,metal
+metal.00022.wav,Zakk Wylde,Warner Music Group,2175.17,222,14,metal
+metal.00023.wav,Sharon den Adel,Interscope Records,3674.24,204,19,metal
+metal.00023.wav,Simone Simons,Interscope Records,3674.24,212,19,metal
+metal.00024.wav,Lemmy Kilmister,Polydor Records,3023.11,214,6,metal
+metal.00025.wav,Alissa White-Gluz,Motown,3918.29,223,20,metal
+metal.00025.wav,Marty Friedman,Motown,3918.29,221,20,metal
+metal.00025.wav,Chuck Schuldiner,Motown,3918.29,206,20,metal
+metal.00026.wav,Lars Ulrich,Columbia Records,3819.29,224,27,metal
+metal.00027.wav,Kirk Hammett,Wind-Up Records,2324.44,225,13,metal
+metal.00027.wav,Tony Iommi,Wind-Up Records,2324.44,209,13,metal
+metal.00027.wav,Ozzy Osbourne,Wind-Up Records,2324.44,207,13,metal
+metal.00028.wav,Tom Araya,Atlantic Records,3921.14,226,10,metal
+metal.00029.wav,Mikael Akerfeldt,Sun Records,4102.78,217,1,metal
+metal.00030.wav,Mille Petrozza,Merge Records,5078.06,227,3,metal
+metal.00031.wav,Ozzy Osbourne,Interscope Records,3125.68,207,19,metal
+metal.00032.wav,Ozzy Osbourne,MCA Records,5935.13,207,24,metal
+metal.00032.wav,Sharon den Adel,MCA Records,5935.13,204,24,metal
+metal.00032.wav,Joey DeMaio,MCA Records,5935.13,211,24,metal
+metal.00033.wav,Tom Araya,Motown,2546.35,226,20,metal
+metal.00033.wav,Doro Pesch,Motown,2546.35,228,20,metal
+metal.00034.wav,Floor Jansen,Epic Records,1614.3,202,2,metal
+metal.00035.wav,Randy Rhoads,Sun Records,1840.51,229,1,metal
+metal.00036.wav,Rob Halford,BMG Rights Management,2177.14,208,31,metal
+metal.00037.wav,Tom Araya,Stax Records,2160.6,226,25,metal
+metal.00037.wav,Kirk Hammett,Stax Records,2160.6,225,25,metal
+metal.00038.wav,Sharon den Adel,Elektra Records,1843.71,204,18,metal
+metal.00038.wav,Mille Petrozza,Elektra Records,1843.71,227,18,metal
+metal.00038.wav,Rob Halford,Elektra Records,1843.71,208,18,metal
+metal.00039.wav,Lars Ulrich,Stax Records,4556.99,224,25,metal
+metal.00040.wav,Axl Rose,Island Records,2215.49,203,12,metal
+metal.00041.wav,Joey DeMaio,Columbia Records,4708.53,211,27,metal
+metal.00042.wav,Kirk Hammett,Jive Records,904.2,225,5,metal
+metal.00043.wav,Joey DeMaio,Tommy Boy Entertainment,5222.83,211,8,metal
+metal.00044.wav,Axl Rose,Interscope Records,3036.07,203,19,metal
+metal.00045.wav,Angela Gossow,Atlantic Records,1739.18,230,10,metal
+metal.00046.wav,Ozzy Osbourne,Island Records,2711.51,207,12,metal
+metal.00047.wav,Floor Jansen,Tommy Boy Entertainment,2745.83,202,8,metal
+metal.00048.wav,Joey DeMaio,MCA Records,1473.35,211,24,metal
+metal.00049.wav,Sharon den Adel,Wind-Up Records,3423.46,204,13,metal
+metal.00050.wav,Cristina Scabbia,BMG Rights Management,2678.13,218,31,metal
+metal.00050.wav,Floor Jansen,BMG Rights Management,2678.13,202,31,metal
+metal.00051.wav,Lemmy Kilmister,Republic Records,2671.06,214,4,metal
+metal.00052.wav,Charlotte Wessels,Virgin Records,4066.37,213,26,metal
+metal.00053.wav,Max Cavalera,4AD,5221.75,220,22,metal
+metal.00054.wav,Floor Jansen,Stax Records,1903.26,202,25,metal
+metal.00055.wav,Doro Pesch,Island Records,3143.06,228,12,metal
+metal.00056.wav,Michael Amott,MCA Records,1366.68,219,24,metal
+metal.00057.wav,Chuck Schuldiner,Sub Pop Records,5043.73,206,32,metal
+metal.00058.wav,Joey DeMaio,4AD,382.34,211,22,metal
+metal.00059.wav,Tony Iommi,Stax Records,3340.5,209,25,metal
+metal.00060.wav,James Hetfield,Def Jam Recordings,5360.27,215,16,metal
+metal.00060.wav,Michael Amott,Def Jam Recordings,5360.27,219,16,metal
+metal.00060.wav,Dave Mustaine,Def Jam Recordings,5360.27,216,16,metal
+metal.00061.wav,Angela Gossow,Polydor Records,2242.92,230,6,metal
+metal.00061.wav,Marty Friedman,Polydor Records,2242.92,221,6,metal
+metal.00062.wav,Cristina Scabbia,4AD,3706.57,218,22,metal
+metal.00063.wav,Axl Rose,BMG Rights Management,3797.59,203,31,metal
+metal.00064.wav,Cristina Scabbia,Island Records,1985.62,218,12,metal
+metal.00065.wav,Joey DeMaio,Stax Records,7331.9,211,25,metal
+metal.00066.wav,Charlotte Wessels,Capitol Records,2659.57,213,21,metal
+metal.00067.wav,Chuck Schuldiner,Jive Records,647.48,206,5,metal
+metal.00067.wav,Mille Petrozza,Jive Records,647.48,227,5,metal
+metal.00068.wav,Tom Araya,Warner Music Group,2396.65,226,14,metal
+metal.00069.wav,Ozzy Osbourne,RCA Records,1890.55,207,11,metal
+metal.00070.wav,Cristina Scabbia,Merge Records,3910.63,218,3,metal
+metal.00070.wav,Angela Gossow,Merge Records,3910.63,230,3,metal
+metal.00071.wav,Sharon den Adel,Sun Records,2635.12,204,1,metal
+metal.00072.wav,Randy Rhoads,Rough Trade Records,3694.88,229,17,metal
+metal.00073.wav,Kirk Hammett,Universal Music Group,3765.55,225,28,metal
+metal.00073.wav,Marty Friedman,Universal Music Group,3765.55,221,28,metal
+metal.00073.wav,Doro Pesch,Universal Music Group,3765.55,228,28,metal
+metal.00074.wav,Lzzy Hale,Motown,4345.91,231,20,metal
+metal.00074.wav,Dave Mustaine,Motown,4345.91,216,20,metal
+metal.00075.wav,Lars Ulrich,Sun Records,2759.67,224,1,metal
+metal.00076.wav,Max Cavalera,Sire Records,1052.02,220,15,metal
+metal.00076.wav,Charlotte Wessels,Sire Records,1052.02,213,15,metal
+metal.00077.wav,Randy Rhoads,Verve Records,4897.69,229,23,metal
+metal.00078.wav,Alissa White-Gluz,Sun Records,3043.44,223,1,metal
+metal.00079.wav,Marty Friedman,MCA Records,3995.9,221,24,metal
+metal.00080.wav,Zakk Wylde,Universal Music Group,4205.62,222,28,metal
+metal.00081.wav,Mikael Akerfeldt,XL Recordings,3897.65,217,9,metal
+metal.00081.wav,Marty Friedman,XL Recordings,3897.65,221,9,metal
+metal.00081.wav,Dave Mustaine,XL Recordings,3897.65,216,9,metal
+metal.00082.wav,Axl Rose,EMI Group,323.35,203,30,metal
+metal.00083.wav,Sharon den Adel,Sire Records,3580.53,204,15,metal
+metal.00084.wav,Alissa White-Gluz,Atlantic Records,2181.93,223,10,metal
+metal.00085.wav,Charlotte Wessels,Arista Records,2747.22,213,7,metal
+metal.00085.wav,Lzzy Hale,Arista Records,2747.22,231,7,metal
+metal.00086.wav,Floor Jansen,Virgin Records,1271.53,202,26,metal
+metal.00086.wav,Alissa White-Gluz,Virgin Records,1271.53,223,26,metal
+metal.00086.wav,Marty Friedman,Virgin Records,1271.53,221,26,metal
+metal.00087.wav,Zakk Wylde,Rough Trade Records,729.81,222,17,metal
+metal.00088.wav,Marty Friedman,Sun Records,3057.68,221,1,metal
+metal.00089.wav,Floor Jansen,Capitol Records,4014.09,202,21,metal
+metal.00089.wav,Mikael Akerfeldt,Capitol Records,4014.09,217,21,metal
+metal.00089.wav,Max Cavalera,Capitol Records,4014.09,220,21,metal
+metal.00090.wav,Randy Rhoads,Capitol Records,5938.75,229,21,metal
+metal.00090.wav,Max Cavalera,Capitol Records,5938.75,220,21,metal
+metal.00091.wav,Mille Petrozza,Sub Pop Records,3708.21,227,32,metal
+metal.00092.wav,Zakk Wylde,MCA Records,4445.12,222,24,metal
+metal.00092.wav,Chuck Schuldiner,MCA Records,4445.12,206,24,metal
+metal.00093.wav,Alissa White-Gluz,Sub Pop Records,2895.54,223,32,metal
+metal.00094.wav,Cristina Scabbia,Rough Trade Records,4900.59,218,17,metal
+metal.00095.wav,Simone Simons,Jive Records,4265.29,212,5,metal
+metal.00096.wav,Tarja Turunen,Republic Records,4192.95,232,4,metal
+metal.00097.wav,Michael Amott,Virgin Records,2916.76,219,26,metal
+metal.00098.wav,Lemmy Kilmister,RCA Records,3756.53,214,11,metal
+metal.00099.wav,Mikael Akerfeldt,Island Records,371.9,217,12,metal
+pop.00000.wav,Beyoncé,EMI Group,2085.1,134,30,pop
+pop.00001.wav,Camila Cabello,Sire Records,3784.08,233,15,pop
+pop.00002.wav,Billie Eilish,Republic Records,2366.96,234,4,pop
+pop.00002.wav,Cardi B,Republic Records,2366.96,141,4,pop
+pop.00003.wav,Katy Perry,Sire Records,1129.04,235,15,pop
+pop.00004.wav,Rihanna,Sun Records,3721.51,236,1,pop
+pop.00005.wav,Rihanna,Universal Music Group,6030.88,236,28,pop
+pop.00006.wav,Post Malone,RCA Records,2959.12,237,11,pop
+pop.00007.wav,Ariana Grande,Motown,1979.3,238,20,pop
+pop.00008.wav,John Legend,Sire Records,3990.62,239,15,pop
+pop.00008.wav,Katy Perry,Sire Records,3990.62,235,15,pop
+pop.00009.wav,Shawn Mendes,Atlantic Records,2408.77,240,10,pop
+pop.00010.wav,Ariana Grande,RCA Records,2907.6,238,11,pop
+pop.00011.wav,Lady Gaga,Sire Records,-463.11,241,15,pop
+pop.00011.wav,Lizzo,Sire Records,-463.11,242,15,pop
+pop.00012.wav,Jason Derulo,Sony Music Entertainment,3274.03,243,29,pop
+pop.00012.wav,Sam Smith,Sony Music Entertainment,3274.03,244,29,pop
+pop.00013.wav,Bruno Mars,Def Jam Recordings,4357.46,245,16,pop
+pop.00014.wav,Ariana Grande,Polydor Records,4039.61,238,6,pop
+pop.00014.wav,Taylor Swift,Polydor Records,4039.61,246,6,pop
+pop.00014.wav,Shawn Mendes,Polydor Records,4039.61,240,6,pop
+pop.00015.wav,Shakira,BMG Rights Management,2911.06,247,31,pop
+pop.00016.wav,Ed Sheeran,Virgin Records,2530.34,248,26,pop
+pop.00017.wav,Billie Eilish,Atlantic Records,4808.51,234,10,pop
+pop.00017.wav,Lizzo,Atlantic Records,4808.51,242,10,pop
+pop.00018.wav,Taylor Swift,Warner Music Group,3746.87,246,14,pop
+pop.00018.wav,Beyoncé,Warner Music Group,3746.87,134,14,pop
+pop.00019.wav,Jason Derulo,RCA Records,2623.6,243,11,pop
+pop.00020.wav,Adele,Def Jam Recordings,-1755.66,249,16,pop
+pop.00021.wav,Nicki Minaj,RCA Records,1438.58,136,11,pop
+pop.00022.wav,Dua Lipa,Capitol Records,3622.9,250,21,pop
+pop.00022.wav,Miley Cyrus,Capitol Records,3622.9,251,21,pop
+pop.00023.wav,Billie Eilish,Sire Records,4197.69,234,15,pop
+pop.00023.wav,Justin Bieber,Sire Records,4197.69,252,15,pop
+pop.00024.wav,Maroon 5,Capitol Records,5758.81,253,21,pop
+pop.00025.wav,Miley Cyrus,Merge Records,1479.08,251,3,pop
+pop.00026.wav,Billie Eilish,Columbia Records,2114.65,234,27,pop
+pop.00027.wav,Zayn Malik,Motown,1345.01,254,20,pop
+pop.00027.wav,Cardi B,Motown,1345.01,141,20,pop
+pop.00028.wav,Ariana Grande,Verve Records,-835.03,238,23,pop
+pop.00029.wav,Adele,Sony Music Entertainment,2612.88,249,29,pop
+pop.00030.wav,Post Malone,Elektra Records,1975.08,237,18,pop
+pop.00031.wav,Imagine Dragons,Rough Trade Records,6028.01,255,17,pop
+pop.00031.wav,Adele,Rough Trade Records,6028.01,249,17,pop
+pop.00031.wav,Ariana Grande,Rough Trade Records,6028.01,238,17,pop
+pop.00032.wav,Imagine Dragons,Merge Records,1377.36,255,3,pop
+pop.00033.wav,Charlie Puth,Sun Records,2581.86,256,1,pop
+pop.00034.wav,Shakira,RCA Records,4458.24,247,11,pop
+pop.00035.wav,Maroon 5,Sire Records,3231.19,253,15,pop
+pop.00036.wav,Halsey,BMG Rights Management,3601.29,257,31,pop
+pop.00037.wav,Sia,Motown,985.05,258,20,pop
+pop.00038.wav,Katy Perry,EMI Group,2578.95,235,30,pop
+pop.00038.wav,Lady Gaga,EMI Group,2578.95,241,30,pop
+pop.00038.wav,Selena Gomez,EMI Group,2578.95,259,30,pop
+pop.00039.wav,Justin Bieber,Columbia Records,3222.31,252,27,pop
+pop.00039.wav,Lady Gaga,Columbia Records,3222.31,241,27,pop
+pop.00040.wav,Drake,Merge Records,-65.63,147,3,pop
+pop.00041.wav,Zayn Malik,Sony Music Entertainment,4415.3,254,29,pop
+pop.00041.wav,Shawn Mendes,Sony Music Entertainment,4415.3,240,29,pop
+pop.00041.wav,Katy Perry,Sony Music Entertainment,4415.3,235,29,pop
+pop.00042.wav,Adele,Rough Trade Records,3225.68,249,17,pop
+pop.00042.wav,Sam Smith,Rough Trade Records,3225.68,244,17,pop
+pop.00043.wav,Sam Smith,Interscope Records,6858.32,244,19,pop
+pop.00044.wav,Lizzo,Def Jam Recordings,4301.1,242,16,pop
+pop.00044.wav,Nicki Minaj,Def Jam Recordings,4301.1,136,16,pop
+pop.00045.wav,Selena Gomez,MCA Records,2669.2,259,24,pop
+pop.00046.wav,Selena Gomez,XL Recordings,6399.34,259,9,pop
+pop.00047.wav,Camila Cabello,Warner Music Group,2171.73,233,14,pop
+pop.00048.wav,Miley Cyrus,Atlantic Records,4542.51,251,10,pop
+pop.00048.wav,Shakira,Atlantic Records,4542.51,247,10,pop
+pop.00048.wav,Harry Styles,Atlantic Records,4542.51,260,10,pop
+pop.00049.wav,Dua Lipa,4AD,2936.63,250,22,pop
+pop.00050.wav,Bruno Mars,Merge Records,3611.06,245,3,pop
+pop.00051.wav,Imagine Dragons,EMI Group,4335.08,255,30,pop
+pop.00052.wav,Taylor Swift,Epic Records,1696.67,246,2,pop
+pop.00052.wav,Khalid,Epic Records,1696.67,261,2,pop
+pop.00053.wav,Dua Lipa,Sire Records,2387.95,250,15,pop
+pop.00054.wav,Harry Styles,MCA Records,2380.94,260,24,pop
+pop.00055.wav,Beyoncé,Epic Records,3337.57,134,2,pop
+pop.00056.wav,Zayn Malik,Island Records,5096.36,254,12,pop
+pop.00057.wav,Jason Derulo,Wind-Up Records,4475.64,243,13,pop
+pop.00058.wav,Imagine Dragons,Jive Records,1840.94,255,5,pop
+pop.00058.wav,Billie Eilish,Jive Records,1840.94,234,5,pop
+pop.00059.wav,Rihanna,Verve Records,2113.81,236,23,pop
+pop.00059.wav,Cardi B,Verve Records,2113.81,141,23,pop
+pop.00060.wav,Khalid,MCA Records,3741.36,261,24,pop
+pop.00060.wav,Ed Sheeran,MCA Records,3741.36,248,24,pop
+pop.00061.wav,The Weeknd,Rough Trade Records,3665.75,262,17,pop
+pop.00062.wav,Sia,EMI Group,1436.19,258,30,pop
+pop.00062.wav,Shakira,EMI Group,1436.19,247,30,pop
+pop.00063.wav,Dua Lipa,Arista Records,3896.2,250,7,pop
+pop.00064.wav,Camila Cabello,Stax Records,2583.92,233,25,pop
+pop.00064.wav,Sam Smith,Stax Records,2583.92,244,25,pop
+pop.00064.wav,Post Malone,Stax Records,2583.92,237,25,pop
+pop.00065.wav,Dua Lipa,Arista Records,3884.59,250,7,pop
+pop.00066.wav,Zayn Malik,Sony Music Entertainment,1439.31,254,29,pop
+pop.00066.wav,Katy Perry,Sony Music Entertainment,1439.31,235,29,pop
+pop.00067.wav,Khalid,Arista Records,-14.36,261,7,pop
+pop.00067.wav,Cardi B,Arista Records,-14.36,141,7,pop
+pop.00068.wav,Bruno Mars,Wind-Up Records,1116.85,245,13,pop
+pop.00069.wav,Nicki Minaj,Tommy Boy Entertainment,3491.66,136,8,pop
+pop.00070.wav,John Legend,EMI Group,2122.03,239,30,pop
+pop.00070.wav,Katy Perry,EMI Group,2122.03,235,30,pop
+pop.00070.wav,Drake,EMI Group,2122.03,147,30,pop
+pop.00071.wav,Halsey,Rough Trade Records,2476.2,257,17,pop
+pop.00071.wav,Charlie Puth,Rough Trade Records,2476.2,256,17,pop
+pop.00072.wav,Justin Bieber,XL Recordings,1331.43,252,9,pop
+pop.00073.wav,Adele,Interscope Records,2289.12,249,19,pop
+pop.00074.wav,Billie Eilish,Elektra Records,3320.05,234,18,pop
+pop.00075.wav,Charlie Puth,RCA Records,2637.05,256,11,pop
+pop.00076.wav,Post Malone,Capitol Records,2577.69,237,21,pop
+pop.00076.wav,Lady Gaga,Capitol Records,2577.69,241,21,pop
+pop.00077.wav,Shawn Mendes,Polydor Records,3691.16,240,6,pop
+pop.00078.wav,Nicki Minaj,Polydor Records,2924.51,136,6,pop
+pop.00078.wav,Shakira,Polydor Records,2924.51,247,6,pop
+pop.00078.wav,Drake,Polydor Records,2924.51,147,6,pop
+pop.00079.wav,Cardi B,BMG Rights Management,3363.93,141,31,pop
+pop.00080.wav,Selena Gomez,Warner Music Group,3130.76,259,14,pop
+pop.00081.wav,Sam Smith,MCA Records,1639.71,244,24,pop
+pop.00082.wav,Zayn Malik,Wind-Up Records,1727.45,254,13,pop
+pop.00082.wav,Ariana Grande,Wind-Up Records,1727.45,238,13,pop
+pop.00083.wav,Miley Cyrus,Epic Records,2543.58,251,2,pop
+pop.00084.wav,Selena Gomez,Arista Records,2930.35,259,7,pop
+pop.00085.wav,Halsey,EMI Group,5032.1,257,30,pop
+pop.00086.wav,Nicki Minaj,Virgin Records,4360.75,136,26,pop
+pop.00087.wav,Jason Derulo,Island Records,4825.1,243,12,pop
+pop.00088.wav,Lady Gaga,Stax Records,4059.23,241,25,pop
+pop.00089.wav,Bruno Mars,XL Recordings,4299.86,245,9,pop
+pop.00089.wav,Camila Cabello,XL Recordings,4299.86,233,9,pop
+pop.00090.wav,Khalid,Merge Records,3064.92,261,3,pop
+pop.00091.wav,Lizzo,EMI Group,2208.93,242,30,pop
+pop.00092.wav,Katy Perry,RCA Records,2612.87,235,11,pop
+pop.00092.wav,Lizzo,RCA Records,2612.87,242,11,pop
+pop.00093.wav,Ed Sheeran,Tommy Boy Entertainment,5348.4,248,8,pop
+pop.00094.wav,Katy Perry,Def Jam Recordings,1271.29,235,16,pop
+pop.00095.wav,Taylor Swift,Merge Records,2832.94,246,3,pop
+pop.00096.wav,Post Malone,Virgin Records,2684.51,237,26,pop
+pop.00096.wav,Adele,Virgin Records,2684.51,249,26,pop
+pop.00096.wav,Khalid,Virgin Records,2684.51,261,26,pop
+pop.00097.wav,Katy Perry,Republic Records,3764.5,235,4,pop
+pop.00097.wav,Zayn Malik,Republic Records,3764.5,254,4,pop
+pop.00098.wav,Bruno Mars,Interscope Records,1937.39,245,19,pop
+pop.00099.wav,Dua Lipa,Sony Music Entertainment,757.54,250,29,pop
+pop.00099.wav,Ed Sheeran,Sony Music Entertainment,757.54,248,29,pop
+pop.00099.wav,Halsey,Sony Music Entertainment,757.54,257,29,pop
+reggae.00000.wav,Sean Paul,EMI Group,2841.38,263,30,reggae
+reggae.00001.wav,Sizzla,Sun Records,5780.75,264,1,reggae
+reggae.00002.wav,Rita Marley,Polydor Records,-623.25,265,6,reggae
+reggae.00003.wav,Gentleman,Polydor Records,3067.04,266,6,reggae
+reggae.00004.wav,Capleton,MCA Records,3909.48,267,24,reggae
+reggae.00004.wav,Peter Tosh,MCA Records,3909.48,268,24,reggae
+reggae.00005.wav,Junior Gong,Sub Pop Records,4779.87,269,32,reggae
+reggae.00006.wav,Sean Paul,Island Records,2049.16,263,12,reggae
+reggae.00007.wav,Protoje,Polydor Records,3622.88,270,6,reggae
+reggae.00007.wav,Black Uhuru,Polydor Records,3622.88,271,6,reggae
+reggae.00008.wav,Gentleman,Warner Music Group,2453.47,266,14,reggae
+reggae.00009.wav,Sean Paul,Elektra Records,4141.01,263,18,reggae
+reggae.00010.wav,Tarrus Riley,EMI Group,269.06,272,30,reggae
+reggae.00010.wav,Inner Circle,EMI Group,269.06,273,30,reggae
+reggae.00011.wav,Stephen Marley,Sun Records,4626.78,274,1,reggae
+reggae.00011.wav,Junior Gong,Sun Records,4626.78,269,1,reggae
+reggae.00012.wav,SOJA,Sub Pop Records,1677.54,275,32,reggae
+reggae.00013.wav,Steel Pulse,Epic Records,1610.9,276,2,reggae
+reggae.00014.wav,Rita Marley,Def Jam Recordings,3707.53,265,16,reggae
+reggae.00015.wav,Buju Banton,Epic Records,1618.17,277,2,reggae
+reggae.00015.wav,Sizzla,Epic Records,1618.17,264,2,reggae
+reggae.00015.wav,Third World,Epic Records,1618.17,278,2,reggae
+reggae.00016.wav,Protoje,Republic Records,2515.34,270,4,reggae
+reggae.00016.wav,Junior Gong,Republic Records,2515.34,269,4,reggae
+reggae.00016.wav,Beres Hammond,Republic Records,2515.34,279,4,reggae
+reggae.00017.wav,Max Romeo,Merge Records,3059.7,280,3,reggae
+reggae.00018.wav,Bob Marley,Interscope Records,3641.52,281,19,reggae
+reggae.00019.wav,Shaggy,RCA Records,1776.88,282,11,reggae
+reggae.00020.wav,Burning Spear,XL Recordings,3263.19,283,9,reggae
+reggae.00021.wav,Dennis Brown,Sub Pop Records,4095.21,284,32,reggae
+reggae.00022.wav,Third World,Verve Records,6509.98,278,23,reggae
+reggae.00023.wav,Beres Hammond,EMI Group,2370.55,279,30,reggae
+reggae.00023.wav,Jimmy Cliff,EMI Group,2370.55,285,30,reggae
+reggae.00024.wav,Shaggy,Columbia Records,2067.63,282,27,reggae
+reggae.00025.wav,Buju Banton,Sony Music Entertainment,1634.38,277,29,reggae
+reggae.00026.wav,Freddie McGregor,Merge Records,3203.31,286,3,reggae
+reggae.00027.wav,Gentleman,Republic Records,2956.27,266,4,reggae
+reggae.00028.wav,Gregory Isaacs,Tommy Boy Entertainment,2935.69,287,8,reggae
+reggae.00029.wav,Gregory Isaacs,Warner Music Group,-267.67,287,14,reggae
+reggae.00030.wav,Peter Tosh,Republic Records,3570.21,268,4,reggae
+reggae.00031.wav,Protoje,Tommy Boy Entertainment,1120.85,270,8,reggae
+reggae.00032.wav,Tarrus Riley,Sun Records,2663.95,272,1,reggae
+reggae.00033.wav,Jimmy Cliff,Tommy Boy Entertainment,1230.28,285,8,reggae
+reggae.00034.wav,Chronixx,Jive Records,3514.5,288,5,reggae
+reggae.00035.wav,Ziggy Marley,Virgin Records,1094.06,289,26,reggae
+reggae.00035.wav,Inner Circle,Virgin Records,1094.06,273,26,reggae
+reggae.00035.wav,Black Uhuru,Virgin Records,1094.06,271,26,reggae
+reggae.00036.wav,Alborosie,Atlantic Records,3946.05,290,10,reggae
+reggae.00037.wav,Capleton,EMI Group,3953.33,267,30,reggae
+reggae.00038.wav,Ziggy Marley,Jive Records,2589.09,289,5,reggae
+reggae.00039.wav,SOJA,RCA Records,2772.4,275,11,reggae
+reggae.00040.wav,Beres Hammond,BMG Rights Management,4182.48,279,31,reggae
+reggae.00041.wav,Marcia Griffiths,Merge Records,4680.05,291,3,reggae
+reggae.00042.wav,SOJA,Polydor Records,2273.1,275,6,reggae
+reggae.00043.wav,Max Romeo,Epic Records,2622.22,280,2,reggae
+reggae.00043.wav,Collie Buddz,Epic Records,2622.22,292,2,reggae
+reggae.00044.wav,Marcia Griffiths,BMG Rights Management,3662.94,291,31,reggae
+reggae.00044.wav,Damian Marley,BMG Rights Management,3662.94,293,31,reggae
+reggae.00045.wav,Luciano,Elektra Records,1154.72,294,18,reggae
+reggae.00046.wav,Rita Marley,Warner Music Group,3709.95,265,14,reggae
+reggae.00047.wav,Beres Hammond,XL Recordings,5322.06,279,9,reggae
+reggae.00048.wav,Gregory Isaacs,4AD,285.88,287,22,reggae
+reggae.00048.wav,SOJA,4AD,285.88,275,22,reggae
+reggae.00049.wav,Tarrus Riley,Sub Pop Records,1681.31,272,32,reggae
+reggae.00050.wav,Burning Spear,Sony Music Entertainment,2925.5,283,29,reggae
+reggae.00050.wav,Third World,Sony Music Entertainment,2925.5,278,29,reggae
+reggae.00051.wav,Luciano,Verve Records,6586.37,294,23,reggae
+reggae.00052.wav,Dennis Brown,Merge Records,3114.46,284,3,reggae
+reggae.00053.wav,Beres Hammond,Polydor Records,2647.94,279,6,reggae
+reggae.00054.wav,Steel Pulse,Verve Records,4855.86,276,23,reggae
+reggae.00054.wav,Beres Hammond,Verve Records,4855.86,279,23,reggae
+reggae.00055.wav,Dennis Brown,Wind-Up Records,2819.71,284,13,reggae
+reggae.00056.wav,Protoje,Sub Pop Records,2593.34,270,32,reggae
+reggae.00057.wav,SOJA,RCA Records,3988.17,275,11,reggae
+reggae.00058.wav,Collie Buddz,Polydor Records,2976.57,292,6,reggae
+reggae.00059.wav,Rita Marley,Jive Records,2918.55,265,5,reggae
+reggae.00060.wav,Tarrus Riley,Polydor Records,1022.99,272,6,reggae
+reggae.00061.wav,Damian Marley,Sub Pop Records,2431.99,293,32,reggae
+reggae.00061.wav,Third World,Sub Pop Records,2431.99,278,32,reggae
+reggae.00061.wav,Capleton,Sub Pop Records,2431.99,267,32,reggae
+reggae.00062.wav,Freddie McGregor,MCA Records,2579.98,286,24,reggae
+reggae.00063.wav,Chronixx,Sony Music Entertainment,2890.54,288,29,reggae
+reggae.00063.wav,Ziggy Marley,Sony Music Entertainment,2890.54,289,29,reggae
+reggae.00064.wav,Max Romeo,Rough Trade Records,1607.12,280,17,reggae
+reggae.00064.wav,Shaggy,Rough Trade Records,1607.12,282,17,reggae
+reggae.00065.wav,Protoje,Arista Records,2927.03,270,7,reggae
+reggae.00065.wav,Gregory Isaacs,Arista Records,2927.03,287,7,reggae
+reggae.00066.wav,Collie Buddz,Wind-Up Records,1895.64,292,13,reggae
+reggae.00066.wav,Sizzla,Wind-Up Records,1895.64,264,13,reggae
+reggae.00067.wav,Third World,Merge Records,2027.45,278,3,reggae
+reggae.00067.wav,SOJA,Merge Records,2027.45,275,3,reggae
+reggae.00067.wav,Max Romeo,Merge Records,2027.45,280,3,reggae
+reggae.00068.wav,Damian Marley,4AD,4283.28,293,22,reggae
+reggae.00069.wav,Black Uhuru,XL Recordings,3120.0,271,9,reggae
+reggae.00070.wav,Chronixx,Verve Records,4500.11,288,23,reggae
+reggae.00071.wav,Protoje,Merge Records,3772.07,270,3,reggae
+reggae.00071.wav,Shaggy,Merge Records,3772.07,282,3,reggae
+reggae.00072.wav,Collie Buddz,Arista Records,2445.97,292,7,reggae
+reggae.00073.wav,Damian Marley,Epic Records,1839.45,293,2,reggae
+reggae.00074.wav,Rita Marley,XL Recordings,3216.5,265,9,reggae
+reggae.00075.wav,SOJA,MCA Records,1798.3,275,24,reggae
+reggae.00076.wav,Jimmy Cliff,4AD,1982.75,285,22,reggae
+reggae.00076.wav,SOJA,4AD,1982.75,275,22,reggae
+reggae.00077.wav,Sizzla,Verve Records,1685.03,264,23,reggae
+reggae.00078.wav,Dennis Brown,Sony Music Entertainment,4153.16,284,29,reggae
+reggae.00079.wav,Shaggy,Merge Records,2003.57,282,3,reggae
+reggae.00080.wav,Junior Gong,Tommy Boy Entertainment,-774.2,269,8,reggae
+reggae.00081.wav,Alborosie,Jive Records,1147.7,290,5,reggae
+reggae.00081.wav,Buju Banton,Jive Records,1147.7,277,5,reggae
+reggae.00081.wav,Bob Marley,Jive Records,1147.7,281,5,reggae
+reggae.00082.wav,Beres Hammond,4AD,3640.78,279,22,reggae
+reggae.00082.wav,Collie Buddz,4AD,3640.78,292,22,reggae
+reggae.00083.wav,Sean Paul,Merge Records,4841.99,263,3,reggae
+reggae.00084.wav,Stephen Marley,Tommy Boy Entertainment,5037.8,274,8,reggae
+reggae.00085.wav,Sizzla,Stax Records,4737.68,264,25,reggae
+reggae.00086.wav,Stephen Marley,Stax Records,2468.21,274,25,reggae
+reggae.00087.wav,Toots Hibbert,Island Records,2782.07,295,12,reggae
+reggae.00088.wav,Capleton,Polydor Records,3471.85,267,6,reggae
+reggae.00089.wav,Shaggy,XL Recordings,3778.0,282,9,reggae
+reggae.00089.wav,Dennis Brown,XL Recordings,3778.0,284,9,reggae
+reggae.00090.wav,Black Uhuru,Rough Trade Records,2775.34,271,17,reggae
+reggae.00091.wav,Sizzla,Interscope Records,2930.89,264,19,reggae
+reggae.00092.wav,Shaggy,Atlantic Records,2379.02,282,10,reggae
+reggae.00093.wav,Damian Marley,Republic Records,445.47,293,4,reggae
+reggae.00093.wav,Tarrus Riley,Republic Records,445.47,272,4,reggae
+reggae.00093.wav,SOJA,Republic Records,445.47,275,4,reggae
+reggae.00094.wav,Inner Circle,Verve Records,5370.13,273,23,reggae
+reggae.00095.wav,SOJA,RCA Records,4480.81,275,11,reggae
+reggae.00096.wav,Chronixx,Tommy Boy Entertainment,4959.9,288,8,reggae
+reggae.00096.wav,Stephen Marley,Tommy Boy Entertainment,4959.9,274,8,reggae
+reggae.00097.wav,Black Uhuru,Rough Trade Records,3691.28,271,17,reggae
+reggae.00098.wav,Gregory Isaacs,Sony Music Entertainment,1850.0,287,29,reggae
+reggae.00098.wav,Peter Tosh,Sony Music Entertainment,1850.0,268,29,reggae
+reggae.00099.wav,Ziggy Marley,XL Recordings,4468.62,289,9,reggae
+reggae.00099.wav,Inner Circle,XL Recordings,4468.62,273,9,reggae
+reggae.00099.wav,Third World,XL Recordings,4468.62,278,9,reggae
+rock.00000.wav,Aerosmith,Elektra Records,2755.83,296,18,rock
+rock.00000.wav,Fleetwood Mac,Elektra Records,2755.83,297,18,rock
+rock.00000.wav,The Rolling Stones,Elektra Records,2755.83,298,18,rock
+rock.00001.wav,The Doors,MCA Records,1523.53,299,24,rock
+rock.00002.wav,R.E.M.,Sun Records,3241.35,300,1,rock
+rock.00003.wav,Aerosmith,Rough Trade Records,3197.61,296,17,rock
+rock.00004.wav,Chuck Berry,Elektra Records,3038.95,301,18,rock
+rock.00005.wav,David Bowie,Sony Music Entertainment,3862.49,302,29,rock
+rock.00006.wav,AC/DC,Republic Records,998.1,303,4,rock
+rock.00006.wav,Aerosmith,Republic Records,998.1,296,4,rock
+rock.00006.wav,Led Zeppelin,Republic Records,998.1,304,4,rock
+rock.00007.wav,Radiohead,Atlantic Records,3169.25,305,10,rock
+rock.00007.wav,Pearl Jam,Atlantic Records,3169.25,306,10,rock
+rock.00008.wav,Jimi Hendrix,Republic Records,6303.82,32,4,rock
+rock.00009.wav,The Doors,Sun Records,3350.67,299,1,rock
+rock.00009.wav,Aerosmith,Sun Records,3350.67,296,1,rock
+rock.00010.wav,Chuck Berry,Island Records,2523.06,301,12,rock
+rock.00011.wav,R.E.M.,RCA Records,2735.29,300,11,rock
+rock.00012.wav,Nirvana,Merge Records,4448.38,307,3,rock
+rock.00013.wav,Radiohead,Motown,4028.33,305,20,rock
+rock.00013.wav,The Rolling Stones,Motown,4028.33,298,20,rock
+rock.00014.wav,Pearl Jam,RCA Records,5338.83,306,11,rock
+rock.00014.wav,Elvis Presley,RCA Records,5338.83,308,11,rock
+rock.00015.wav,Fleetwood Mac,Interscope Records,3221.51,297,19,rock
+rock.00016.wav,The Beach Boys,Stax Records,2489.7,309,25,rock
+rock.00017.wav,David Bowie,Virgin Records,2355.6,302,26,rock
+rock.00018.wav,Guns N' Roses,Universal Music Group,804.5,310,28,rock
+rock.00018.wav,Aerosmith,Universal Music Group,804.5,296,28,rock
+rock.00019.wav,Deep Purple,Jive Records,3371.7,311,5,rock
+rock.00020.wav,Fleetwood Mac,Def Jam Recordings,1093.43,297,16,rock
+rock.00021.wav,The Eagles,Merge Records,3598.98,312,3,rock
+rock.00022.wav,Elton John,Warner Music Group,3712.83,313,14,rock
+rock.00023.wav,Queen,Sony Music Entertainment,3104.27,314,29,rock
+rock.00024.wav,Eric Clapton,Wind-Up Records,2072.71,25,13,rock
+rock.00025.wav,Aerosmith,Elektra Records,5888.08,296,18,rock
+rock.00026.wav,The Eagles,Verve Records,4378.61,312,23,rock
+rock.00027.wav,Nirvana,EMI Group,-851.75,307,30,rock
+rock.00028.wav,Van Halen,Sire Records,3179.99,315,15,rock
+rock.00029.wav,R.E.M.,Interscope Records,2205.69,300,19,rock
+rock.00030.wav,Elton John,EMI Group,4384.47,313,30,rock
+rock.00031.wav,Eric Clapton,Atlantic Records,5391.91,25,10,rock
+rock.00032.wav,Fleetwood Mac,Republic Records,3185.45,297,4,rock
+rock.00032.wav,The Kinks,Republic Records,3185.45,316,4,rock
+rock.00033.wav,AC/DC,EMI Group,2512.76,303,30,rock
+rock.00034.wav,Radiohead,Polydor Records,3223.4,305,6,rock
+rock.00035.wav,The Beatles,Virgin Records,3843.2,317,26,rock
+rock.00036.wav,The Eagles,Stax Records,1090.44,312,25,rock
+rock.00037.wav,Chuck Berry,EMI Group,1078.2,301,30,rock
+rock.00038.wav,Van Halen,Merge Records,2375.08,315,3,rock
+rock.00039.wav,The Beatles,Republic Records,3879.5,317,4,rock
+rock.00040.wav,David Bowie,Atlantic Records,3876.45,302,10,rock
+rock.00040.wav,Oasis,Atlantic Records,3876.45,318,10,rock
+rock.00040.wav,The Kinks,Atlantic Records,3876.45,316,10,rock
+rock.00041.wav,The Who,Merge Records,2176.55,319,3,rock
+rock.00042.wav,Bob Dylan,4AD,2872.11,320,22,rock
+rock.00043.wav,David Bowie,Def Jam Recordings,1260.34,302,16,rock
+rock.00044.wav,The Rolling Stones,Columbia Records,344.37,298,27,rock
+rock.00045.wav,The Clash,Columbia Records,2004.43,321,27,rock
+rock.00046.wav,Van Halen,Polydor Records,-288.98,315,6,rock
+rock.00046.wav,The Eagles,Polydor Records,-288.98,312,6,rock
+rock.00046.wav,Queen,Polydor Records,-288.98,314,6,rock
+rock.00047.wav,The Kinks,Stax Records,3077.81,316,25,rock
+rock.00048.wav,Van Halen,MCA Records,3546.04,315,24,rock
+rock.00049.wav,Radiohead,Epic Records,4836.68,305,2,rock
+rock.00050.wav,The Beach Boys,EMI Group,5439.78,309,30,rock
+rock.00050.wav,David Bowie,EMI Group,5439.78,302,30,rock
+rock.00051.wav,Bruce Springsteen,Jive Records,4216.79,322,5,rock
+rock.00051.wav,David Bowie,Jive Records,4216.79,302,5,rock
+rock.00051.wav,Radiohead,Jive Records,4216.79,305,5,rock
+rock.00052.wav,Elvis Presley,Island Records,2771.55,308,12,rock
+rock.00053.wav,The Who,Merge Records,1214.59,319,3,rock
+rock.00054.wav,The Eagles,Interscope Records,-402.73,312,19,rock
+rock.00055.wav,AC/DC,Verve Records,4289.3,303,23,rock
+rock.00055.wav,Fleetwood Mac,Verve Records,4289.3,297,23,rock
+rock.00055.wav,Radiohead,Verve Records,4289.3,305,23,rock
+rock.00056.wav,Pink Floyd,Virgin Records,1466.71,323,26,rock
+rock.00056.wav,Queen,Virgin Records,1466.71,314,26,rock
+rock.00057.wav,Nirvana,EMI Group,997.01,307,30,rock
+rock.00057.wav,Van Halen,EMI Group,997.01,315,30,rock
+rock.00058.wav,Radiohead,Merge Records,3086.1,305,3,rock
+rock.00059.wav,Pearl Jam,Sun Records,2613.14,306,1,rock
+rock.00060.wav,Chuck Berry,Columbia Records,6759.46,301,27,rock
+rock.00061.wav,R.E.M.,Motown,1214.87,300,20,rock
+rock.00062.wav,Bob Dylan,Universal Music Group,2253.82,320,28,rock
+rock.00063.wav,Guns N' Roses,Polydor Records,1192.94,310,6,rock
+rock.00064.wav,Chuck Berry,Merge Records,3090.3,301,3,rock
+rock.00065.wav,The Clash,Arista Records,3557.16,321,7,rock
+rock.00066.wav,Metallica,Sun Records,3315.67,324,1,rock
+rock.00067.wav,Nirvana,Merge Records,2961.53,307,3,rock
+rock.00068.wav,Aerosmith,Capitol Records,5558.49,296,21,rock
+rock.00068.wav,Eric Clapton,Capitol Records,5558.49,25,21,rock
+rock.00069.wav,Bob Dylan,Merge Records,2087.83,320,3,rock
+rock.00070.wav,Elvis Presley,XL Recordings,3607.85,308,9,rock
+rock.00071.wav,Jimi Hendrix,Universal Music Group,1959.9,32,28,rock
+rock.00072.wav,Queen,RCA Records,2506.26,314,11,rock
+rock.00073.wav,Metallica,4AD,3513.4,324,22,rock
+rock.00073.wav,David Bowie,4AD,3513.4,302,22,rock
+rock.00073.wav,The Police,4AD,3513.4,325,22,rock
+rock.00074.wav,Eric Clapton,XL Recordings,4524.07,25,9,rock
+rock.00075.wav,Van Halen,Merge Records,3869.73,315,3,rock
+rock.00076.wav,Bon Jovi,Capitol Records,1428.53,326,21,rock
+rock.00076.wav,The Clash,Capitol Records,1428.53,321,21,rock
+rock.00077.wav,The Kinks,4AD,6128.31,316,22,rock
+rock.00077.wav,Van Halen,4AD,6128.31,315,22,rock
+rock.00078.wav,Led Zeppelin,Sire Records,2707.17,304,15,rock
+rock.00079.wav,Pearl Jam,Merge Records,2173.88,306,3,rock
+rock.00079.wav,The Police,Merge Records,2173.88,325,3,rock
+rock.00079.wav,The Clash,Merge Records,2173.88,321,3,rock
+rock.00080.wav,AC/DC,4AD,2462.72,303,22,rock
+rock.00081.wav,The Clash,RCA Records,2392.66,321,11,rock
+rock.00082.wav,Eric Clapton,Epic Records,2733.93,25,2,rock
+rock.00082.wav,Nirvana,Epic Records,2733.93,307,2,rock
+rock.00083.wav,Chuck Berry,Capitol Records,2206.79,301,21,rock
+rock.00084.wav,Jimi Hendrix,Interscope Records,832.91,32,19,rock
+rock.00085.wav,Queen,Jive Records,2454.77,314,5,rock
+rock.00086.wav,Oasis,Columbia Records,2377.42,318,27,rock
+rock.00086.wav,Jimi Hendrix,Columbia Records,2377.42,32,27,rock
+rock.00087.wav,Elton John,Wind-Up Records,3553.09,313,13,rock
+rock.00087.wav,The Police,Wind-Up Records,3553.09,325,13,rock
+rock.00087.wav,Radiohead,Wind-Up Records,3553.09,305,13,rock
+rock.00088.wav,The Who,Warner Music Group,4342.42,319,14,rock
+rock.00089.wav,Queen,EMI Group,2748.36,314,30,rock
+rock.00090.wav,AC/DC,Sub Pop Records,3150.12,303,32,rock
+rock.00091.wav,Eric Clapton,Interscope Records,4001.92,25,19,rock
+rock.00092.wav,The Doors,Merge Records,5065.7,299,3,rock
+rock.00093.wav,Eric Clapton,Polydor Records,4290.94,25,6,rock
+rock.00093.wav,Oasis,Polydor Records,4290.94,318,6,rock
+rock.00094.wav,The Rolling Stones,Sire Records,4285.39,298,15,rock
+rock.00094.wav,Deep Purple,Sire Records,4285.39,311,15,rock
+rock.00095.wav,Pearl Jam,Stax Records,3185.88,306,25,rock
+rock.00096.wav,The Clash,Sun Records,-503.65,321,1,rock
+rock.00097.wav,Fleetwood Mac,XL Recordings,2170.05,297,9,rock
+rock.00098.wav,Chuck Berry,Motown,1425.79,301,20,rock
+rock.00099.wav,Metallica,Def Jam Recordings,4376.35,324,16,rock

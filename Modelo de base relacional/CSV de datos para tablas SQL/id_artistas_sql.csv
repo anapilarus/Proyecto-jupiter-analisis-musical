@@ -1,0 +1,327 @@
+id_artista,artista
+1,Stevie Ray Vaughan
+2,Sonny Boy Williamson
+3,Buddy Guy
+4,Muddy Waters
+5,Bessie Smith
+6,Freddie King
+7,Memphis Minnie
+8,Bonnie Raitt
+9,Magic Sam
+10,Susan Tedeschi
+11,Howlin' Wolf
+12,Robert Johnson
+13,Elmore James
+14,Little Walter
+15,Willie Dixon
+16,Lightnin' Hopkins
+17,B.B. King
+18,R.L. Burnside
+19,Blind Willie Johnson
+20,Etta James
+21,Johnny Winter
+22,Taj Mahal
+23,John Lee Hooker
+24,Albert King
+25,Eric Clapton
+26,Lead Belly
+27,Albert Collins
+28,Koko Taylor
+29,Big Mama Thornton
+30,Hound Dog Taylor
+31,Coco Montoya
+32,Jimi Hendrix
+33,Junior Wells
+34,T-Bone Walker
+35,Antonio Vivaldi
+36,Benjamin Britten
+37,Johannes Brahms
+38,Antonín Dvořák
+39,Giuseppe Verdi
+40,Dmitri Shostakovich
+41,Felix Mendelssohn
+42,Pyotr Ilyich Tchaikovsky
+43,Franz Schubert
+44,Igor Stravinsky
+45,Ludwig van Beethoven
+46,Giacomo Puccini
+47,Maurice Ravel
+48,Aaron Copland
+49,Johann Sebastian Bach
+50,Claude Debussy
+51,Johann Strauss II
+52,Frederic Chopin
+53,Edward Elgar
+54,Modest Mussorgsky
+55,Gioachino Rossini
+56,Bedřich Smetana
+57,Richard Wagner
+58,Camille Saint-Saëns
+59,Sergei Rachmaninoff
+60,Franz Joseph Haydn
+61,Carl Orff
+62,Gabriel Fauré
+63,Wolfgang Amadeus Mozart
+64,Gustav Mahler
+65,George Frideric Handel
+66,Robert Schumann
+67,Johnny Cash
+68,Emmylou Harris
+69,Vince Gill
+70,Tammy Wynette
+71,Miranda Lambert
+72,Loretta Lynn
+73,Martina McBride
+74,Willie Nelson
+75,Alan Jackson
+76,Charlie Daniels
+77,George Strait
+78,Rascal Flatts
+79,Keith Urban
+80,Patsy Cline
+81,Waylon Jennings
+82,Toby Keith
+83,Trisha Yearwood
+84,LeAnn Rimes
+85,Faith Hill
+86,Brad Paisley
+87,Reba McEntire
+88,Merle Haggard
+89,Dolly Parton
+90,Shania Twain
+91,Blake Shelton
+92,Garth Brooks
+93,Brooks & Dunn
+94,Kris Kristofferson
+95,Hank Williams
+96,Tim McGraw
+97,Carrie Underwood
+98,Randy Travis
+99,Kenny Rogers
+100,Odyssey
+101,Rose Royce
+102,Bee Gees
+103,Chic
+104,Patrick Hernandez
+105,Village People
+106,LaBelle
+107,Pointer Sisters
+108,Lipps Inc.
+109,"Earth, Wind & Fire"
+110,Sister Sledge
+111,Donna Summer
+112,Sylvester
+113,KC and the Sunshine Band
+114,Silver Convention
+115,Thelma Houston
+116,Diana Ross
+117,Gibson Brothers
+118,Rick James
+119,The Jacksons
+120,George McCrae
+121,Baccara
+122,Anita Ward
+123,Grace Jones
+124,The O'Jays
+125,Tavares
+126,Candi Staton
+127,Shalamar
+128,Michael Jackson
+129,Kool & the Gang
+130,The Trammps
+131,ABBA
+132,Amii Stewart
+133,Gloria Gaynor
+134,Beyoncé
+135,J. Cole
+136,Nicki Minaj
+137,50 Cent
+138,Rakim
+139,Wiz Khalifa
+140,M.I.A.
+141,Cardi B
+142,Future
+143,Chance the Rapper
+144,Kid Cudi
+145,2Pac
+146,Lauryn Hill
+147,Drake
+148,Biggie Smalls
+149,Nas
+150,Kanye West
+151,Lil Wayne
+152,"Tyler, The Creator"
+153,Run-D.M.C.
+154,Ice Cube
+155,Eminem
+156,Lupe Fiasco
+157,Missy Elliott
+158,A$AP Rocky
+159,Snoop Dogg
+160,Public Enemy
+161,Jay-Z
+162,Kendrick Lamar
+163,OutKast
+164,Logic
+165,Travis Scott
+166,Megan Thee Stallion
+167,Lil Uzi Vert
+168,Lester Young
+169,Duke Ellington
+170,Stan Getz
+171,Art Blakey
+172,Bill Evans
+173,Dizzy Gillespie
+174,Wayne Shorter
+175,Charlie Christian
+176,Ella Fitzgerald
+177,Nat King Cole
+178,Billie Holiday
+179,Diana Krall
+180,John Coltrane
+181,Ahmad Jamal
+182,Charles Mingus
+183,Coleman Hawkins
+184,Chet Baker
+185,Charlie Parker
+186,Keith Jarrett
+187,Joe Pass
+188,Dave Brubeck
+189,Miles Davis
+190,Dexter Gordon
+191,Sarah Vaughan
+192,Benny Goodman
+193,Cannonball Adderley
+194,Sonny Rollins
+195,Count Basie
+196,Wes Montgomery
+197,Louis Armstrong
+198,Oscar Peterson
+199,Chick Corea
+200,Thelonious Monk
+201,Herbie Hancock
+202,Floor Jansen
+203,Axl Rose
+204,Sharon den Adel
+205,Kerry King
+206,Chuck Schuldiner
+207,Ozzy Osbourne
+208,Rob Halford
+209,Tony Iommi
+210,Bruce Dickinson
+211,Joey DeMaio
+212,Simone Simons
+213,Charlotte Wessels
+214,Lemmy Kilmister
+215,James Hetfield
+216,Dave Mustaine
+217,Mikael Akerfeldt
+218,Cristina Scabbia
+219,Michael Amott
+220,Max Cavalera
+221,Marty Friedman
+222,Zakk Wylde
+223,Alissa White-Gluz
+224,Lars Ulrich
+225,Kirk Hammett
+226,Tom Araya
+227,Mille Petrozza
+228,Doro Pesch
+229,Randy Rhoads
+230,Angela Gossow
+231,Lzzy Hale
+232,Tarja Turunen
+233,Camila Cabello
+234,Billie Eilish
+235,Katy Perry
+236,Rihanna
+237,Post Malone
+238,Ariana Grande
+239,John Legend
+240,Shawn Mendes
+241,Lady Gaga
+242,Lizzo
+243,Jason Derulo
+244,Sam Smith
+245,Bruno Mars
+246,Taylor Swift
+247,Shakira
+248,Ed Sheeran
+249,Adele
+250,Dua Lipa
+251,Miley Cyrus
+252,Justin Bieber
+253,Maroon 5
+254,Zayn Malik
+255,Imagine Dragons
+256,Charlie Puth
+257,Halsey
+258,Sia
+259,Selena Gomez
+260,Harry Styles
+261,Khalid
+262,The Weeknd
+263,Sean Paul
+264,Sizzla
+265,Rita Marley
+266,Gentleman
+267,Capleton
+268,Peter Tosh
+269,Junior Gong
+270,Protoje
+271,Black Uhuru
+272,Tarrus Riley
+273,Inner Circle
+274,Stephen Marley
+275,SOJA
+276,Steel Pulse
+277,Buju Banton
+278,Third World
+279,Beres Hammond
+280,Max Romeo
+281,Bob Marley
+282,Shaggy
+283,Burning Spear
+284,Dennis Brown
+285,Jimmy Cliff
+286,Freddie McGregor
+287,Gregory Isaacs
+288,Chronixx
+289,Ziggy Marley
+290,Alborosie
+291,Marcia Griffiths
+292,Collie Buddz
+293,Damian Marley
+294,Luciano
+295,Toots Hibbert
+296,Aerosmith
+297,Fleetwood Mac
+298,The Rolling Stones
+299,The Doors
+300,R.E.M.
+301,Chuck Berry
+302,David Bowie
+303,AC/DC
+304,Led Zeppelin
+305,Radiohead
+306,Pearl Jam
+307,Nirvana
+308,Elvis Presley
+309,The Beach Boys
+310,Guns N' Roses
+311,Deep Purple
+312,The Eagles
+313,Elton John
+314,Queen
+315,Van Halen
+316,The Kinks
+317,The Beatles
+318,Oasis
+319,The Who
+320,Bob Dylan
+321,The Clash
+322,Bruce Springsteen
+323,Pink Floyd
+324,Metallica
+325,The Police
+326,Bon Jovi

@@ -1,0 +1,1001 @@
+cancion,duracion,genero,disco,autor,id_cancion,id_genero,id_disco
+blues.00000.wav,00:02:18,blues,blues4,Stevie Ray Vaughan,1,1,1
+blues.00001.wav,00:02:22,blues,blues7,Sonny Boy Williamson,2,1,2
+blues.00002.wav,00:01:36,blues,blues5,Muddy Waters,3,1,3
+blues.00003.wav,00:01:51,blues,blues10,Freddie King,4,1,4
+blues.00004.wav,00:03:11,blues,blues1,Memphis Minnie,5,1,5
+blues.00005.wav,00:03:51,blues,blues13,Magic Sam,6,1,6
+blues.00006.wav,00:02:40,blues,blues13,Howlin' Wolf,7,1,6
+blues.00007.wav,00:03:06,blues,blues7,Elmore James,8,1,2
+blues.00008.wav,,blues,blues7,Little Walter,9,1,2
+blues.00009.wav,00:04:03,blues,blues13,Memphis Minnie,10,1,6
+blues.00010.wav,00:02:19,blues,blues2,Willie Dixon,11,1,7
+blues.00011.wav,00:02:07,blues,blues17,B.B. King,12,1,8
+blues.00012.wav,,blues,blues15,Bessie Smith,13,1,9
+blues.00013.wav,00:01:34,blues,blues13,R.L. Burnside,14,1,6
+blues.00014.wav,00:01:09,blues,blues9,Etta James,15,1,10
+blues.00015.wav,00:01:32,blues,blues15,Bonnie Raitt,16,1,9
+blues.00016.wav,00:02:06,blues,blues11,Blind Willie Johnson,17,1,11
+blues.00017.wav,00:01:48,blues,blues6,Taj Mahal,18,1,12
+blues.00018.wav,00:02:12,blues,blues17,Memphis Minnie,19,1,8
+blues.00019.wav,00:01:51,blues,blues5,Albert King,20,1,3
+blues.00020.wav,00:02:58,blues,blues18,Johnny Winter,21,1,13
+blues.00021.wav,00:02:49,blues,blues6,Little Walter,22,1,12
+blues.00022.wav,00:02:11,blues,blues7,Taj Mahal,23,1,2
+blues.00023.wav,00:01:59,blues,blues4,Lightnin' Hopkins,24,1,1
+blues.00024.wav,00:02:18,blues,blues18,Eric Clapton,25,1,13
+blues.00025.wav,00:02:29,blues,blues19,Bonnie Raitt,26,1,14
+blues.00026.wav,00:02:39,blues,blues16,Buddy Guy,27,1,15
+blues.00027.wav,00:03:14,blues,blues12,Muddy Waters,28,1,16
+blues.00028.wav,00:01:24,blues,blues7,Lead Belly,29,1,2
+blues.00029.wav,00:02:25,blues,blues13,Susan Tedeschi,30,1,6
+blues.00030.wav,00:02:42,blues,blues11,Susan Tedeschi,31,1,11
+blues.00031.wav,00:01:53,blues,blues2,Albert Collins,32,1,7
+blues.00032.wav,00:02:51,blues,blues9,Lightnin' Hopkins,33,1,10
+blues.00033.wav,00:01:38,blues,blues0,Bonnie Raitt,34,1,17
+blues.00034.wav,00:02:32,blues,blues8,Lead Belly,35,1,18
+blues.00035.wav,00:13:31,blues,blues14,Koko Taylor,36,1,19
+blues.00036.wav,00:01:25,blues,blues17,Buddy Guy,37,1,8
+blues.00037.wav,00:03:10,blues,blues12,Howlin' Wolf,38,1,16
+blues.00038.wav,00:03:14,blues,blues17,Muddy Waters,39,1,8
+blues.00039.wav,00:01:14,blues,blues9,Robert Johnson,40,1,10
+blues.00040.wav,00:01:41,blues,blues4,Muddy Waters,41,1,1
+blues.00041.wav,00:02:09,blues,blues12,Little Walter,42,1,16
+blues.00042.wav,00:02:46,blues,blues16,Johnny Winter,43,1,15
+blues.00043.wav,00:04:35,blues,blues0,Albert King,44,1,17
+blues.00044.wav,00:01:50,blues,blues0,Bonnie Raitt,45,1,17
+blues.00045.wav,00:02:43,blues,blues7,Taj Mahal,46,1,2
+blues.00046.wav,00:02:27,blues,blues17,Hound Dog Taylor,47,1,8
+blues.00047.wav,00:02:00,blues,blues12,Sonny Boy Williamson,48,1,16
+blues.00048.wav,00:01:37,blues,blues16,Big Mama Thornton,49,1,15
+blues.00049.wav,00:01:39,blues,blues3,Etta James,50,1,20
+blues.00050.wav,00:02:02,blues,blues3,John Lee Hooker,51,1,20
+blues.00051.wav,00:02:55,blues,blues3,Willie Dixon,52,1,20
+blues.00052.wav,00:03:34,blues,blues2,Jimi Hendrix,53,1,7
+blues.00053.wav,00:03:27,blues,blues6,R.L. Burnside,54,1,12
+blues.00054.wav,00:01:31,blues,blues8,Hound Dog Taylor,55,1,18
+blues.00055.wav,00:03:14,blues,blues4,Muddy Waters,56,1,1
+blues.00056.wav,00:03:07,blues,blues12,Susan Tedeschi,57,1,16
+blues.00057.wav,00:01:16,blues,blues14,Koko Taylor,58,1,19
+blues.00058.wav,00:02:45,blues,blues0,John Lee Hooker,59,1,17
+blues.00059.wav,00:01:11,blues,blues17,Etta James,60,1,8
+blues.00060.wav,00:02:25,blues,blues7,Koko Taylor,61,1,2
+blues.00061.wav,00:03:47,blues,blues14,Blind Willie Johnson,62,1,19
+blues.00062.wav,00:03:16,blues,blues16,Eric Clapton,63,1,15
+blues.00063.wav,00:02:06,blues,blues16,Sonny Boy Williamson,64,1,15
+blues.00064.wav,00:03:23,blues,blues12,Koko Taylor,65,1,16
+blues.00065.wav,00:02:08,blues,blues12,Eric Clapton,66,1,16
+blues.00066.wav,00:02:25,blues,blues18,Blind Willie Johnson,67,1,13
+blues.00067.wav,00:00:03,blues,blues2,Memphis Minnie,68,1,7
+blues.00068.wav,00:01:50,blues,blues2,R.L. Burnside,69,1,7
+blues.00069.wav,00:02:29,blues,blues12,B.B. King,70,1,16
+blues.00070.wav,00:01:58,blues,blues6,Stevie Ray Vaughan,71,1,12
+blues.00071.wav,00:03:07,blues,blues2,Susan Tedeschi,72,1,7
+blues.00072.wav,00:02:56,blues,blues0,Stevie Ray Vaughan,73,1,17
+blues.00073.wav,00:01:23,blues,blues4,Coco Montoya,74,1,1
+blues.00074.wav,00:02:19,blues,blues19,Blind Willie Johnson,75,1,14
+blues.00075.wav,00:03:38,blues,blues7,Eric Clapton,76,1,2
+blues.00076.wav,00:02:35,blues,blues0,Koko Taylor,77,1,17
+blues.00077.wav,00:02:49,blues,blues9,Bessie Smith,78,1,10
+blues.00078.wav,00:02:57,blues,blues5,Stevie Ray Vaughan,79,1,3
+blues.00079.wav,00:02:58,blues,blues19,Elmore James,80,1,14
+blues.00080.wav,00:03:09,blues,blues14,Big Mama Thornton,81,1,19
+blues.00081.wav,00:03:40,blues,blues16,Junior Wells,82,1,15
+blues.00082.wav,00:03:39,blues,blues0,Buddy Guy,83,1,17
+blues.00083.wav,00:02:25,blues,blues15,Big Mama Thornton,84,1,9
+blues.00084.wav,00:02:29,blues,blues0,Lead Belly,85,1,17
+blues.00085.wav,00:02:35,blues,blues5,Albert King,86,1,3
+blues.00086.wav,00:01:59,blues,blues10,Junior Wells,87,1,4
+blues.00087.wav,00:02:35,blues,blues8,R.L. Burnside,88,1,18
+blues.00088.wav,00:02:33,blues,blues11,Muddy Waters,89,1,11
+blues.00089.wav,00:02:37,blues,blues15,Bonnie Raitt,90,1,9
+blues.00090.wav,00:02:16,blues,blues15,Bonnie Raitt,91,1,9
+blues.00091.wav,00:02:03,blues,blues15,Buddy Guy,92,1,9
+blues.00092.wav,00:00:52,blues,blues7,Albert Collins,93,1,2
+blues.00093.wav,00:02:17,blues,blues16,T-Bone Walker,94,1,15
+blues.00094.wav,00:01:32,blues,blues5,Bessie Smith,95,1,3
+blues.00095.wav,00:02:58,blues,blues2,R.L. Burnside,96,1,7
+blues.00096.wav,00:01:37,blues,blues11,John Lee Hooker,97,1,11
+blues.00097.wav,00:02:31,blues,blues7,Koko Taylor,98,1,2
+blues.00098.wav,00:01:50,blues,blues14,Taj Mahal,99,1,19
+blues.00099.wav,00:02:33,blues,blues0,Junior Wells,100,1,17
+classical.00000.wav,00:02:17,classical,classical19,Antonio Vivaldi,101,2,21
+classical.00001.wav,00:02:13,classical,classical15,Johannes Brahms,102,2,22
+classical.00002.wav,00:02:18,classical,classical2,Giuseppe Verdi,103,2,23
+classical.00003.wav,00:03:01,classical,classical9,Dmitri Shostakovich,104,2,24
+classical.00004.wav,00:02:40,classical,classical14,Johannes Brahms,105,2,25
+classical.00005.wav,00:01:50,classical,classical7,Felix Mendelssohn,106,2,26
+classical.00006.wav,00:02:54,classical,classical10,Pyotr Ilyich Tchaikovsky,107,2,27
+classical.00007.wav,00:02:03,classical,classical8,Franz Schubert,108,2,28
+classical.00008.wav,00:02:10,classical,classical1,Felix Mendelssohn,109,2,29
+classical.00009.wav,00:03:22,classical,classical0,Igor Stravinsky,110,2,30
+classical.00010.wav,00:02:58,classical,classical16,Ludwig van Beethoven,111,2,31
+classical.00011.wav,00:01:26,classical,classical15,Antonín Dvořák,112,2,22
+classical.00012.wav,00:01:58,classical,classical12,Giacomo Puccini,113,2,32
+classical.00013.wav,00:02:13,classical,classical12,Maurice Ravel,114,2,32
+classical.00014.wav,00:03:23,classical,classical13,Aaron Copland,115,2,33
+classical.00015.wav,00:02:14,classical,classical1,Aaron Copland,116,2,29
+classical.00016.wav,00:03:04,classical,classical12,Claude Debussy,117,2,32
+classical.00017.wav,00:03:19,classical,classical4,Johann Strauss II,118,2,34
+classical.00018.wav,00:02:35,classical,classical19,Frederic Chopin,119,2,21
+classical.00019.wav,00:02:08,classical,classical4,Edward Elgar,120,2,34
+classical.00020.wav,00:13:37,classical,classical10,Modest Mussorgsky,121,2,27
+classical.00021.wav,00:02:32,classical,classical6,Gioachino Rossini,122,2,35
+classical.00022.wav,00:03:08,classical,classical8,Bedřich Smetana,123,2,28
+classical.00023.wav,00:02:56,classical,classical15,Richard Wagner,124,2,22
+classical.00024.wav,00:02:38,classical,classical7,Igor Stravinsky,125,2,26
+classical.00025.wav,00:01:12,classical,classical0,Camille Saint-Saëns,126,2,30
+classical.00026.wav,00:02:43,classical,classical15,Sergei Rachmaninoff,127,2,22
+classical.00027.wav,00:02:11,classical,classical19,Johannes Brahms,128,2,21
+classical.00028.wav,00:02:18,classical,classical11,Dmitri Shostakovich,129,2,36
+classical.00029.wav,00:02:59,classical,classical13,Johann Sebastian Bach,130,2,33
+classical.00030.wav,00:01:10,classical,classical8,Franz Joseph Haydn,131,2,28
+classical.00031.wav,00:02:22,classical,classical8,Carl Orff,132,2,28
+classical.00032.wav,00:02:59,classical,classical6,Dmitri Shostakovich,133,2,35
+classical.00033.wav,00:01:37,classical,classical14,Giuseppe Verdi,134,2,25
+classical.00034.wav,00:01:43,classical,classical1,Benjamin Britten,135,2,29
+classical.00035.wav,00:01:15,classical,classical7,Ludwig van Beethoven,136,2,26
+classical.00036.wav,00:04:10,classical,classical11,Ludwig van Beethoven,137,2,36
+classical.00037.wav,00:01:23,classical,classical8,Claude Debussy,138,2,28
+classical.00038.wav,00:02:47,classical,classical9,Maurice Ravel,139,2,24
+classical.00039.wav,00:02:04,classical,classical12,Modest Mussorgsky,140,2,32
+classical.00040.wav,00:02:04,classical,classical10,Gabriel Fauré,141,2,27
+classical.00041.wav,00:03:36,classical,classical13,Johann Strauss II,142,2,33
+classical.00042.wav,00:02:43,classical,classical1,Giacomo Puccini,143,2,29
+classical.00043.wav,00:01:52,classical,classical15,Giuseppe Verdi,144,2,22
+classical.00044.wav,00:02:25,classical,classical16,Camille Saint-Saëns,145,2,31
+classical.00045.wav,00:02:18,classical,classical17,Richard Wagner,146,2,37
+classical.00046.wav,00:02:50,classical,classical4,Johannes Brahms,147,2,34
+classical.00047.wav,00:02:06,classical,classical7,Richard Wagner,148,2,26
+classical.00048.wav,00:02:44,classical,classical14,Wolfgang Amadeus Mozart,149,2,25
+classical.00049.wav,00:02:33,classical,classical8,Frederic Chopin,150,2,28
+classical.00050.wav,00:01:39,classical,classical16,Ludwig van Beethoven,151,2,31
+classical.00051.wav,00:01:31,classical,classical12,Igor Stravinsky,152,2,32
+classical.00052.wav,00:04:17,classical,classical1,Antonín Dvořák,153,2,29
+classical.00053.wav,00:03:17,classical,classical1,Gustav Mahler,154,2,29
+classical.00054.wav,00:02:59,classical,classical1,Pyotr Ilyich Tchaikovsky,155,2,29
+classical.00055.wav,00:03:52,classical,classical5,Modest Mussorgsky,156,2,38
+classical.00056.wav,00:01:32,classical,classical0,Richard Wagner,157,2,30
+classical.00057.wav,00:01:06,classical,classical12,Richard Wagner,158,2,32
+classical.00058.wav,00:02:08,classical,classical6,Dmitri Shostakovich,159,2,35
+classical.00059.wav,,classical,classical3,Dmitri Shostakovich,160,2,39
+classical.00060.wav,00:02:00,classical,classical18,Ludwig van Beethoven,161,2,40
+classical.00061.wav,00:02:30,classical,classical19,Maurice Ravel,162,2,21
+classical.00062.wav,00:00:45,classical,classical2,Johannes Brahms,163,2,23
+classical.00063.wav,00:01:58,classical,classical7,Sergei Rachmaninoff,164,2,26
+classical.00064.wav,00:02:56,classical,classical2,Felix Mendelssohn,165,2,23
+classical.00065.wav,00:02:01,classical,classical6,Antonín Dvořák,166,2,35
+classical.00066.wav,00:01:24,classical,classical18,Antonín Dvořák,167,2,40
+classical.00067.wav,00:02:55,classical,classical8,Carl Orff,168,2,28
+classical.00068.wav,00:02:09,classical,classical9,Franz Schubert,169,2,24
+classical.00069.wav,00:01:58,classical,classical13,Giacomo Puccini,170,2,33
+classical.00070.wav,00:01:08,classical,classical7,Benjamin Britten,171,2,26
+classical.00071.wav,00:01:59,classical,classical1,Gioachino Rossini,172,2,29
+classical.00072.wav,00:02:54,classical,classical2,Franz Joseph Haydn,173,2,23
+classical.00073.wav,00:01:41,classical,classical3,Ludwig van Beethoven,174,2,39
+classical.00074.wav,00:01:01,classical,classical0,Gustav Mahler,175,2,30
+classical.00075.wav,00:00:20,classical,classical4,Gustav Mahler,176,2,34
+classical.00076.wav,00:01:04,classical,classical15,Gioachino Rossini,177,2,22
+classical.00077.wav,00:02:15,classical,classical3,Camille Saint-Saëns,178,2,39
+classical.00078.wav,00:01:48,classical,classical1,Johannes Brahms,179,2,29
+classical.00079.wav,00:01:00,classical,classical12,Edward Elgar,180,2,32
+classical.00080.wav,00:03:00,classical,classical12,Johann Strauss II,181,2,32
+classical.00081.wav,00:01:41,classical,classical19,Frederic Chopin,182,2,21
+classical.00082.wav,00:01:34,classical,classical11,Johann Sebastian Bach,183,2,36
+classical.00083.wav,00:03:17,classical,classical15,Gioachino Rossini,184,2,22
+classical.00084.wav,00:13:23,classical,classical8,Edward Elgar,185,2,28
+classical.00085.wav,00:02:25,classical,classical6,Gustav Mahler,186,2,35
+classical.00086.wav,00:02:48,classical,classical17,Claude Debussy,187,2,37
+classical.00087.wav,00:03:44,classical,classical8,George Frideric Handel,188,2,28
+classical.00088.wav,00:02:19,classical,classical1,George Frideric Handel,189,2,29
+classical.00089.wav,00:02:48,classical,classical12,Maurice Ravel,190,2,32
+classical.00090.wav,00:02:41,classical,classical11,Camille Saint-Saëns,191,2,36
+classical.00091.wav,00:03:46,classical,classical8,Franz Joseph Haydn,192,2,28
+classical.00092.wav,00:02:30,classical,classical13,Richard Wagner,193,2,33
+classical.00093.wav,00:02:03,classical,classical10,Bedřich Smetana,194,2,27
+classical.00094.wav,00:03:59,classical,classical14,Robert Schumann,195,2,25
+classical.00095.wav,00:01:07,classical,classical2,George Frideric Handel,196,2,23
+classical.00096.wav,00:04:57,classical,classical18,Frederic Chopin,197,2,40
+classical.00097.wav,,classical,classical11,Aaron Copland,198,2,36
+classical.00098.wav,00:00:03,classical,classical2,George Frideric Handel,199,2,23
+classical.00099.wav,00:03:56,classical,classical4,Franz Schubert,200,2,34
+country.00000.wav,00:02:54,country,country15,Johnny Cash,201,3,41
+country.00001.wav,00:01:40,country,country3,Johnny Cash,202,3,42
+country.00002.wav,00:02:55,country,country10,Tammy Wynette,203,3,43
+country.00003.wav,00:03:04,country,country19,Miranda Lambert,204,3,44
+country.00004.wav,00:02:27,country,country2,Loretta Lynn,205,3,45
+country.00005.wav,00:02:34,country,country1,Martina McBride,206,3,46
+country.00006.wav,00:02:20,country,country7,Willie Nelson,207,3,47
+country.00007.wav,00:01:56,country,country5,Alan Jackson,208,3,48
+country.00008.wav,00:02:13,country,country5,Charlie Daniels,209,3,48
+country.00009.wav,00:02:08,country,country18,George Strait,210,3,49
+country.00010.wav,00:02:39,country,country6,Martina McBride,211,3,50
+country.00011.wav,00:02:19,country,country3,Rascal Flatts,212,3,42
+country.00012.wav,00:03:15,country,country13,Tammy Wynette,213,3,51
+country.00013.wav,00:01:58,country,country2,Emmylou Harris,214,3,45
+country.00014.wav,00:02:30,country,country19,Martina McBride,215,3,44
+country.00015.wav,00:02:39,country,country13,Patsy Cline,216,3,51
+country.00016.wav,00:02:20,country,country2,Waylon Jennings,217,3,45
+country.00017.wav,00:02:30,country,country11,Toby Keith,218,3,52
+country.00018.wav,00:03:39,country,country1,Trisha Yearwood,219,3,46
+country.00019.wav,00:02:23,country,country14,LeAnn Rimes,220,3,53
+country.00020.wav,00:02:01,country,country17,Alan Jackson,221,3,54
+country.00021.wav,00:01:53,country,country2,Faith Hill,222,3,45
+country.00022.wav,00:02:32,country,country9,Reba McEntire,223,3,55
+country.00023.wav,00:03:01,country,country19,Merle Haggard,224,3,44
+country.00024.wav,00:01:11,country,country3,Toby Keith,225,3,42
+country.00025.wav,00:01:53,country,country9,Dolly Parton,226,3,55
+country.00026.wav,00:02:23,country,country3,Miranda Lambert,227,3,42
+country.00027.wav,00:03:42,country,country3,Dolly Parton,228,3,42
+country.00028.wav,00:02:34,country,country14,Johnny Cash,229,3,53
+country.00029.wav,00:01:23,country,country6,Shania Twain,230,3,50
+country.00030.wav,00:01:53,country,country19,Blake Shelton,231,3,44
+country.00031.wav,00:01:37,country,country19,Charlie Daniels,232,3,44
+country.00032.wav,00:03:23,country,country16,Garth Brooks,233,3,56
+country.00033.wav,00:02:31,country,country9,Brooks & Dunn,234,3,55
+country.00034.wav,00:13:23,country,country7,Kris Kristofferson,235,3,47
+country.00035.wav,00:02:46,country,country13,Patsy Cline,236,3,51
+country.00036.wav,00:00:53,country,country11,Loretta Lynn,237,3,52
+country.00037.wav,00:02:58,country,country6,Hank Williams,238,3,50
+country.00038.wav,00:02:13,country,country18,Loretta Lynn,239,3,49
+country.00039.wav,00:04:45,country,country10,Dolly Parton,240,3,43
+country.00040.wav,00:03:10,country,country0,Tim McGraw,241,3,57
+country.00041.wav,00:02:42,country,country2,Hank Williams,242,3,45
+country.00042.wav,00:03:06,country,country19,Miranda Lambert,243,3,44
+country.00043.wav,00:02:51,country,country17,Rascal Flatts,244,3,54
+country.00044.wav,00:03:21,country,country17,Shania Twain,245,3,54
+country.00045.wav,,country,country2,Brad Paisley,246,3,45
+country.00046.wav,00:13:32,country,country0,Shania Twain,247,3,57
+country.00047.wav,00:00:19,country,country13,Kris Kristofferson,248,3,51
+country.00048.wav,00:01:06,country,country19,Waylon Jennings,249,3,44
+country.00049.wav,00:02:49,country,country1,Emmylou Harris,250,3,46
+country.00050.wav,00:01:28,country,country15,George Strait,251,3,41
+country.00051.wav,00:01:39,country,country6,Charlie Daniels,252,3,50
+country.00052.wav,00:03:13,country,country8,Carrie Underwood,253,3,58
+country.00053.wav,00:02:21,country,country17,Emmylou Harris,254,3,54
+country.00054.wav,,country,country11,Loretta Lynn,255,3,52
+country.00055.wav,00:01:32,country,country17,LeAnn Rimes,256,3,54
+country.00056.wav,00:01:51,country,country1,Patsy Cline,257,3,46
+country.00057.wav,00:03:29,country,country1,Loretta Lynn,258,3,46
+country.00058.wav,00:02:21,country,country2,Keith Urban,259,3,45
+country.00059.wav,00:03:02,country,country0,Keith Urban,260,3,57
+country.00060.wav,00:02:13,country,country14,Martina McBride,261,3,53
+country.00061.wav,00:01:13,country,country16,Merle Haggard,262,3,56
+country.00062.wav,00:03:25,country,country12,Carrie Underwood,263,3,59
+country.00063.wav,00:02:56,country,country4,Loretta Lynn,264,3,60
+country.00064.wav,00:02:33,country,country11,Alan Jackson,265,3,52
+country.00065.wav,00:03:42,country,country0,George Strait,266,3,57
+country.00066.wav,00:02:10,country,country19,Loretta Lynn,267,3,44
+country.00067.wav,00:01:49,country,country18,Charlie Daniels,268,3,49
+country.00068.wav,00:02:57,country,country12,Garth Brooks,269,3,59
+country.00069.wav,00:03:25,country,country19,Faith Hill,270,3,44
+country.00070.wav,00:03:06,country,country14,Randy Travis,271,3,53
+country.00071.wav,00:02:24,country,country2,Rascal Flatts,272,3,45
+country.00072.wav,00:01:07,country,country13,Blake Shelton,273,3,51
+country.00073.wav,00:02:26,country,country10,Hank Williams,274,3,43
+country.00074.wav,00:02:25,country,country18,Loretta Lynn,275,3,49
+country.00075.wav,00:01:23,country,country7,Miranda Lambert,276,3,47
+country.00076.wav,00:01:39,country,country2,Willie Nelson,277,3,45
+country.00077.wav,00:01:55,country,country7,Willie Nelson,278,3,47
+country.00078.wav,00:02:41,country,country10,Kris Kristofferson,279,3,43
+country.00079.wav,00:01:20,country,country12,Dolly Parton,280,3,59
+country.00080.wav,00:02:39,country,country18,Blake Shelton,281,3,49
+country.00081.wav,00:01:36,country,country9,Reba McEntire,282,3,55
+country.00082.wav,00:03:26,country,country10,Vince Gill,283,3,43
+country.00083.wav,00:03:57,country,country13,Reba McEntire,284,3,51
+country.00084.wav,,country,country2,Loretta Lynn,285,3,45
+country.00085.wav,00:02:14,country,country2,Rascal Flatts,286,3,45
+country.00086.wav,00:01:50,country,country17,Waylon Jennings,287,3,54
+country.00087.wav,00:01:29,country,country6,LeAnn Rimes,288,3,50
+country.00088.wav,00:02:32,country,country13,Toby Keith,289,3,51
+country.00089.wav,00:01:35,country,country2,Vince Gill,290,3,45
+country.00090.wav,00:03:02,country,country17,Toby Keith,291,3,54
+country.00091.wav,00:02:50,country,country6,Patsy Cline,292,3,50
+country.00092.wav,00:01:04,country,country18,Tim McGraw,293,3,49
+country.00093.wav,00:03:09,country,country19,Brad Paisley,294,3,44
+country.00094.wav,00:02:09,country,country6,Miranda Lambert,295,3,50
+country.00095.wav,00:02:03,country,country5,Waylon Jennings,296,3,48
+country.00096.wav,00:02:31,country,country3,Martina McBride,297,3,42
+country.00097.wav,00:02:34,country,country13,Alan Jackson,298,3,51
+country.00098.wav,00:03:02,country,country18,Alan Jackson,299,3,49
+country.00099.wav,00:02:16,country,country18,Vince Gill,300,3,49
+disco.00000.wav,00:02:00,disco,disco18,Odyssey,301,4,61
+disco.00001.wav,00:02:14,disco,disco10,Rose Royce,302,4,62
+disco.00002.wav,00:02:12,disco,disco2,Patrick Hernandez,303,4,63
+disco.00003.wav,00:01:32,disco,disco14,Village People,304,4,64
+disco.00004.wav,00:02:42,disco,disco11,Patrick Hernandez,305,4,65
+disco.00005.wav,00:02:10,disco,disco10,LaBelle,306,4,62
+disco.00006.wav,00:02:46,disco,disco13,Pointer Sisters,307,4,66
+disco.00007.wav,00:02:40,disco,disco17,Lipps Inc.,308,4,67
+disco.00008.wav,00:02:54,disco,disco12,"Earth, Wind & Fire",309,4,68
+disco.00009.wav,00:01:35,disco,disco9,Bee Gees,310,4,69
+disco.00010.wav,00:03:28,disco,disco9,Donna Summer,311,4,69
+disco.00011.wav,00:01:42,disco,disco12,Sylvester,312,4,68
+disco.00012.wav,00:02:28,disco,disco8,Donna Summer,313,4,70
+disco.00013.wav,00:02:02,disco,disco9,KC and the Sunshine Band,314,4,69
+disco.00014.wav,00:02:35,disco,disco10,Silver Convention,315,4,62
+disco.00015.wav,00:02:48,disco,disco18,Thelma Houston,316,4,61
+disco.00016.wav,00:02:55,disco,disco1,Diana Ross,317,4,71
+disco.00017.wav,00:02:29,disco,disco8,Rick James,318,4,70
+disco.00018.wav,00:02:32,disco,disco0,Thelma Houston,319,4,72
+disco.00019.wav,00:03:35,disco,disco0,Bee Gees,320,4,72
+disco.00020.wav,00:01:49,disco,disco2,Village People,321,4,63
+disco.00021.wav,00:02:02,disco,disco11,Donna Summer,322,4,65
+disco.00022.wav,00:01:32,disco,disco5,Sylvester,323,4,73
+disco.00023.wav,00:04:48,disco,disco0,George McCrae,324,4,72
+disco.00024.wav,00:02:24,disco,disco19,Baccara,325,4,74
+disco.00025.wav,00:02:29,disco,disco15,Lipps Inc.,326,4,75
+disco.00026.wav,00:01:51,disco,disco4,Donna Summer,327,4,76
+disco.00027.wav,00:02:37,disco,disco18,Grace Jones,328,4,61
+disco.00028.wav,00:02:20,disco,disco15,Anita Ward,329,4,75
+disco.00029.wav,00:01:23,disco,disco18,Diana Ross,330,4,61
+disco.00030.wav,00:03:40,disco,disco3,Lipps Inc.,331,4,77
+disco.00031.wav,00:00:48,disco,disco7,Chic,332,4,78
+disco.00032.wav,00:01:32,disco,disco0,The O'Jays,333,4,72
+disco.00033.wav,00:02:50,disco,disco18,George McCrae,334,4,61
+disco.00034.wav,00:03:35,disco,disco19,Baccara,335,4,74
+disco.00035.wav,00:02:30,disco,disco16,LaBelle,336,4,79
+disco.00036.wav,00:02:37,disco,disco14,The O'Jays,337,4,64
+disco.00037.wav,00:02:13,disco,disco16,Gibson Brothers,338,4,79
+disco.00038.wav,00:02:33,disco,disco2,Tavares,339,4,63
+disco.00039.wav,00:02:06,disco,disco6,Candi Staton,340,4,80
+disco.00040.wav,00:02:02,disco,disco3,Tavares,341,4,77
+disco.00041.wav,00:01:37,disco,disco19,Shalamar,342,4,74
+disco.00042.wav,00:02:59,disco,disco6,Michael Jackson,343,4,80
+disco.00043.wav,00:02:07,disco,disco5,Candi Staton,344,4,73
+disco.00044.wav,00:02:58,disco,disco6,Grace Jones,345,4,80
+disco.00045.wav,00:02:37,disco,disco12,KC and the Sunshine Band,346,4,68
+disco.00046.wav,00:02:45,disco,disco1,Pointer Sisters,347,4,71
+disco.00047.wav,00:01:54,disco,disco5,Kool & the Gang,348,4,73
+disco.00048.wav,00:02:22,disco,disco7,Shalamar,349,4,78
+disco.00049.wav,00:01:27,disco,disco17,Village People,350,4,67
+disco.00050.wav,00:02:32,disco,disco3,Silver Convention,351,4,77
+disco.00051.wav,00:02:46,disco,disco10,Tavares,352,4,62
+disco.00052.wav,00:03:03,disco,disco3,Diana Ross,353,4,77
+disco.00053.wav,00:02:26,disco,disco4,Patrick Hernandez,354,4,76
+disco.00054.wav,00:02:37,disco,disco4,George McCrae,355,4,76
+disco.00055.wav,00:02:39,disco,disco6,The Trammps,356,4,80
+disco.00056.wav,00:01:43,disco,disco15,Baccara,357,4,75
+disco.00057.wav,00:02:30,disco,disco15,Shalamar,358,4,75
+disco.00058.wav,00:02:20,disco,disco13,Chic,359,4,66
+disco.00059.wav,00:02:29,disco,disco2,Patrick Hernandez,360,4,63
+disco.00060.wav,00:02:36,disco,disco15,Rick James,361,4,75
+disco.00061.wav,00:03:00,disco,disco17,Candi Staton,362,4,67
+disco.00062.wav,00:02:31,disco,disco8,Village People,363,4,70
+disco.00063.wav,00:00:30,disco,disco16,Gibson Brothers,364,4,79
+disco.00064.wav,00:04:06,disco,disco19,"Earth, Wind & Fire",365,4,74
+disco.00065.wav,00:01:49,disco,disco1,Diana Ross,366,4,71
+disco.00066.wav,,disco,disco9,Odyssey,367,4,69
+disco.00067.wav,00:01:39,disco,disco8,Lipps Inc.,368,4,70
+disco.00068.wav,00:03:12,disco,disco9,Silver Convention,369,4,69
+disco.00069.wav,00:02:02,disco,disco12,Silver Convention,370,4,68
+disco.00070.wav,00:02:00,disco,disco3,Rick James,371,4,77
+disco.00071.wav,00:02:50,disco,disco1,Shalamar,372,4,71
+disco.00072.wav,00:01:55,disco,disco9,Sister Sledge,373,4,69
+disco.00073.wav,00:02:51,disco,disco12,Gloria Gaynor,374,4,68
+disco.00074.wav,00:02:32,disco,disco0,Lipps Inc.,375,4,72
+disco.00075.wav,00:02:20,disco,disco11,Baccara,376,4,65
+disco.00076.wav,00:03:43,disco,disco12,Pointer Sisters,377,4,68
+disco.00077.wav,00:02:20,disco,disco15,Grace Jones,378,4,75
+disco.00078.wav,00:02:33,disco,disco4,Rose Royce,379,4,76
+disco.00079.wav,00:02:26,disco,disco12,Baccara,380,4,68
+disco.00080.wav,00:01:57,disco,disco8,The Jacksons,381,4,70
+disco.00081.wav,00:01:26,disco,disco12,KC and the Sunshine Band,382,4,68
+disco.00082.wav,00:02:47,disco,disco10,The Trammps,383,4,62
+disco.00083.wav,00:01:51,disco,disco13,The O'Jays,384,4,66
+disco.00084.wav,00:01:59,disco,disco16,Tavares,385,4,79
+disco.00085.wav,00:01:06,disco,disco2,Odyssey,386,4,63
+disco.00086.wav,00:02:41,disco,disco5,Grace Jones,387,4,73
+disco.00087.wav,00:01:54,disco,disco2,Chic,388,4,63
+disco.00088.wav,00:03:07,disco,disco9,George McCrae,389,4,69
+disco.00089.wav,00:01:22,disco,disco13,The O'Jays,390,4,66
+disco.00090.wav,00:02:55,disco,disco4,Village People,391,4,76
+disco.00091.wav,00:02:14,disco,disco6,Silver Convention,392,4,80
+disco.00092.wav,00:02:32,disco,disco12,Grace Jones,393,4,68
+disco.00093.wav,00:00:02,disco,disco11,George McCrae,394,4,65
+disco.00094.wav,00:02:32,disco,disco14,Gibson Brothers,395,4,64
+disco.00095.wav,00:01:48,disco,disco17,KC and the Sunshine Band,396,4,67
+disco.00096.wav,00:03:25,disco,disco16,Shalamar,397,4,79
+disco.00097.wav,00:02:31,disco,disco13,Amii Stewart,398,4,66
+disco.00098.wav,00:03:47,disco,disco6,ABBA,399,4,80
+disco.00099.wav,00:03:10,disco,disco4,Rick James,400,4,76
+hiphop.00000.wav,00:01:43,hiphop,hiphop8,Beyoncé,401,5,81
+hiphop.00001.wav,00:01:46,hiphop,hiphop17,J. Cole,402,5,82
+hiphop.00002.wav,00:02:05,hiphop,hiphop10,Nicki Minaj,403,5,83
+hiphop.00003.wav,00:02:35,hiphop,hiphop18,50 Cent,404,5,84
+hiphop.00004.wav,00:01:49,hiphop,hiphop8,Rakim,405,5,81
+hiphop.00005.wav,00:01:36,hiphop,hiphop15,50 Cent,406,5,85
+hiphop.00006.wav,00:01:41,hiphop,hiphop19,Cardi B,407,5,86
+hiphop.00007.wav,00:02:46,hiphop,hiphop12,Beyoncé,408,5,87
+hiphop.00008.wav,00:02:22,hiphop,hiphop16,2Pac,409,5,88
+hiphop.00009.wav,00:02:14,hiphop,hiphop10,J. Cole,410,5,83
+hiphop.00010.wav,00:01:43,hiphop,hiphop15,Lauryn Hill,411,5,85
+hiphop.00011.wav,00:02:13,hiphop,hiphop17,Drake,412,5,82
+hiphop.00012.wav,00:01:42,hiphop,hiphop0,Biggie Smalls,413,5,89
+hiphop.00013.wav,00:01:08,hiphop,hiphop13,M.I.A.,414,5,90
+hiphop.00014.wav,00:02:16,hiphop,hiphop0,Nas,415,5,89
+hiphop.00015.wav,00:00:43,hiphop,hiphop7,Kanye West,416,5,91
+hiphop.00016.wav,00:01:02,hiphop,hiphop10,Wiz Khalifa,417,5,83
+hiphop.00017.wav,00:13:05,hiphop,hiphop3,J. Cole,418,5,92
+hiphop.00018.wav,00:02:06,hiphop,hiphop17,Lil Wayne,419,5,82
+hiphop.00019.wav,00:01:52,hiphop,hiphop12,"Tyler, The Creator",420,5,87
+hiphop.00020.wav,00:02:28,hiphop,hiphop4,Ice Cube,421,5,93
+hiphop.00021.wav,00:03:15,hiphop,hiphop13,Run-D.M.C.,422,5,90
+hiphop.00022.wav,00:02:33,hiphop,hiphop5,Snoop Dogg,423,5,94
+hiphop.00023.wav,00:03:19,hiphop,hiphop3,Missy Elliott,424,5,92
+hiphop.00024.wav,00:02:27,hiphop,hiphop2,Jay-Z,425,5,95
+hiphop.00025.wav,00:01:39,hiphop,hiphop4,J. Cole,426,5,93
+hiphop.00026.wav,00:02:07,hiphop,hiphop16,Snoop Dogg,427,5,88
+hiphop.00027.wav,00:01:05,hiphop,hiphop4,Chance the Rapper,428,5,93
+hiphop.00028.wav,00:03:43,hiphop,hiphop6,Snoop Dogg,429,5,96
+hiphop.00029.wav,00:01:55,hiphop,hiphop8,Kendrick Lamar,430,5,81
+hiphop.00030.wav,00:02:05,hiphop,hiphop6,2Pac,431,5,96
+hiphop.00031.wav,00:00:12,hiphop,hiphop10,Kanye West,432,5,83
+hiphop.00032.wav,00:01:16,hiphop,hiphop13,Kanye West,433,5,90
+hiphop.00033.wav,00:03:19,hiphop,hiphop10,J. Cole,434,5,83
+hiphop.00034.wav,00:02:22,hiphop,hiphop11,Run-D.M.C.,435,5,97
+hiphop.00035.wav,00:01:32,hiphop,hiphop17,Beyoncé,436,5,82
+hiphop.00036.wav,00:03:20,hiphop,hiphop5,Kanye West,437,5,94
+hiphop.00037.wav,00:01:57,hiphop,hiphop19,Nas,438,5,86
+hiphop.00038.wav,00:01:31,hiphop,hiphop6,A$AP Rocky,439,5,96
+hiphop.00039.wav,00:03:42,hiphop,hiphop11,Run-D.M.C.,440,5,97
+hiphop.00040.wav,00:02:49,hiphop,hiphop16,"Tyler, The Creator",441,5,88
+hiphop.00041.wav,00:02:48,hiphop,hiphop7,Future,442,5,91
+hiphop.00042.wav,00:02:27,hiphop,hiphop19,"Tyler, The Creator",443,5,86
+hiphop.00043.wav,00:01:26,hiphop,hiphop19,Biggie Smalls,444,5,86
+hiphop.00044.wav,00:02:30,hiphop,hiphop12,Biggie Smalls,445,5,87
+hiphop.00045.wav,00:02:37,hiphop,hiphop9,Biggie Smalls,446,5,98
+hiphop.00046.wav,00:01:58,hiphop,hiphop14,Jay-Z,447,5,99
+hiphop.00047.wav,00:02:14,hiphop,hiphop15,Logic,448,5,85
+hiphop.00048.wav,00:02:31,hiphop,hiphop2,Public Enemy,449,5,95
+hiphop.00049.wav,00:01:17,hiphop,hiphop12,Missy Elliott,450,5,87
+hiphop.00050.wav,00:02:10,hiphop,hiphop19,A$AP Rocky,451,5,86
+hiphop.00051.wav,00:01:23,hiphop,hiphop13,Travis Scott,452,5,90
+hiphop.00052.wav,00:01:46,hiphop,hiphop11,Ice Cube,453,5,97
+hiphop.00053.wav,00:03:17,hiphop,hiphop19,Nas,454,5,86
+hiphop.00054.wav,00:02:41,hiphop,hiphop9,Eminem,455,5,98
+hiphop.00055.wav,00:00:06,hiphop,hiphop12,2Pac,456,5,87
+hiphop.00056.wav,00:13:33,hiphop,hiphop14,Rakim,457,5,99
+hiphop.00057.wav,00:00:50,hiphop,hiphop11,Kid Cudi,458,5,97
+hiphop.00058.wav,00:02:19,hiphop,hiphop17,Lupe Fiasco,459,5,82
+hiphop.00059.wav,00:01:33,hiphop,hiphop1,Public Enemy,460,5,100
+hiphop.00060.wav,00:01:13,hiphop,hiphop6,Public Enemy,461,5,96
+hiphop.00061.wav,00:02:04,hiphop,hiphop14,Cardi B,462,5,99
+hiphop.00062.wav,00:02:39,hiphop,hiphop19,Missy Elliott,463,5,86
+hiphop.00063.wav,00:01:39,hiphop,hiphop4,Snoop Dogg,464,5,93
+hiphop.00064.wav,00:03:27,hiphop,hiphop1,Megan Thee Stallion,465,5,100
+hiphop.00065.wav,00:03:13,hiphop,hiphop6,Lil Uzi Vert,466,5,96
+hiphop.00066.wav,00:02:57,hiphop,hiphop0,Biggie Smalls,467,5,89
+hiphop.00067.wav,00:02:39,hiphop,hiphop7,Cardi B,468,5,91
+hiphop.00068.wav,,hiphop,hiphop4,Nicki Minaj,469,5,93
+hiphop.00069.wav,00:03:31,hiphop,hiphop13,50 Cent,470,5,90
+hiphop.00070.wav,00:02:43,hiphop,hiphop18,Drake,471,5,84
+hiphop.00071.wav,00:02:19,hiphop,hiphop0,Ice Cube,472,5,89
+hiphop.00072.wav,00:01:24,hiphop,hiphop1,Drake,473,5,100
+hiphop.00073.wav,00:01:50,hiphop,hiphop8,Snoop Dogg,474,5,81
+hiphop.00074.wav,00:02:30,hiphop,hiphop17,Beyoncé,475,5,82
+hiphop.00075.wav,00:03:27,hiphop,hiphop1,Chance the Rapper,476,5,100
+hiphop.00076.wav,00:01:42,hiphop,hiphop10,Biggie Smalls,477,5,83
+hiphop.00077.wav,00:02:16,hiphop,hiphop2,Wiz Khalifa,478,5,95
+hiphop.00078.wav,00:02:49,hiphop,hiphop11,Eminem,479,5,97
+hiphop.00079.wav,00:02:27,hiphop,hiphop5,Lil Wayne,480,5,94
+hiphop.00080.wav,00:00:06,hiphop,hiphop2,Lil Wayne,481,5,95
+hiphop.00081.wav,00:02:54,hiphop,hiphop10,Missy Elliott,482,5,83
+hiphop.00082.wav,00:02:09,hiphop,hiphop15,2Pac,483,5,85
+hiphop.00083.wav,00:03:36,hiphop,hiphop0,A$AP Rocky,484,5,89
+hiphop.00084.wav,00:02:50,hiphop,hiphop16,Run-D.M.C.,485,5,88
+hiphop.00085.wav,00:01:15,hiphop,hiphop14,Travis Scott,486,5,99
+hiphop.00086.wav,00:01:23,hiphop,hiphop19,Megan Thee Stallion,487,5,86
+hiphop.00087.wav,00:01:56,hiphop,hiphop6,Nicki Minaj,488,5,96
+hiphop.00088.wav,00:02:43,hiphop,hiphop12,J. Cole,489,5,87
+hiphop.00089.wav,00:01:37,hiphop,hiphop18,Travis Scott,490,5,84
+hiphop.00090.wav,00:02:52,hiphop,hiphop13,Lil Wayne,491,5,90
+hiphop.00091.wav,00:02:26,hiphop,hiphop12,J. Cole,492,5,87
+hiphop.00092.wav,00:03:22,hiphop,hiphop5,Logic,493,5,94
+hiphop.00093.wav,00:01:57,hiphop,hiphop2,Biggie Smalls,494,5,95
+hiphop.00094.wav,00:03:21,hiphop,hiphop12,Lil Uzi Vert,495,5,87
+hiphop.00095.wav,00:02:40,hiphop,hiphop3,OutKast,496,5,92
+hiphop.00096.wav,00:02:31,hiphop,hiphop16,Run-D.M.C.,497,5,88
+hiphop.00097.wav,00:02:54,hiphop,hiphop1,Drake,498,5,100
+hiphop.00098.wav,00:01:16,hiphop,hiphop11,Nicki Minaj,499,5,97
+hiphop.00099.wav,00:00:00,hiphop,hiphop0,Eminem,500,5,89
+jazz.00000.wav,00:02:41,jazz,jazz3,Lester Young,501,6,101
+jazz.00001.wav,00:02:53,jazz,jazz3,Duke Ellington,502,6,101
+jazz.00002.wav,00:03:09,jazz,jazz7,Stan Getz,503,6,102
+jazz.00003.wav,00:04:02,jazz,jazz9,Bill Evans,504,6,103
+jazz.00004.wav,00:00:16,jazz,jazz9,Charlie Christian,505,6,103
+jazz.00005.wav,00:00:43,jazz,jazz8,Ella Fitzgerald,506,6,104
+jazz.00006.wav,00:02:00,jazz,jazz1,Nat King Cole,507,6,105
+jazz.00007.wav,00:03:10,jazz,jazz19,Billie Holiday,508,6,106
+jazz.00008.wav,00:02:20,jazz,jazz12,Duke Ellington,509,6,107
+jazz.00009.wav,00:02:50,jazz,jazz1,Diana Krall,510,6,105
+jazz.00010.wav,00:01:41,jazz,jazz14,John Coltrane,511,6,108
+jazz.00011.wav,00:02:00,jazz,jazz13,Ahmad Jamal,512,6,109
+jazz.00012.wav,00:01:38,jazz,jazz14,Charles Mingus,513,6,108
+jazz.00013.wav,00:01:55,jazz,jazz11,Coleman Hawkins,514,6,110
+jazz.00014.wav,00:01:49,jazz,jazz15,Dizzy Gillespie,515,6,111
+jazz.00015.wav,00:02:05,jazz,jazz9,Joe Pass,516,6,103
+jazz.00016.wav,00:01:34,jazz,jazz18,Bill Evans,517,6,112
+jazz.00017.wav,00:02:53,jazz,jazz9,Dave Brubeck,518,6,103
+jazz.00018.wav,00:02:05,jazz,jazz16,Miles Davis,519,6,113
+jazz.00019.wav,00:02:25,jazz,jazz13,Dexter Gordon,520,6,109
+jazz.00020.wav,00:01:16,jazz,jazz3,Wayne Shorter,521,6,101
+jazz.00021.wav,00:02:17,jazz,jazz7,Nat King Cole,522,6,102
+jazz.00022.wav,00:00:05,jazz,jazz9,Diana Krall,523,6,103
+jazz.00023.wav,00:00:46,jazz,jazz17,Nat King Cole,524,6,114
+jazz.00024.wav,00:02:05,jazz,jazz15,Sarah Vaughan,525,6,111
+jazz.00025.wav,00:01:49,jazz,jazz4,Benny Goodman,526,6,115
+jazz.00026.wav,00:02:28,jazz,jazz16,John Coltrane,527,6,113
+jazz.00027.wav,00:01:40,jazz,jazz16,Art Blakey,528,6,113
+jazz.00028.wav,00:03:04,jazz,jazz9,Coleman Hawkins,529,6,103
+jazz.00029.wav,00:03:21,jazz,jazz3,Cannonball Adderley,530,6,101
+jazz.00030.wav,00:01:41,jazz,jazz8,Joe Pass,531,6,104
+jazz.00031.wav,00:01:45,jazz,jazz8,Coleman Hawkins,532,6,104
+jazz.00032.wav,00:02:59,jazz,jazz9,Coleman Hawkins,533,6,103
+jazz.00033.wav,00:00:36,jazz,jazz11,Coleman Hawkins,534,6,110
+jazz.00034.wav,00:02:23,jazz,jazz12,Cannonball Adderley,535,6,107
+jazz.00035.wav,00:01:33,jazz,jazz0,Ella Fitzgerald,536,6,116
+jazz.00036.wav,00:02:56,jazz,jazz3,Ahmad Jamal,537,6,101
+jazz.00037.wav,00:02:31,jazz,jazz13,Lester Young,538,6,109
+jazz.00038.wav,00:02:44,jazz,jazz13,Count Basie,539,6,109
+jazz.00039.wav,00:02:44,jazz,jazz10,Duke Ellington,540,6,117
+jazz.00040.wav,00:02:47,jazz,jazz3,Nat King Cole,541,6,101
+jazz.00041.wav,00:02:27,jazz,jazz8,John Coltrane,542,6,104
+jazz.00042.wav,00:03:11,jazz,jazz1,Sonny Rollins,543,6,105
+jazz.00043.wav,00:02:35,jazz,jazz0,Stan Getz,544,6,116
+jazz.00044.wav,00:03:11,jazz,jazz12,Wes Montgomery,545,6,107
+jazz.00045.wav,00:02:14,jazz,jazz2,Chet Baker,546,6,118
+jazz.00046.wav,00:03:21,jazz,jazz3,Cannonball Adderley,547,6,101
+jazz.00047.wav,00:02:13,jazz,jazz6,Ahmad Jamal,548,6,119
+jazz.00048.wav,00:02:57,jazz,jazz5,Charlie Christian,549,6,120
+jazz.00049.wav,00:03:48,jazz,jazz13,Ella Fitzgerald,550,6,109
+jazz.00050.wav,00:02:59,jazz,jazz1,John Coltrane,551,6,105
+jazz.00051.wav,00:03:13,jazz,jazz2,Charles Mingus,552,6,118
+jazz.00052.wav,00:02:04,jazz,jazz16,Sarah Vaughan,553,6,113
+jazz.00053.wav,00:03:28,jazz,jazz6,Oscar Peterson,554,6,119
+jazz.00054.wav,00:03:43,jazz,jazz7,Sarah Vaughan,555,6,102
+jazz.00055.wav,00:02:12,jazz,jazz5,Count Basie,556,6,120
+jazz.00056.wav,00:01:37,jazz,jazz8,Art Blakey,557,6,104
+jazz.00057.wav,00:02:09,jazz,jazz9,Charles Mingus,558,6,103
+jazz.00058.wav,00:01:50,jazz,jazz7,Thelonious Monk,559,6,102
+jazz.00059.wav,00:02:59,jazz,jazz3,Herbie Hancock,560,6,101
+jazz.00060.wav,00:02:01,jazz,jazz19,Joe Pass,561,6,106
+jazz.00061.wav,00:01:18,jazz,jazz18,Herbie Hancock,562,6,112
+jazz.00062.wav,00:01:32,jazz,jazz10,Joe Pass,563,6,117
+jazz.00063.wav,00:02:04,jazz,jazz5,Billie Holiday,564,6,120
+jazz.00064.wav,00:02:54,jazz,jazz15,Keith Jarrett,565,6,111
+jazz.00065.wav,00:01:31,jazz,jazz12,Cannonball Adderley,566,6,107
+jazz.00066.wav,00:01:16,jazz,jazz17,Chick Corea,567,6,114
+jazz.00067.wav,00:02:57,jazz,jazz18,Diana Krall,568,6,112
+jazz.00068.wav,00:02:03,jazz,jazz18,Sarah Vaughan,569,6,112
+jazz.00069.wav,00:02:37,jazz,jazz3,Louis Armstrong,570,6,101
+jazz.00070.wav,00:03:04,jazz,jazz9,Dave Brubeck,571,6,103
+jazz.00071.wav,00:01:45,jazz,jazz0,Ella Fitzgerald,572,6,116
+jazz.00072.wav,00:02:20,jazz,jazz14,Count Basie,573,6,108
+jazz.00073.wav,00:03:18,jazz,jazz8,Bill Evans,574,6,104
+jazz.00074.wav,00:01:27,jazz,jazz17,Ahmad Jamal,575,6,114
+jazz.00075.wav,00:01:25,jazz,jazz3,Dave Brubeck,576,6,101
+jazz.00076.wav,00:02:06,jazz,jazz0,Wes Montgomery,577,6,116
+jazz.00077.wav,00:13:33,jazz,jazz0,John Coltrane,578,6,116
+jazz.00078.wav,00:01:22,jazz,jazz8,Keith Jarrett,579,6,104
+jazz.00079.wav,00:02:57,jazz,jazz19,John Coltrane,580,6,106
+jazz.00080.wav,,jazz,jazz9,Chet Baker,581,6,103
+jazz.00081.wav,00:01:55,jazz,jazz14,Oscar Peterson,582,6,108
+jazz.00082.wav,00:00:48,jazz,jazz6,Duke Ellington,583,6,119
+jazz.00083.wav,00:02:45,jazz,jazz3,Benny Goodman,584,6,101
+jazz.00084.wav,00:01:35,jazz,jazz8,Count Basie,585,6,104
+jazz.00085.wav,00:02:49,jazz,jazz14,Louis Armstrong,586,6,108
+jazz.00086.wav,00:02:00,jazz,jazz7,Louis Armstrong,587,6,102
+jazz.00087.wav,00:03:03,jazz,jazz3,Lester Young,588,6,101
+jazz.00088.wav,00:02:05,jazz,jazz18,Charlie Parker,589,6,112
+jazz.00089.wav,00:01:49,jazz,jazz3,Cannonball Adderley,590,6,101
+jazz.00090.wav,00:01:44,jazz,jazz1,Chick Corea,591,6,105
+jazz.00091.wav,00:13:31,jazz,jazz19,Billie Holiday,592,6,106
+jazz.00092.wav,00:02:19,jazz,jazz4,Oscar Peterson,593,6,115
+jazz.00093.wav,00:03:23,jazz,jazz8,Benny Goodman,594,6,104
+jazz.00094.wav,00:01:38,jazz,jazz7,Wes Montgomery,595,6,102
+jazz.00095.wav,00:01:35,jazz,jazz13,Coleman Hawkins,596,6,109
+jazz.00096.wav,00:02:53,jazz,jazz2,Dizzy Gillespie,597,6,118
+jazz.00097.wav,00:02:39,jazz,jazz7,Sonny Rollins,598,6,102
+jazz.00098.wav,00:03:46,jazz,jazz11,Benny Goodman,599,6,110
+jazz.00099.wav,00:02:22,jazz,jazz3,Charles Mingus,600,6,101
+metal.00000.wav,00:02:55,metal,metal13,Floor Jansen,601,7,121
+metal.00001.wav,00:02:20,metal,metal14,Axl Rose,602,7,122
+metal.00002.wav,00:01:45,metal,metal13,Sharon den Adel,603,7,121
+metal.00003.wav,00:02:26,metal,metal9,Chuck Schuldiner,604,7,123
+metal.00004.wav,00:03:40,metal,metal8,Ozzy Osbourne,605,7,124
+metal.00005.wav,00:02:31,metal,metal13,Rob Halford,606,7,121
+metal.00006.wav,00:02:24,metal,metal9,Tony Iommi,607,7,123
+metal.00007.wav,00:01:32,metal,metal9,Joey DeMaio,608,7,123
+metal.00008.wav,00:02:03,metal,metal8,Simone Simons,609,7,124
+metal.00009.wav,00:02:02,metal,metal16,Lemmy Kilmister,610,7,125
+metal.00010.wav,00:13:16,metal,metal16,Floor Jansen,611,7,125
+metal.00011.wav,00:02:03,metal,metal19,Sharon den Adel,612,7,126
+metal.00012.wav,00:02:25,metal,metal2,James Hetfield,613,7,127
+metal.00013.wav,00:01:44,metal,metal0,Dave Mustaine,614,7,128
+metal.00014.wav,00:02:54,metal,metal4,Mikael Akerfeldt,615,7,129
+metal.00015.wav,00:02:25,metal,metal19,Joey DeMaio,616,7,126
+metal.00016.wav,00:02:42,metal,metal16,Sharon den Adel,617,7,125
+metal.00017.wav,00:02:35,metal,metal8,Michael Amott,618,7,124
+metal.00018.wav,00:03:26,metal,metal13,Max Cavalera,619,7,121
+metal.00019.wav,00:03:01,metal,metal18,Marty Friedman,620,7,130
+metal.00020.wav,00:02:22,metal,metal6,Zakk Wylde,621,7,131
+metal.00021.wav,00:03:04,metal,metal14,Zakk Wylde,622,7,122
+metal.00022.wav,00:03:12,metal,metal7,Zakk Wylde,623,7,132
+metal.00023.wav,00:02:07,metal,metal11,Sharon den Adel,624,7,133
+metal.00024.wav,00:00:57,metal,metal4,Lemmy Kilmister,625,7,129
+metal.00025.wav,00:13:31,metal,metal1,Alissa White-Gluz,626,7,134
+metal.00026.wav,00:00:04,metal,metal3,Lars Ulrich,627,7,135
+metal.00027.wav,00:02:22,metal,metal2,Kirk Hammett,628,7,127
+metal.00028.wav,00:01:54,metal,metal0,Tom Araya,629,7,128
+metal.00029.wav,00:02:12,metal,metal0,Mikael Akerfeldt,630,7,128
+metal.00030.wav,00:02:27,metal,metal2,Mille Petrozza,631,7,127
+metal.00031.wav,00:03:21,metal,metal12,Ozzy Osbourne,632,7,136
+metal.00032.wav,00:01:49,metal,metal5,Ozzy Osbourne,633,7,137
+metal.00033.wav,00:01:21,metal,metal12,Tom Araya,634,7,136
+metal.00034.wav,00:00:49,metal,metal10,Floor Jansen,635,7,138
+metal.00035.wav,00:04:07,metal,metal19,Randy Rhoads,636,7,126
+metal.00036.wav,00:02:47,metal,metal3,Rob Halford,637,7,135
+metal.00037.wav,00:01:55,metal,metal16,Tom Araya,638,7,125
+metal.00038.wav,00:02:14,metal,metal12,Sharon den Adel,639,7,136
+metal.00039.wav,00:01:36,metal,metal0,Lars Ulrich,640,7,128
+metal.00040.wav,00:02:17,metal,metal7,Axl Rose,641,7,132
+metal.00041.wav,00:01:23,metal,metal0,Joey DeMaio,642,7,128
+metal.00042.wav,00:02:35,metal,metal12,Kirk Hammett,643,7,136
+metal.00043.wav,00:01:01,metal,metal16,Joey DeMaio,644,7,125
+metal.00044.wav,00:01:36,metal,metal4,Axl Rose,645,7,129
+metal.00045.wav,00:13:34,metal,metal10,Angela Gossow,646,7,138
+metal.00046.wav,00:03:35,metal,metal10,Ozzy Osbourne,647,7,138
+metal.00047.wav,00:01:55,metal,metal13,Floor Jansen,648,7,121
+metal.00048.wav,00:02:42,metal,metal17,Joey DeMaio,649,7,139
+metal.00049.wav,00:00:56,metal,metal9,Sharon den Adel,650,7,123
+metal.00050.wav,00:01:45,metal,metal0,Cristina Scabbia,651,7,128
+metal.00051.wav,00:02:22,metal,metal0,Lemmy Kilmister,652,7,128
+metal.00052.wav,00:02:49,metal,metal8,Charlotte Wessels,653,7,124
+metal.00053.wav,00:00:02,metal,metal17,Max Cavalera,654,7,139
+metal.00054.wav,00:03:18,metal,metal9,Floor Jansen,655,7,123
+metal.00055.wav,00:13:27,metal,metal14,Doro Pesch,656,7,122
+metal.00056.wav,00:03:10,metal,metal1,Michael Amott,657,7,134
+metal.00057.wav,00:01:56,metal,metal7,Chuck Schuldiner,658,7,132
+metal.00058.wav,00:01:52,metal,metal2,Joey DeMaio,659,7,127
+metal.00059.wav,00:01:24,metal,metal6,Tony Iommi,660,7,131
+metal.00060.wav,00:03:09,metal,metal19,James Hetfield,661,7,126
+metal.00061.wav,00:01:26,metal,metal5,Angela Gossow,662,7,137
+metal.00062.wav,00:02:53,metal,metal6,Cristina Scabbia,663,7,131
+metal.00063.wav,00:03:23,metal,metal9,Axl Rose,664,7,123
+metal.00064.wav,00:01:52,metal,metal5,Cristina Scabbia,665,7,137
+metal.00065.wav,00:02:36,metal,metal15,Joey DeMaio,666,7,140
+metal.00066.wav,00:02:58,metal,metal1,Charlotte Wessels,667,7,134
+metal.00067.wav,00:02:16,metal,metal10,Chuck Schuldiner,668,7,138
+metal.00068.wav,00:04:16,metal,metal5,Tom Araya,669,7,137
+metal.00069.wav,00:01:37,metal,metal19,Ozzy Osbourne,670,7,126
+metal.00070.wav,00:02:14,metal,metal9,Cristina Scabbia,671,7,123
+metal.00071.wav,00:02:59,metal,metal15,Sharon den Adel,672,7,140
+metal.00072.wav,,metal,metal17,Randy Rhoads,673,7,139
+metal.00073.wav,00:02:58,metal,metal19,Kirk Hammett,674,7,126
+metal.00074.wav,00:02:15,metal,metal9,Lzzy Hale,675,7,123
+metal.00075.wav,00:01:03,metal,metal12,Lars Ulrich,676,7,136
+metal.00076.wav,00:02:45,metal,metal11,Max Cavalera,677,7,133
+metal.00077.wav,00:02:26,metal,metal11,Randy Rhoads,678,7,133
+metal.00078.wav,00:13:12,metal,metal19,Alissa White-Gluz,679,7,126
+metal.00079.wav,00:02:41,metal,metal5,Marty Friedman,680,7,137
+metal.00080.wav,00:01:33,metal,metal15,Zakk Wylde,681,7,140
+metal.00081.wav,00:03:28,metal,metal4,Mikael Akerfeldt,682,7,129
+metal.00082.wav,00:01:47,metal,metal5,Axl Rose,683,7,137
+metal.00083.wav,00:01:34,metal,metal9,Sharon den Adel,684,7,123
+metal.00084.wav,00:02:49,metal,metal15,Alissa White-Gluz,685,7,140
+metal.00085.wav,00:03:20,metal,metal9,Charlotte Wessels,686,7,123
+metal.00086.wav,00:02:52,metal,metal9,Floor Jansen,687,7,123
+metal.00087.wav,00:02:19,metal,metal8,Zakk Wylde,688,7,124
+metal.00088.wav,00:01:59,metal,metal16,Marty Friedman,689,7,125
+metal.00089.wav,00:01:46,metal,metal16,Floor Jansen,690,7,125
+metal.00090.wav,00:02:22,metal,metal11,Randy Rhoads,691,7,133
+metal.00091.wav,00:00:48,metal,metal18,Mille Petrozza,692,7,130
+metal.00092.wav,00:02:48,metal,metal19,Zakk Wylde,693,7,126
+metal.00093.wav,00:02:45,metal,metal12,Alissa White-Gluz,694,7,136
+metal.00094.wav,00:02:22,metal,metal18,Cristina Scabbia,695,7,130
+metal.00095.wav,00:02:34,metal,metal1,Simone Simons,696,7,134
+metal.00096.wav,00:02:35,metal,metal1,Tarja Turunen,697,7,134
+metal.00097.wav,00:03:13,metal,metal19,Michael Amott,698,7,126
+metal.00098.wav,00:01:32,metal,metal2,Lemmy Kilmister,699,7,127
+metal.00099.wav,00:02:11,metal,metal1,Mikael Akerfeldt,700,7,134
+pop.00000.wav,00:02:18,pop,pop18,Beyoncé,701,8,141
+pop.00001.wav,00:02:47,pop,pop1,Camila Cabello,702,8,142
+pop.00002.wav,00:03:10,pop,pop15,Billie Eilish,703,8,143
+pop.00003.wav,00:02:21,pop,pop14,Katy Perry,704,8,144
+pop.00004.wav,00:01:58,pop,pop19,Rihanna,705,8,145
+pop.00005.wav,00:03:03,pop,pop6,Rihanna,706,8,146
+pop.00006.wav,00:03:05,pop,pop1,Post Malone,707,8,142
+pop.00007.wav,00:03:10,pop,pop8,Ariana Grande,708,8,147
+pop.00008.wav,00:02:32,pop,pop0,John Legend,709,8,148
+pop.00009.wav,00:00:05,pop,pop18,Shawn Mendes,710,8,141
+pop.00010.wav,00:01:28,pop,pop9,Ariana Grande,711,8,149
+pop.00011.wav,00:13:31,pop,pop16,Lady Gaga,712,8,150
+pop.00012.wav,,pop,pop18,Jason Derulo,713,8,141
+pop.00013.wav,00:02:27,pop,pop16,Bruno Mars,714,8,150
+pop.00014.wav,00:13:37,pop,pop5,Ariana Grande,715,8,151
+pop.00015.wav,00:01:06,pop,pop16,Shakira,716,8,150
+pop.00016.wav,00:01:46,pop,pop10,Ed Sheeran,717,8,152
+pop.00017.wav,00:13:13,pop,pop11,Billie Eilish,718,8,153
+pop.00018.wav,00:02:29,pop,pop19,Taylor Swift,719,8,145
+pop.00019.wav,00:02:34,pop,pop6,Jason Derulo,720,8,146
+pop.00020.wav,00:03:46,pop,pop5,Adele,721,8,151
+pop.00021.wav,00:01:31,pop,pop5,Nicki Minaj,722,8,151
+pop.00022.wav,00:02:25,pop,pop14,Dua Lipa,723,8,144
+pop.00023.wav,00:02:44,pop,pop14,Billie Eilish,724,8,144
+pop.00024.wav,00:02:01,pop,pop19,Maroon 5,725,8,145
+pop.00025.wav,00:01:31,pop,pop5,Miley Cyrus,726,8,151
+pop.00026.wav,00:02:02,pop,pop3,Billie Eilish,727,8,154
+pop.00027.wav,00:02:51,pop,pop19,Zayn Malik,728,8,145
+pop.00028.wav,00:02:12,pop,pop2,Ariana Grande,729,8,155
+pop.00029.wav,00:03:23,pop,pop10,Adele,730,8,152
+pop.00030.wav,00:02:21,pop,pop6,Post Malone,731,8,146
+pop.00031.wav,00:01:44,pop,pop9,Imagine Dragons,732,8,149
+pop.00032.wav,00:02:17,pop,pop3,Imagine Dragons,733,8,154
+pop.00033.wav,00:02:11,pop,pop19,Charlie Puth,734,8,145
+pop.00034.wav,00:01:34,pop,pop4,Shakira,735,8,156
+pop.00035.wav,00:03:25,pop,pop10,Maroon 5,736,8,152
+pop.00036.wav,00:02:00,pop,pop7,Halsey,737,8,157
+pop.00037.wav,00:01:12,pop,pop17,Sia,738,8,158
+pop.00038.wav,00:03:03,pop,pop12,Katy Perry,739,8,159
+pop.00039.wav,00:00:48,pop,pop15,Justin Bieber,740,8,143
+pop.00040.wav,00:02:57,pop,pop16,Drake,741,8,150
+pop.00041.wav,00:02:18,pop,pop0,Zayn Malik,742,8,148
+pop.00042.wav,00:03:17,pop,pop16,Adele,743,8,150
+pop.00043.wav,00:13:20,pop,pop6,Sam Smith,744,8,146
+pop.00044.wav,00:02:32,pop,pop18,Lizzo,745,8,141
+pop.00045.wav,00:01:17,pop,pop18,Selena Gomez,746,8,141
+pop.00046.wav,00:02:03,pop,pop2,Selena Gomez,747,8,155
+pop.00047.wav,00:01:59,pop,pop14,Camila Cabello,748,8,144
+pop.00048.wav,00:02:41,pop,pop8,Miley Cyrus,749,8,147
+pop.00049.wav,00:03:19,pop,pop16,Dua Lipa,750,8,150
+pop.00050.wav,00:00:02,pop,pop19,Bruno Mars,751,8,145
+pop.00051.wav,00:01:48,pop,pop16,Imagine Dragons,752,8,150
+pop.00052.wav,00:02:35,pop,pop6,Taylor Swift,753,8,146
+pop.00053.wav,00:02:35,pop,pop0,Dua Lipa,754,8,148
+pop.00054.wav,00:01:27,pop,pop2,Harry Styles,755,8,155
+pop.00055.wav,00:03:39,pop,pop8,Beyoncé,756,8,147
+pop.00056.wav,00:03:07,pop,pop15,Zayn Malik,757,8,143
+pop.00057.wav,00:02:24,pop,pop17,Jason Derulo,758,8,158
+pop.00058.wav,00:01:17,pop,pop5,Imagine Dragons,759,8,151
+pop.00059.wav,00:02:14,pop,pop1,Rihanna,760,8,142
+pop.00060.wav,00:01:44,pop,pop16,Khalid,761,8,150
+pop.00061.wav,00:02:22,pop,pop8,The Weeknd,762,8,147
+pop.00062.wav,00:03:02,pop,pop6,Sia,763,8,146
+pop.00063.wav,00:04:04,pop,pop5,Dua Lipa,764,8,151
+pop.00064.wav,00:01:58,pop,pop17,Camila Cabello,765,8,158
+pop.00065.wav,00:02:41,pop,pop0,Dua Lipa,766,8,148
+pop.00066.wav,00:02:49,pop,pop1,Zayn Malik,767,8,142
+pop.00067.wav,00:02:39,pop,pop16,Khalid,768,8,150
+pop.00068.wav,00:02:10,pop,pop7,Bruno Mars,769,8,157
+pop.00069.wav,00:01:49,pop,pop6,Nicki Minaj,770,8,146
+pop.00070.wav,00:02:14,pop,pop8,John Legend,771,8,147
+pop.00071.wav,00:02:17,pop,pop2,Halsey,772,8,155
+pop.00072.wav,00:02:36,pop,pop0,Justin Bieber,773,8,148
+pop.00073.wav,00:01:37,pop,pop19,Adele,774,8,145
+pop.00074.wav,00:02:47,pop,pop4,Billie Eilish,775,8,156
+pop.00075.wav,00:01:51,pop,pop13,Charlie Puth,776,8,160
+pop.00076.wav,,pop,pop15,Post Malone,777,8,143
+pop.00077.wav,00:01:39,pop,pop11,Shawn Mendes,778,8,153
+pop.00078.wav,,pop,pop13,Nicki Minaj,779,8,160
+pop.00079.wav,00:01:27,pop,pop14,Cardi B,780,8,144
+pop.00080.wav,00:02:37,pop,pop7,Selena Gomez,781,8,157
+pop.00081.wav,00:02:45,pop,pop18,Sam Smith,782,8,141
+pop.00082.wav,00:02:43,pop,pop11,Zayn Malik,783,8,153
+pop.00083.wav,00:01:32,pop,pop4,Miley Cyrus,784,8,156
+pop.00084.wav,00:02:53,pop,pop12,Selena Gomez,785,8,159
+pop.00085.wav,00:03:26,pop,pop19,Halsey,786,8,145
+pop.00086.wav,00:01:43,pop,pop3,Nicki Minaj,787,8,154
+pop.00087.wav,00:03:10,pop,pop7,Jason Derulo,788,8,157
+pop.00088.wav,00:02:50,pop,pop5,Lady Gaga,789,8,151
+pop.00089.wav,00:02:10,pop,pop18,Bruno Mars,790,8,141
+pop.00090.wav,00:02:38,pop,pop9,Khalid,791,8,149
+pop.00091.wav,00:01:37,pop,pop3,Lizzo,792,8,154
+pop.00092.wav,00:02:39,pop,pop11,Katy Perry,793,8,153
+pop.00093.wav,00:01:54,pop,pop11,Ed Sheeran,794,8,153
+pop.00094.wav,00:01:27,pop,pop17,Katy Perry,795,8,158
+pop.00095.wav,00:03:17,pop,pop6,Taylor Swift,796,8,146
+pop.00096.wav,00:02:53,pop,pop16,Post Malone,797,8,150
+pop.00097.wav,00:02:47,pop,pop15,Katy Perry,798,8,143
+pop.00098.wav,00:02:12,pop,pop18,Bruno Mars,799,8,141
+pop.00099.wav,00:01:51,pop,pop3,Dua Lipa,800,8,154
+reggae.00000.wav,00:02:36,reggae,reggae1,Sean Paul,801,9,161
+reggae.00001.wav,00:02:00,reggae,reggae11,Sizzla,802,9,162
+reggae.00002.wav,00:03:21,reggae,reggae18,Rita Marley,803,9,163
+reggae.00003.wav,00:01:47,reggae,reggae5,Gentleman,804,9,164
+reggae.00004.wav,00:02:47,reggae,reggae10,Capleton,805,9,165
+reggae.00005.wav,00:02:36,reggae,reggae10,Junior Gong,806,9,165
+reggae.00006.wav,00:02:06,reggae,reggae17,Sean Paul,807,9,166
+reggae.00007.wav,00:02:12,reggae,reggae10,Protoje,808,9,165
+reggae.00008.wav,00:01:59,reggae,reggae14,Gentleman,809,9,167
+reggae.00009.wav,00:02:26,reggae,reggae4,Sean Paul,810,9,168
+reggae.00010.wav,00:01:32,reggae,reggae17,Tarrus Riley,811,9,166
+reggae.00011.wav,00:01:39,reggae,reggae7,Stephen Marley,812,9,169
+reggae.00012.wav,00:13:28,reggae,reggae18,SOJA,813,9,163
+reggae.00013.wav,00:02:35,reggae,reggae1,Steel Pulse,814,9,161
+reggae.00014.wav,00:02:05,reggae,reggae4,Rita Marley,815,9,168
+reggae.00015.wav,00:03:00,reggae,reggae4,Buju Banton,816,9,168
+reggae.00016.wav,00:03:04,reggae,reggae6,Protoje,817,9,170
+reggae.00017.wav,00:01:50,reggae,reggae11,Max Romeo,818,9,162
+reggae.00018.wav,00:01:18,reggae,reggae19,Bob Marley,819,9,171
+reggae.00019.wav,00:02:18,reggae,reggae15,Shaggy,820,9,172
+reggae.00020.wav,00:02:21,reggae,reggae1,Burning Spear,821,9,161
+reggae.00021.wav,00:01:43,reggae,reggae11,Dennis Brown,822,9,162
+reggae.00022.wav,00:02:03,reggae,reggae9,Third World,823,9,173
+reggae.00023.wav,00:03:18,reggae,reggae17,Beres Hammond,824,9,166
+reggae.00024.wav,00:02:25,reggae,reggae3,Shaggy,825,9,174
+reggae.00025.wav,00:01:48,reggae,reggae16,Buju Banton,826,9,175
+reggae.00026.wav,00:02:37,reggae,reggae14,Freddie McGregor,827,9,167
+reggae.00027.wav,00:02:38,reggae,reggae1,Gentleman,828,9,161
+reggae.00028.wav,00:02:05,reggae,reggae5,Gregory Isaacs,829,9,164
+reggae.00029.wav,00:03:07,reggae,reggae9,Gregory Isaacs,830,9,173
+reggae.00030.wav,00:03:55,reggae,reggae7,Peter Tosh,831,9,169
+reggae.00031.wav,00:03:00,reggae,reggae13,Protoje,832,9,176
+reggae.00032.wav,00:02:50,reggae,reggae12,Tarrus Riley,833,9,177
+reggae.00033.wav,00:03:23,reggae,reggae18,Jimmy Cliff,834,9,163
+reggae.00034.wav,00:03:37,reggae,reggae12,Chronixx,835,9,177
+reggae.00035.wav,00:03:12,reggae,reggae9,Ziggy Marley,836,9,173
+reggae.00036.wav,00:03:19,reggae,reggae13,Alborosie,837,9,176
+reggae.00037.wav,00:02:28,reggae,reggae13,Capleton,838,9,176
+reggae.00038.wav,00:02:26,reggae,reggae10,Ziggy Marley,839,9,165
+reggae.00039.wav,00:13:20,reggae,reggae17,SOJA,840,9,166
+reggae.00040.wav,00:03:17,reggae,reggae1,Beres Hammond,841,9,161
+reggae.00041.wav,00:02:55,reggae,reggae7,Marcia Griffiths,842,9,169
+reggae.00042.wav,00:03:33,reggae,reggae6,SOJA,843,9,170
+reggae.00043.wav,00:02:51,reggae,reggae13,Max Romeo,844,9,176
+reggae.00044.wav,00:03:11,reggae,reggae2,Marcia Griffiths,845,9,178
+reggae.00045.wav,00:03:01,reggae,reggae9,Luciano,846,9,173
+reggae.00046.wav,00:01:39,reggae,reggae0,Rita Marley,847,9,179
+reggae.00047.wav,00:01:18,reggae,reggae7,Beres Hammond,848,9,169
+reggae.00048.wav,00:04:17,reggae,reggae14,Gregory Isaacs,849,9,167
+reggae.00049.wav,00:01:47,reggae,reggae1,Tarrus Riley,850,9,161
+reggae.00050.wav,00:02:07,reggae,reggae12,Burning Spear,851,9,177
+reggae.00051.wav,00:02:47,reggae,reggae2,Luciano,852,9,178
+reggae.00052.wav,00:01:20,reggae,reggae8,Dennis Brown,853,9,180
+reggae.00053.wav,00:02:48,reggae,reggae4,Beres Hammond,854,9,168
+reggae.00054.wav,00:01:58,reggae,reggae7,Steel Pulse,855,9,169
+reggae.00055.wav,00:03:10,reggae,reggae18,Dennis Brown,856,9,163
+reggae.00056.wav,00:02:11,reggae,reggae19,Protoje,857,9,171
+reggae.00057.wav,00:01:34,reggae,reggae17,SOJA,858,9,166
+reggae.00058.wav,00:01:36,reggae,reggae2,Collie Buddz,859,9,178
+reggae.00059.wav,00:03:03,reggae,reggae9,Rita Marley,860,9,173
+reggae.00060.wav,00:03:11,reggae,reggae14,Tarrus Riley,861,9,167
+reggae.00061.wav,00:02:13,reggae,reggae19,Damian Marley,862,9,171
+reggae.00062.wav,00:03:48,reggae,reggae18,Freddie McGregor,863,9,163
+reggae.00063.wav,00:01:59,reggae,reggae15,Chronixx,864,9,172
+reggae.00064.wav,00:02:42,reggae,reggae6,Max Romeo,865,9,170
+reggae.00065.wav,00:02:04,reggae,reggae3,Protoje,866,9,174
+reggae.00066.wav,00:03:07,reggae,reggae8,Collie Buddz,867,9,180
+reggae.00067.wav,00:02:15,reggae,reggae2,Third World,868,9,178
+reggae.00068.wav,00:01:36,reggae,reggae17,Damian Marley,869,9,166
+reggae.00069.wav,00:01:14,reggae,reggae8,Black Uhuru,870,9,180
+reggae.00070.wav,00:02:42,reggae,reggae10,Chronixx,871,9,165
+reggae.00071.wav,00:02:47,reggae,reggae12,Protoje,872,9,177
+reggae.00072.wav,00:02:41,reggae,reggae6,Collie Buddz,873,9,170
+reggae.00073.wav,00:02:10,reggae,reggae17,Damian Marley,874,9,166
+reggae.00074.wav,00:03:34,reggae,reggae14,Rita Marley,875,9,167
+reggae.00075.wav,00:01:58,reggae,reggae14,SOJA,876,9,167
+reggae.00076.wav,00:03:31,reggae,reggae10,Jimmy Cliff,877,9,165
+reggae.00077.wav,00:02:21,reggae,reggae15,Sizzla,878,9,172
+reggae.00078.wav,00:01:27,reggae,reggae8,Dennis Brown,879,9,180
+reggae.00079.wav,00:02:27,reggae,reggae7,Shaggy,880,9,169
+reggae.00080.wav,00:01:34,reggae,reggae2,Junior Gong,881,9,178
+reggae.00081.wav,00:02:57,reggae,reggae18,Alborosie,882,9,163
+reggae.00082.wav,00:02:44,reggae,reggae10,Beres Hammond,883,9,165
+reggae.00083.wav,00:01:25,reggae,reggae13,Sean Paul,884,9,176
+reggae.00084.wav,00:01:48,reggae,reggae6,Stephen Marley,885,9,170
+reggae.00085.wav,00:00:54,reggae,reggae4,Sizzla,886,9,168
+reggae.00086.wav,00:03:08,reggae,reggae11,Stephen Marley,887,9,162
+reggae.00087.wav,00:02:21,reggae,reggae13,Toots Hibbert,888,9,176
+reggae.00088.wav,00:00:03,reggae,reggae3,Capleton,889,9,174
+reggae.00089.wav,00:03:01,reggae,reggae16,Shaggy,890,9,175
+reggae.00090.wav,00:01:29,reggae,reggae1,Black Uhuru,891,9,161
+reggae.00091.wav,00:01:44,reggae,reggae7,Sizzla,892,9,169
+reggae.00092.wav,00:02:48,reggae,reggae14,Shaggy,893,9,167
+reggae.00093.wav,00:01:57,reggae,reggae10,Damian Marley,894,9,165
+reggae.00094.wav,00:01:54,reggae,reggae16,Inner Circle,895,9,175
+reggae.00095.wav,00:01:56,reggae,reggae18,SOJA,896,9,163
+reggae.00096.wav,00:13:28,reggae,reggae3,Chronixx,897,9,174
+reggae.00097.wav,00:02:38,reggae,reggae13,Black Uhuru,898,9,176
+reggae.00098.wav,00:02:25,reggae,reggae6,Gregory Isaacs,899,9,170
+reggae.00099.wav,00:01:39,reggae,reggae16,Ziggy Marley,900,9,175
+rock.00000.wav,00:01:44,rock,rock18,Aerosmith,901,10,181
+rock.00001.wav,00:02:26,rock,rock15,The Doors,902,10,182
+rock.00002.wav,00:02:47,rock,rock10,R.E.M.,903,10,183
+rock.00003.wav,00:01:48,rock,rock5,Aerosmith,904,10,184
+rock.00004.wav,00:03:29,rock,rock5,Chuck Berry,905,10,184
+rock.00005.wav,,rock,rock12,David Bowie,906,10,185
+rock.00006.wav,00:02:36,rock,rock4,AC/DC,907,10,186
+rock.00007.wav,00:01:45,rock,rock3,Radiohead,908,10,187
+rock.00008.wav,00:03:24,rock,rock12,Jimi Hendrix,909,10,185
+rock.00009.wav,00:01:54,rock,rock8,The Doors,910,10,188
+rock.00010.wav,00:02:14,rock,rock0,Chuck Berry,911,10,189
+rock.00011.wav,00:13:33,rock,rock11,R.E.M.,912,10,190
+rock.00012.wav,00:03:36,rock,rock10,Nirvana,913,10,183
+rock.00013.wav,00:00:56,rock,rock2,Radiohead,914,10,191
+rock.00014.wav,00:02:09,rock,rock12,Pearl Jam,915,10,185
+rock.00015.wav,00:01:43,rock,rock17,Fleetwood Mac,916,10,192
+rock.00016.wav,00:02:42,rock,rock16,The Beach Boys,917,10,193
+rock.00017.wav,00:02:06,rock,rock5,David Bowie,918,10,184
+rock.00018.wav,00:02:37,rock,rock4,Guns N' Roses,919,10,186
+rock.00019.wav,00:00:38,rock,rock13,Deep Purple,920,10,194
+rock.00020.wav,00:02:29,rock,rock4,Fleetwood Mac,921,10,186
+rock.00021.wav,00:00:05,rock,rock4,The Eagles,922,10,186
+rock.00022.wav,00:01:15,rock,rock6,Elton John,923,10,195
+rock.00023.wav,00:02:06,rock,rock2,Queen,924,10,191
+rock.00024.wav,00:03:12,rock,rock12,Eric Clapton,925,10,185
+rock.00025.wav,00:01:01,rock,rock12,Aerosmith,926,10,185
+rock.00026.wav,00:02:34,rock,rock16,The Eagles,927,10,193
+rock.00027.wav,00:00:50,rock,rock9,Nirvana,928,10,196
+rock.00028.wav,00:01:46,rock,rock8,Van Halen,929,10,188
+rock.00029.wav,00:01:54,rock,rock19,R.E.M.,930,10,197
+rock.00030.wav,00:02:37,rock,rock18,Elton John,931,10,181
+rock.00031.wav,00:02:52,rock,rock8,Eric Clapton,932,10,188
+rock.00032.wav,00:02:34,rock,rock17,Fleetwood Mac,933,10,192
+rock.00033.wav,00:02:27,rock,rock10,AC/DC,934,10,183
+rock.00034.wav,00:01:55,rock,rock11,Radiohead,935,10,190
+rock.00035.wav,00:02:25,rock,rock10,The Beatles,936,10,183
+rock.00036.wav,00:01:55,rock,rock12,The Eagles,937,10,185
+rock.00037.wav,00:02:03,rock,rock13,Chuck Berry,938,10,194
+rock.00038.wav,00:01:18,rock,rock7,Van Halen,939,10,198
+rock.00039.wav,00:02:15,rock,rock1,The Beatles,940,10,199
+rock.00040.wav,00:03:04,rock,rock13,David Bowie,941,10,194
+rock.00041.wav,00:02:29,rock,rock11,The Who,942,10,190
+rock.00042.wav,00:01:10,rock,rock5,Bob Dylan,943,10,184
+rock.00043.wav,00:02:27,rock,rock6,David Bowie,944,10,195
+rock.00044.wav,00:03:51,rock,rock4,The Rolling Stones,945,10,186
+rock.00045.wav,,rock,rock19,The Clash,946,10,197
+rock.00046.wav,00:01:50,rock,rock10,Van Halen,947,10,183
+rock.00047.wav,00:01:18,rock,rock11,The Kinks,948,10,190
+rock.00048.wav,00:02:29,rock,rock2,Van Halen,949,10,191
+rock.00049.wav,00:01:48,rock,rock19,Radiohead,950,10,197
+rock.00050.wav,00:01:55,rock,rock2,The Beach Boys,951,10,191
+rock.00051.wav,00:02:35,rock,rock18,Bruce Springsteen,952,10,181
+rock.00052.wav,00:02:53,rock,rock1,Elvis Presley,953,10,199
+rock.00053.wav,,rock,rock2,The Who,954,10,191
+rock.00054.wav,00:02:49,rock,rock5,The Eagles,955,10,184
+rock.00055.wav,00:00:01,rock,rock11,AC/DC,956,10,190
+rock.00056.wav,00:02:27,rock,rock5,Pink Floyd,957,10,184
+rock.00057.wav,00:01:45,rock,rock12,Nirvana,958,10,185
+rock.00058.wav,00:02:51,rock,rock12,Radiohead,959,10,185
+rock.00059.wav,00:02:00,rock,rock1,Pearl Jam,960,10,199
+rock.00060.wav,00:01:08,rock,rock0,Chuck Berry,961,10,189
+rock.00061.wav,00:01:59,rock,rock12,R.E.M.,962,10,185
+rock.00062.wav,00:01:21,rock,rock3,Bob Dylan,963,10,187
+rock.00063.wav,00:03:14,rock,rock19,Guns N' Roses,964,10,197
+rock.00064.wav,00:13:02,rock,rock17,Chuck Berry,965,10,192
+rock.00065.wav,00:03:41,rock,rock11,The Clash,966,10,190
+rock.00066.wav,00:02:59,rock,rock8,Metallica,967,10,188
+rock.00067.wav,00:01:23,rock,rock18,Nirvana,968,10,181
+rock.00068.wav,00:02:23,rock,rock16,Aerosmith,969,10,193
+rock.00069.wav,00:01:19,rock,rock9,Bob Dylan,970,10,196
+rock.00070.wav,00:02:30,rock,rock18,Elvis Presley,971,10,181
+rock.00071.wav,00:01:58,rock,rock6,Jimi Hendrix,972,10,195
+rock.00072.wav,00:03:18,rock,rock18,Queen,973,10,181
+rock.00073.wav,00:03:56,rock,rock1,Metallica,974,10,199
+rock.00074.wav,00:01:57,rock,rock1,Eric Clapton,975,10,199
+rock.00075.wav,00:02:35,rock,rock1,Van Halen,976,10,199
+rock.00076.wav,00:00:07,rock,rock19,Bon Jovi,977,10,197
+rock.00077.wav,00:02:39,rock,rock0,The Kinks,978,10,189
+rock.00078.wav,,rock,rock10,Led Zeppelin,979,10,183
+rock.00079.wav,00:00:55,rock,rock18,Pearl Jam,980,10,181
+rock.00080.wav,00:01:53,rock,rock3,AC/DC,981,10,187
+rock.00081.wav,00:03:24,rock,rock13,The Clash,982,10,194
+rock.00082.wav,00:02:50,rock,rock15,Eric Clapton,983,10,182
+rock.00083.wav,00:02:05,rock,rock3,Chuck Berry,984,10,187
+rock.00084.wav,00:02:16,rock,rock10,Jimi Hendrix,985,10,183
+rock.00085.wav,00:03:02,rock,rock5,Queen,986,10,184
+rock.00086.wav,00:13:20,rock,rock7,Oasis,987,10,198
+rock.00087.wav,00:02:20,rock,rock5,Elton John,988,10,184
+rock.00088.wav,00:02:15,rock,rock18,The Who,989,10,181
+rock.00089.wav,00:02:47,rock,rock1,Queen,990,10,199
+rock.00090.wav,00:02:36,rock,rock14,AC/DC,991,10,200
+rock.00091.wav,00:03:22,rock,rock19,Eric Clapton,992,10,197
+rock.00092.wav,00:03:01,rock,rock5,The Doors,993,10,184
+rock.00093.wav,00:02:40,rock,rock3,Eric Clapton,994,10,187
+rock.00094.wav,00:01:29,rock,rock2,The Rolling Stones,995,10,191
+rock.00095.wav,00:01:41,rock,rock19,Pearl Jam,996,10,197
+rock.00096.wav,00:02:50,rock,rock13,The Clash,997,10,194
+rock.00097.wav,00:02:01,rock,rock0,Fleetwood Mac,998,10,189
+rock.00098.wav,00:01:39,rock,rock3,Chuck Berry,999,10,187
+rock.00099.wav,00:02:24,rock,rock4,Metallica,1000,10,186
